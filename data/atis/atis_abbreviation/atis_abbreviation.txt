@@ -1,0 +1,180 @@
+what does fare code y mean	O O O O B-fare_basis_code O
+what does fare code qx mean	O O O O B-fare_basis_code O
+what is ewr	O O B-airport_code
+what is mco	O O B-airport_code
+what is ff	O O B-airline_code
+what does fare code qo mean	O O O O B-fare_basis_code O
+explain meal codes sd d	O B-meal O B-meal_code I-meal_code
+explain fare code qx	O O O B-fare_basis_code
+what is fare code f	O O O O B-fare_basis_code
+what does code yn mean	O O O B-fare_basis_code O
+what is as	O O B-airline_code
+what is fare code fn	O O O O B-fare_basis_code
+what does restriction ap 57 mean	O O O B-restriction_code I-restriction_code O
+could you tell me what the abbreviation us stands for	O O O O O O O B-airline_code O O
+what does the fare code f mean	O O O O O B-fare_basis_code O
+what is fare code h	O O O O B-fare_basis_code
+what is ewr	O O B-airport_code
+what does dfw mean	O O B-airport_code O
+what is mco	O O B-airport_code
+what does code y mean	O O O B-fare_basis_code O
+does dl stand for delta	O B-airline_code O O B-airline_name
+what does us stand for	O O B-airline_code O O
+what is restriction ap 57	O O O B-restriction_code I-restriction_code
+explain the fare codes	O O O O
+what does iah mean	O O B-airport_code O
+what is fare code f	O O O O B-fare_basis_code
+what does s designate as a meal	O O B-meal_code O O O B-meal
+what is the abbreviation d10	O O O O B-aircraft_code
+what is fare code h	O O O O B-fare_basis_code
+i'd like to see the fare code again qx	O O O O O O O O B-fare_basis_code
+what does the abbreviation dl mean	O O O O B-airline_code O
+what is the code for business class	O O O O O B-class_type I-class_type
+what's the difference between fare code q and fare code b	O O O O O O B-fare_basis_code O O O B-fare_basis_code
+what does d s stand for for meals	O O B-meal_code I-meal_code O O O B-meal
+what does mco stand for	O O B-airport_code O O
+what does ff mean	O O B-airline_code O
+what does fare code qo mean	O O O O B-fare_basis_code O
+what is ua	O O B-airline_code
+what is fare code h	O O O O B-fare_basis_code
+what does ewr mean	O O B-airport_code O
+what is the yn code	O O O B-fare_basis_code O
+what does the fare code f mean	O O O O O B-fare_basis_code O
+explain the fare code q	O O O O B-fare_basis_code
+what does the fare code yn mean	O O O O O B-fare_basis_code O
+what does hou mean	O O B-airport_code O
+what does the fare code qx mean	O O O O O B-fare_basis_code O
+what is fare code h	O O O O B-fare_basis_code
+what is the ap57 restriction	O O O B-restriction_code O
+what does ea mean	O O B-airline_code O
+what does restriction ap 57 mean	O O O B-restriction_code I-restriction_code O
+define airline ua	O O B-airline_code
+code ff	O B-airline_code
+what does fare code qo mean	O O O O B-fare_basis_code O
+what is bur	O O B-airport_code
+what is booking class c	O O O O B-fare_basis_code
+what is mco	O O B-airport_code
+what is the meaning of restriction ap80	O O O O O O B-restriction_code
+what is fare code h	O O O O B-fare_basis_code
+what is ff	O O B-airline_code
+what does ea mean	O O B-airline_code O
+what is restriction ap 57	O O O B-restriction_code I-restriction_code
+what's the difference between fare code q and fare code f	O O O O O O B-fare_basis_code O O O B-fare_basis_code
+describe fare code qx	O O O B-fare_basis_code
+what is ewr	O O B-airport_code
+what is sa	O O B-days_code
+what is ua	O O B-airline_code
+what is hp	O O B-airline_code
+what is fare code h	O O O O B-fare_basis_code
+explain restriction ap please	O O B-restriction_code O
+what does the fare code qw mean	O O O O O B-fare_basis_code O
+what is yyz	O O B-airport_code
+what does ewr mean	O O B-airport_code O
+what is restriction ap 80	O O O B-restriction_code I-restriction_code
+what does fare code qo mean	O O O O B-fare_basis_code O
+what is the abbreviation for canadian airlines international	O O O O O B-airline_name I-airline_name I-airline_name
+what does the fare code y mean	O O O O O B-fare_basis_code O
+explain the restriction ap 57	O O O B-restriction_code I-restriction_code
+what does the fare code f and fn mean	O O O O O B-fare_basis_code O O O
+fare code y what does that mean	O O B-fare_basis_code O O O O
+what does fare code y mean	O O O O B-fare_basis_code O
+what is the meaning of fare code qx and qw	O O O O O O O B-fare_basis_code O B-fare_basis_code
+explain restriction ap 57	O O B-restriction_code I-restriction_code
+what is the meaning of meal code s	O O O O O B-meal_code I-meal_code I-meal_code
+what is restriction ap 55	O O O B-restriction_code I-restriction_code
+what does code y stand for	O O O B-fare_basis_code O O
+what does fare code m mean	O O O O B-fare_basis_code O
+what is fare code qw	O O O O B-fare_basis_code
+please explain fare code f	O O O O B-fare_basis_code
+what is fare code q	O O O O B-fare_basis_code
+what is fare code h	O O O O B-fare_basis_code
+what is the ap 57 restriction	O O O B-restriction_code I-restriction_code O
+define airline us	O O B-airline_code
+what is hp	O O B-airline_code
+what is ewr	O O B-airport_code
+what does fn under fare code mean	O O B-fare_basis_code O O O O
+is fare code b the same as business class	O O O B-fare_basis_code O B-mod O B-class_type I-class_type
+what is the fare code y and what is the fare code h	O O O O O B-fare_basis_code O O O O O O B-fare_basis_code
+what does y mean	O O B-fare_basis_code O
+what does ls stand for	O O B-meal_code O O
+what does us mean	O O B-airline_code O
+what does mco stand for	O O B-airport_code O O
+what does ap57 mean	O O B-restriction_code O
+what does ua stand for	O O B-airline_code O O
+what are fare codes qw and qx	O O O O B-fare_basis_code O B-fare_basis_code
+what is dl	O O B-airline_code
+what does restriction ap 57 mean	O O O B-restriction_code I-restriction_code O
+explain restriction ap80	O O B-restriction_code
+what does the abbreviation ua mean	O O O O B-airline_code O
+does dl stand for delta	O B-airline_code O O B-airline_name
+what does restriction ap 57	O O O B-restriction_code I-restriction_code
+what is restriction ap 57	O O O B-restriction_code I-restriction_code
+what does us mean	O O B-airline_code O
+what is fare code h	O O O O B-fare_basis_code
+what is ord	O O B-airport_code
+what is mia	O O B-airport_code
+what does co mean	O O B-airline_code O
+what is ewr	O O B-airport_code
+what is bna	O O B-airport_code
+what does the meal code s stand for	O O O B-meal O B-meal_code O O
+what is fare code qo mean	O O O O B-fare_basis_code O
+what does ewr mean	O O B-airport_code O
+what does fare code qx mean	O O O O B-fare_basis_code O
+what is the yn code	O O O B-fare_basis_code O
+what does restriction ap 80 mean	O O O B-restriction_code I-restriction_code O
+what is sa	O O B-days_code
+show me what fare codes symbols stand for	O O O O O O O O
+what is hp	O O B-airline_code
+what does ord mean	O O B-airport_code O
+what does nw stand for	O O B-airline_code O O
+what is fare code m	O O O O B-fare_basis_code
+what does the abbreviation co mean	O O O O B-airline_code O
+what does lax stand for	O O B-airport_code O O
+what does yn stand for	O O B-fare_basis_code O O
+what fare codes cover flights from philadelphia to san francisco	O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what does ewr stand for	O O B-airport_code O O
+what is fare code c	O O O O B-fare_basis_code
+what is fare code y mean	O O O O B-fare_basis_code O
+what does fare code q mean	O O O O B-fare_basis_code O
+what is sa	O O B-days_code
+what does fare code qo mean	O O O O B-fare_basis_code O
+what does mco mean	O O B-airport_code O
+what is fare class h	O O O O B-fare_basis_code
+what's fare code yn	O O O B-fare_basis_code
+what does fare code qw mean	O O O O B-fare_basis_code O
+what is fare code f	O O O O B-fare_basis_code
+explain the restriction ap 80	O O O B-restriction_code I-restriction_code
+what does code qw mean	O O O B-fare_basis_code O
+what is meal code sb	O O O O B-meal_code
+what is fare code m	O O O O B-fare_basis_code
+what is fare code f	O O O O B-fare_basis_code
+what does hp stand for	O O B-airline_code O O
+what does fare code bn mean	O O O O B-fare_basis_code O
+what does ua mean	O O B-airline_code O
+what does q mean	O O B-fare_basis_code O
+what does m mean	O O B-fare_basis_code O
+what does ap 57 mean	O O B-restriction_code I-restriction_code O
+what does ap 20 mean	O O B-restriction_code I-restriction_code O
+what is phl	O O B-airport_code
+what is mci	O O B-airport_code
+what does not sa mean	O O B-mod B-days_code O
+what is tpa	O O B-airport_code
+what does fare code qo mean	O O O O B-fare_basis_code O
+what the abbreviation us stand for	O O O B-airline_code O O
+what does fare code f mean	O O O O B-fare_basis_code O
+what does fare code h mean	O O O O B-fare_basis_code O
+what does fare code y mean	O O O O B-fare_basis_code O
+what are restrictions ap 57	O O O B-restriction_code I-restriction_code
+what does fare code bh mean	O O O O B-fare_basis_code O
+what does fare code bh mean	O O O O B-fare_basis_code O
+what does fare code bh mean	O O O O B-fare_basis_code O
+what does fare code bh mean	O O O O B-fare_basis_code O
+what does fare code bh mean	O O O O B-fare_basis_code O
+what does fare code f mean	O O O O B-fare_basis_code O
+what does the restriction ap58 mean	O O O O B-restriction_code O
+what does fare code h mean	O O O O B-fare_basis_code O
+what class is fare code q	O O O O O B-booking_class
+what is a d9s	O O O B-aircraft_code
+what is a d9s	O O O B-aircraft_code
+what is 73s	O O B-aircraft_code
+what is cvg	O O B-airport_code

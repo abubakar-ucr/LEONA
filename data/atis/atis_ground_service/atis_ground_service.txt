@@ -1,0 +1,291 @@
+what types of ground transportation are there to san francisco airport	O O O O O O O O B-toloc.airport_name I-toloc.airport_name I-toloc.airport_name
+show me ground transportation in boston and in baltimore	O O O O O B-city_name O O B-city_name
+ground transportation in phoenix	O O O B-city_name
+ground transportation in oakland	O O O B-city_name
+show me ground transportation information for san francisco	O O O O O O B-city_name I-city_name
+what ground transportation is there in atlanta	O O O O O O B-city_name
+what kind of ground transportation is there once i get to dallas	O O O O O O O O O O O B-city_name
+what kind of ground transportation is available in denver	O O O O O O O O B-city_name
+what kinds of ground transportation is available in dallas fort worth	O O O O O O O O B-city_name I-city_name I-city_name
+what are the ground transportation services in philadelphia	O O O O O O O B-city_name
+ground transportation washington	O O B-city_name
+is there ground transportation from the atlanta airport to downtown atlanta	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+what ground transportation is available in newark	O O O O O O B-city_name
+in denver what kind of ground transportation is there from the airport to downtown	O B-city_name O O O O O O O O O O O O
+show me about the ground transportation in boston	O O O O O O O B-city_name
+ground transportation in baltimore	O O O B-city_name
+show me all ground transportation in washington dc	O O O O O O B-city_name B-state_code
+is there limousine service available at baltimore airport	O O B-transport_type O O O B-airport_name I-airport_name
+can i get a rental car in dallas	O O O O B-transport_type I-transport_type O B-city_name
+tell me about ground transportation at san francisco	O O O O O O B-city_name I-city_name
+information on ground transportation from airport to downtown boston	O O O O O O O O B-toloc.city_name
+is there ground transportation from the milwaukee airport to the downtown area	O O O O O O B-airport_name I-airport_name O O O O
+is there an airport limousine at the atlanta airport	O O O B-transport_type I-transport_type O O B-airport_name I-airport_name
+show me ground transportation information for pittsburgh	O O O O O O B-city_name
+is there transportation from the atlanta airport to downtown atlanta	O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+please give me ground transportation information for denver	O O O O O O O B-city_name
+what ground transport is available in charlotte	O O O O O O B-city_name
+what ground transportation is available in pittsburgh	O O O O O O B-city_name
+what ground transportation is available in san francisco	O O O O O O B-city_name I-city_name
+can i see ground transportation from long beach airport to downtown	O O O O O O B-fromloc.city_name I-fromloc.city_name O O O
+what ground transportation is available in denver	O O O O O O B-city_name
+what ground transportation is available at the atlanta airport	O O O O O O O B-airport_name I-airport_name
+what limousine service in los angeles	O B-transport_type O O B-city_name I-city_name
+ground transportation from airport in boston to downtown boston	O O O O O B-fromloc.city_name O O B-toloc.city_name
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+is there ground transportation from the airport in denver to downtown	O O O O O O O O B-fromloc.city_name O O
+what ground transportation is there in dallas	O O O O O O B-city_name
+and how can i get to the boston airport from downtown boston	O O O O O O O B-toloc.airport_name I-toloc.airport_name O O B-fromloc.city_name
+in atlanta i would like information on ground transportation	O B-city_name O O O O O O O
+what is the ground transportation available in the city of philadelphia	O O O O O O O O O O B-city_name
+how long does the ground transportation take from the salt lake city airport	O O O O O O O O O B-airport_name I-airport_name I-airport_name I-airport_name
+show me ground transportation in dallas please	O O O O O B-city_name O
+show me a list of ground transportation at boston airport	O O O O O O O O B-airport_name I-airport_name
+what ground transportation is available at boston	O O O O O O B-city_name
+is there ground transportation in st. louis	O O O O O B-city_name I-city_name
+what ground transportation is available from pittsburgh to downtown	O O O O O O B-fromloc.city_name O O
+i need ground transportation in dallas please show me what's available	O O O O O B-city_name O O O O O
+is there ground transportation from san diego airport to the downtown area	O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O O O
+list ground transportation options at phoenix	O O O O O B-city_name
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B-city_name B-state_code O O
+please list the rental car information in pittsburgh	O O O B-transport_type I-transport_type O O B-city_name
+i'm looking for ground transportation in dallas	O O O O O O B-city_name
+ground transportation in las vegas	O O O B-city_name I-city_name
+ground transportation please in the city of boston between airport and downtown	O O O O O B-city_name I-city_name I-city_name O O O O
+show me ground transportation in denver	O O O O O B-city_name
+what is the ground transportation in san diego	O O O O O O B-city_name I-city_name
+i would like information on ground transportation in the city of atlanta from airport to downtown	O O O O O O O O O O O B-city_name O O O O
+ground transportation in denver	O O O B-city_name
+what is the ground transportation available in fort worth	O O O O O O O B-city_name I-city_name
+can you find out about the ground transportation available in atlanta	O O O O O O O O O O B-city_name
+please show me ground transportation in denver	O O O O O O B-city_name
+what ground transportation is available into washington	O O O O O O B-city_name
+show me the ground transportation in denver	O O O O O O B-city_name
+please list ground transport in san francisco	O O O O O B-city_name I-city_name
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B-city_name O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+what ground transportation is available in denver	O O O O O O B-city_name
+ground transportation in san jose	O O O B-city_name I-city_name
+show me ground transportation in boston	O O O O O B-city_name
+i would like to find out the ground travel available in atlanta	O O O O O O O O O O O B-city_name
+tell me about ground transportation at toronto	O O O O O O B-city_name
+ground transportation in dallas and boston	O O O B-city_name O B-city_name
+show me ground transport in seattle	O O O O O B-city_name
+are there any limousines or taxi services available at the boston airport	O O O B-transport_type B-or B-transport_type O O O O B-airport_name I-airport_name
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+i will need a car at new york	O O O O B-transport_type O B-city_name I-city_name
+does the phoenix airport have ground transportation to and from downtown	O O B-airport_name I-airport_name O O O O O O O
+what ground transportation is available in baltimore	O O O O O O B-city_name
+ground transportation san francisco	O O B-city_name I-city_name
+what ground transportation is there from the airport in atlanta to downtown	O O O O O O O O O B-fromloc.city_name O O
+show me ground transportation in denver	O O O O O B-city_name
+what do you know about car rental in denver	O O O O O B-transport_type I-transport_type O B-city_name
+what ground transportation is there in oakland	O O O O O O B-city_name
+i'd like to know the ground travel available in fort worth	O O O O O O O O O B-city_name I-city_name
+what kind of ground transportation can you offer me in seattle	O O O O O O O O O O B-city_name
+ground transportation baltimore	O O B-city_name
+what car rentals are available next sunday from denver airport	O B-transport_type I-transport_type O O B-depart_date.date_relative B-depart_date.day_name O B-fromloc.airport_name I-fromloc.airport_name
+ground transportation oakland	O O B-city_name
+show me boston ground transportation	O O B-city_name O O
+ground transportation in westchester county	O O O B-city_name I-city_name
+i would like information on ground transportation city of boston between airport and downtown	O O O O O O O B-city_name I-city_name I-city_name O O O O
+what is the transportation time from the airport to boston	O O O O B-time O O O O B-toloc.city_name
+i need information on ground transportation between airport and downtown in the city of boston	O O O O O O O O O O O O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+i would like to know the types of ground transportation from the airport to las vegas	O O O O O O O O O O O O O O B-city_name I-city_name
+how do i get downtown from the toronto airport	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name
+show me the car rentals in baltimore	O O O B-transport_type I-transport_type O B-city_name
+what is the ground transportation available in boston	O O O O O O O B-city_name
+show me ground transportation for boston	O O O O O B-city_name
+what ground transportation is there from denver	O O O O O O B-city_name
+ground transportation dallas	O O B-city_name
+i'd like a limo in denver on august seventh	O O O B-transport_type O B-fromloc.city_name O B-depart_date.month_name B-depart_date.day_number
+what is ground transportation between the san francisco airport and the city	O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O O
+is there ground transportation from the dallas airport to downtown dallas	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B-city_name O B-today_relative I-today_relative I-today_relative I-today_relative
+what ground transportation is available at denver airport	O O O O O O B-airport_name I-airport_name
+show me information on ground transportation for dallas	O O O O O O O B-city_name
+ground transportation between airport and downtown in boston	O O O O O O O B-toloc.city_name
+tell me about the ground transportation in chicago	O O O O O O O B-city_name
+what ground transport is available in minneapolis	O O O O O O B-city_name
+what is the schedule of ground transportation from the airport in philadelphia into downtown	O O O B-flight_time O O O O O O O B-fromloc.city_name O O
+what is the ground transportation available in fort worth texas	O O O O O O O B-city_name I-city_name B-state_name
+what's the ground transportation like at pittsburgh	O O O O O O B-city_name
+show me ground transportation in washington dc	O O O O O B-city_name B-state_code
+ground transportation for st. paul	O O O B-city_name I-city_name
+describe ground transportation in dallas	O O O O B-city_name
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O O O O O O B-fromloc.city_name O O B-toloc.city_name
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B-transport_type I-transport_type O O B-airport_name I-airport_name O O O O O O
+is there any ground transportation to the city in dallas	O O O O O O O B-city_name I-city_name I-city_name
+what's the ground transportation from oakland to san francisco	O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what ground transportation is available in dallas	O O O O O O B-city_name
+ground transport in oakland	O O O B-city_name
+is there ground transportation between airport and downtown in boston	O O O O O O O O O B-toloc.city_name
+what type of ground transportation is available in washington	O O O O O O O O B-city_name
+can you tell me about ground transportation between the dallas airport and downtown dallas	O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+what ground transportation is available in san francisco	O O O O O O B-city_name I-city_name
+tell me about ground transportation in st. petersburg airport	O O O O O O B-airport_name I-airport_name I-airport_name
+what type of ground transportation is available at logan airport	O O O O O O O O B-airport_name I-airport_name
+show me the ground transportation in the salt lake city airport	O O O O O O O B-airport_name I-airport_name I-airport_name I-airport_name
+ground transportation philadelphia	O O B-city_name
+while i'm in pittsburgh what ground transportation is available	O O O B-city_name O O O O O
+train to newark	B-transport_type O B-city_name
+what does ground transportation look like in oakland	O O O O O O O B-city_name
+show me ground transportation in westchester county	O O O O O B-city_name I-city_name
+is there ground transportation from atlanta airport to downtown atlanta	O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+what kind of ground transportation is there in philadelphia	O O O O O O O O B-city_name
+atlanta ground transportation	B-city_name O O
+what ground transportation is available in dallas tomorrow	O O O O O O B-city_name B-today_relative
+is there ground transportation from the airport to downtown phoenix	O O O O O O O O O B-toloc.city_name
+how do i get to philadelphia downtown from the airport	O O O O O B-toloc.city_name O O O O
+what ground transportation is there in denver	O O O O O O B-city_name
+show me a list of ground transportation at denver	O O O O O O O O B-city_name
+i need your help with information on ground transportation from the airport in philadelphia to downtown	O O O O O O O O O O O O O B-fromloc.city_name O O
+show me the ground transportation at denver	O O O O O O B-city_name
+please give ground transportation at denver airport	O O O O O B-airport_name I-airport_name
+what type of ground transportation is available between the airport and downtown san francisco	O O O O O O O O O O O O B-toloc.city_name I-toloc.city_name
+show me the car rentals in baltimore	O O O B-transport_type I-transport_type O B-city_name
+what is the ground transportation from philadelphia airport to the city proper	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O O O
+show me the ground transportation to westchester county	O O O O O O B-city_name I-city_name
+what types of ground transportation are available in denver	O O O O O O O O B-city_name
+dallas ground transportation	B-city_name O O
+what is the available ground transportation between san francisco and downtown	O O O O O O O B-fromloc.city_name I-fromloc.city_name O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B-city_name O O O O O O O O B-period_of_day B-time_relative B-time I-time
+what kind of ground transportation is there in washington dc	O O O O O O O O B-city_name B-state_code
+what ground transportation is available in boston	O O O O O O B-city_name
+i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available	O O O O O O B-city_name O O O O O O O O O O O O O
+what ground transportation is available from the pittsburgh airport to the town	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O O
+show me ground transportation in denver during weekdays	O O O O O B-city_name O O
+what is the ground transportation available in denver	O O O O O O O B-city_name
+in dallas fort worth i would like information on ground transportation	O B-city_name I-city_name I-city_name O O O O O O O
+what limousine service in toronto	O B-transport_type O O B-city_name
+ground transport denver	O O B-city_name
+what sort of ground transportation is there in washington dc	O O O O O O O O B-city_name B-state_code
+i need ground transportation in seattle	O O O O O B-city_name
+train to newark	B-transport_type O B-city_name
+what ground transportation is available in charlotte	O O O O O O B-city_name
+what is the ground transportation from boston airport to boston downtown	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name O
+can i rent a car in san jose too	O O O O B-transport_type O B-city_name I-city_name O
+show me ground transportation in san francisco	O O O O O B-city_name I-city_name
+what ground transportation is available from the pittsburgh airport	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name
+what ground transportation is available in atlanta	O O O O O O B-city_name
+show me ground transportation in baltimore	O O O O O B-city_name
+what about a car rental in denver	O O O B-transport_type I-transport_type O B-city_name
+what ground transportation is available in dallas	O O O O O O B-city_name
+rental car in baltimore	B-transport_type I-transport_type O B-city_name
+show me ground transportation for dallas	O O O O O B-city_name
+i need to get downtown from the denver airport	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name
+what is the available ground transportation between the airport in denver and downtown	O O O O O O O O O O B-fromloc.city_name O O
+ground transportation minneapolis	O O B-city_name
+rental cars in boston	B-transport_type I-transport_type O B-city_name
+what ground transportation is available in san francisco	O O O O O O B-city_name I-city_name
+ground transportation atlanta	O O B-city_name
+what ground transportation is available in boston	O O O O O O B-city_name
+is there ground transportation in boston from the airport	O O O O O B-city_name O O O
+please list ground transportation in atlanta	O O O O O B-city_name
+what transportation is available from the dallas airport to downtown	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O
+what ground transport is available in baltimore	O O O O O O B-city_name
+tell me about ground transportation between orlando international and orlando	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name
+is there limo service at pittsburgh airport	O O B-transport_type O O B-airport_name I-airport_name
+please list available ground transportation in pittsburgh	O O O O O O B-city_name
+what kind of ground transportation is available in las vegas	O O O O O O O O B-city_name I-city_name
+what is the ground transportation between airport and baltimore	O O O O O O O O B-toloc.city_name
+show me dallas ground transport	O O B-city_name O O
+list ground transportation in detroit	O O O O B-city_name
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B-day_name B-month_name B-day_number O B-day_name B-month_name B-day_number O B-city_name I-city_name
+what ground transportation is available at baltimore	O O O O O O B-city_name
+can i have a rental car in houston	O O O O B-transport_type I-transport_type O B-city_name
+can i get a taxi from long beach airport to downtown long beach	O O O O B-transport_type O B-fromloc.city_name I-fromloc.city_name O O O B-fromloc.city_name I-fromloc.city_name
+what ground transportation is available in denver	O O O O O O B-city_name
+what kind of ground transportation is there in denver	O O O O O O O O B-city_name
+in boston is there ground transportation between airport and downtown	O B-city_name O O O O O O O O
+tell me about ground transportation at salt lake city	O O O O O O B-city_name I-city_name I-city_name
+show me a list of rental car fares at boston airport	O O O O O B-transport_type I-transport_type O O B-airport_name I-airport_name
+can you give me information on transportation from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O B-fromloc.city_name O O B-toloc.city_name
+what kind of ground transportation is available in atlanta	O O O O O O O O B-city_name
+ground transport phoenix	O O B-city_name
+show me ground transportation information for dallas fort worth	O O O O O O B-city_name I-city_name I-city_name
+what ground transportation can i take into boston	O O O O O O O B-city_name
+what is the ground transport in denver	O O O O O O B-city_name
+i need information on ground transportation from the airport in atlanta	O O O O O O O O O O B-fromloc.city_name
+ground transportation atl to atlanta	O O B-airport_code O B-toloc.city_name
+show ground transportation for pittsburgh	O O O O B-city_name
+do you have ground transportation between airport and downtown in boston	O O O O O O O O O O B-toloc.city_name
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B-city_name I-city_name O B-day_name B-period_of_day
+is there ground transportation in baltimore	O O O O O B-city_name
+what kind of ground transportation is available in denver	O O O O O O O O B-city_name
+please give grounds transportation at dallas airport	O O O O O B-airport_name I-airport_name
+is there ground transportation from the boston airport to downtown boston	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+is there ground transportation in oakland	O O O O O B-city_name
+how much time does it take to go between the airport and downtown by ground transportation in dallas	O O O O O O O O O O O O O O O O O B-city_name
+ground transport in denver	O O O B-city_name
+ground transportation denver	O O B-city_name
+please give me ground transportation information between dallas fort worth airport and downtown dallas	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+show me the ground transportation in denver	O O O O O O B-city_name
+is there ground transportation available in denver	O O O O O O B-city_name
+is ground transportation available in philadelphia	O O O O O B-city_name
+ground san francisco	O B-city_name I-city_name
+can you rent a car at stapleton international airport in denver	O O O O B-transport_type O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O B-fromloc.city_name
+what ground transportation is available in san francisco	O O O O O O B-city_name I-city_name
+information on ground transportation in denver	O O O O O B-city_name
+tell me about ground transportation between orlando international and orlando	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name
+what types of ground transportation are available in philadelphia	O O O O O O O O B-city_name
+show me ground transportation in philadelphia on monday morning	O O O O O B-city_name O B-day_name B-period_of_day
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B-city_name O O B-period_of_day O B-day_name
+in new york i'll need to rent a car	O B-city_name I-city_name O O O O O B-transport_type
+what ground transportation is available at the boston airport	O O O O O O O B-airport_name I-airport_name
+what type of ground transportation is available at philadelphia airport	O O O O O O O O B-airport_name I-airport_name
+what is the ground transportation available in the city of fort worth	O O O O O O O O O O B-city_name I-city_name
+what ground transportation is available at the baltimore airport	O O O O O O O B-airport_name I-airport_name
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name O
+ground transportation denver	O O B-city_name
+what ground transportation is available in denver	O O O O O O B-city_name
+in pittsburgh i'd like to rent a car	O B-city_name O O O O O B-transport_type
+what limousine service is in boston	O B-transport_type O O O B-city_name
+ground transportation in denver	O O O B-city_name
+show ground transportation in denver	O O O O B-city_name
+rental cars in washington dc	B-transport_type I-transport_type O B-city_name B-state_code
+what kind of ground transportation is there in dallas	O O O O O O O O B-city_name
+what ground transportation is there in atlanta	O O O O O O B-city_name
+i need information for ground transportation denver colorado	O O O O O O B-city_name B-state_name
+what ground transportation is there in atlanta	O O O O O O B-city_name
+ground transportation in denver	O O O B-city_name
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name
+is there a limousine service available from the pittsburgh airport	O O O B-transport_type O O O O B-fromloc.airport_name I-fromloc.airport_name
+boston ground transportation	B-city_name O O
+show me ground transportation in san francisco	O O O O O B-city_name I-city_name
+does tacoma airport offer transportation from the airport to the downtown area	O B-airport_name I-airport_name O O O O O O O O O
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B-airport_name I-airport_name B-city_name I-city_name O O B-city_name
+what's the ground transportation in denver	O O O O O B-city_name
+what's the ground transportation in westchester county	O O O O O B-city_name I-city_name
+now show me ground transportation in houston on monday afternoon	O O O O O O B-city_name O B-day_name B-period_of_day
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B-city_name B-period_of_day B-period_of_day
+i'll need to rent a car in washington dc	O O O O O B-transport_type O B-city_name B-state_code
+i need to rent a car in milwaukee	O O O O O B-transport_type O B-city_name
+what ground transportation is available at denver	O O O O O O B-city_name
+what ground transportation is available from dallas fort worth airport to downtown dallas	O O O O O O B-airport_name I-airport_name I-airport_name I-airport_name O O B-city_name
+what ground transportation is available between phoenix airport and downtown phoenix	O O O O O O B-airport_name I-airport_name O O B-city_name
+what ground transportation is available between pittsburgh airport and downtown pittsburgh	O O O O O O B-airport_name I-airport_name O O B-city_name
+what ground transportation is available between dca and downtown washington	O O O O O O B-airport_code O O B-city_name
+what ground transportation is available between milwaukee airport and downtown milwaukee	O O O O O O B-airport_name I-airport_name O O B-city_name
+please show ground transportation to milwaukee	O O O O O B-city_name
+what types of ground transportation are available in denver	O O O O O O O O B-city_name
+is ground transportation available in st. louis	O O O O O B-city_name I-city_name
+is there ground transportation available at the indianapolis airport	O O O O O O O B-airport_name I-airport_name
+is there ground transportation available at the denver airport	O O O O O O O B-airport_name I-airport_name
+is there ground transportation available at the salt lake city airport	O O O O O O O B-airport_name I-airport_name I-airport_name I-airport_name
+is there ground transportation available at the phoenix airport	O O O O O O O B-airport_name I-airport_name
+i need to rent a car at tampa	O O O O O B-transport_type O B-city_name
+ground transportation in las vegas	O O O B-city_name I-city_name
+ground transportation for las vegas	O O O B-city_name I-city_name
+show me ground transportation in phoenix	O O O O O B-city_name
+show me ground transportation in fort worth	O O O O O B-city_name I-city_name
+what ground transportation is there in baltimore	O O O O O O B-city_name
+list ground transportation in baltimore	O O O O B-city_name
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B-airport_name I-airport_name O O O O O O O O O O B-period_of_day
+what ground transportation is available from la guardia airport into new york city	O O O O O O B-airport_name I-airport_name I-airport_name O B-city_name I-city_name I-city_name
+is there ground transportation from lga into new york city	O O O O O B-airport_code O B-city_name I-city_name I-city_name
+please list the ground transportation from lga into new york city	O O O O O O B-airport_code O B-city_name I-city_name I-city_name
+please list ground transportation from ewr into new york city	O O O O O B-airport_code O B-city_name I-city_name I-city_name
+tell me about the ground transportation from nashville airport	O O O O O O O B-airport_name I-airport_name
+what type of ground transportation is there at the las vegas airport	O O O O O O O O O B-airport_name I-airport_name I-airport_name
+is there taxi service at the ontario airport	O O B-transport_type I-transport_type O O B-airport_name I-airport_name

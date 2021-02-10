@@ -1,0 +1,792 @@
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	fromloc city name	O O O O B O O O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	toloc city name	O O O O O O B O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	toloc state code	O O O O O O O B O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	connect	O O O O O O O O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	stoploc city name	O O O O O O O O O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B O B B O O O O O O	fromloc city name	O O O O B O O O O O O O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B O B B O O O O O O	toloc city name	O O O O O O B O O O O O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B O B B O O O O O O	toloc state code	O O O O O O O B O O O O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B O B B O O O O O O	round trip	O O O O O O O O O O O O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B O B B O O O O O O	flight number	O O O O O O O O O O O O O O
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	fromloc city name	O O O O B I O O O O B O O
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	toloc city name	O O O O O O O B O O O O B
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	fromloc city name	O O O O B I O O O O B O O
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	toloc city name	O O O O O O O B O O O O B
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	aircraft code	O O O O O O O O O O O O O
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B I O B O O B O B	city name	O O O O O O O O O O O O O
+could you please tell me the airlines that fly from toronto to san diego	O O O O O O O O O O B O B I	fromloc city name	O O O O O O O O O O B O O O
+could you please tell me the airlines that fly from toronto to san diego	O O O O O O O O O O B O B I	toloc city name	O O O O O O O O O O O O B I
+could you please tell me the airlines that fly from toronto to san diego	O O O O O O O O O O B O B I	toloc airport name	O O O O O O O O O O O O O O
+could you please tell me the airlines that fly from toronto to san diego	O O O O O O O O O O B O B I	airline code	O O O O O O O O O O O O O O
+does any airline have a jet flight between pittsburgh and baltimore	O O O O O O O O B O B	fromloc city name	O O O O O O O O B O O
+does any airline have a jet flight between pittsburgh and baltimore	O O O O O O O O B O B	toloc city name	O O O O O O O O O O B
+does any airline have a jet flight between pittsburgh and baltimore	O O O O O O O O B O B	connect	O O O O O O O O O O O
+does any airline have a jet flight between pittsburgh and baltimore	O O O O O O O O B O B	depart time end time	O O O O O O O O O O O
+what airlines are there	O O O O	arrive_time.time	O O O O
+is there an airline that advertises having more flights than any other airline	O O O O O O O B O O O O O	mod	O O O O O O O B O O O O O
+is there an airline that advertises having more flights than any other airline	O O O O O O O B O O O O O	flight stop	O O O O O O O O O O O O O
+is there an airline that advertises having more flights than any other airline	O O O O O O O B O O O O O	connect	O O O O O O O O O O O O O
+what airlines fly between boston and atlanta	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly between boston and atlanta	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly between boston and atlanta	O O O O B O B	class type	O O O O O O O
+what airlines fly between boston and atlanta	O O O O B O B	depart date month name	O O O O O O O
+show me the airlines that fly from san francisco to boston	O O O O O O O B I O B	fromloc city name	O O O O O O O B I O O
+show me the airlines that fly from san francisco to boston	O O O O O O O B I O B	toloc city name	O O O O O O O O O O B
+show me the airlines that fly from san francisco to boston	O O O O O O O B I O B	airline name	O O O O O O O O O O O
+show me the airlines that fly from san francisco to boston	O O O O O O O B I O B	flight days	O O O O O O O O O O O
+what airlines flies out of atlanta	O O O O O B	fromloc city name	O O O O O B
+what airlines flies out of atlanta	O O O O O B	connect	O O O O O O
+what airlines flies out of atlanta	O O O O O B	depart date today relative	O O O O O O
+show all airlines flying from pittsburgh to san francisco	O O O O O B O B I	fromloc city name	O O O O O B O O O
+show all airlines flying from pittsburgh to san francisco	O O O O O B O B I	toloc city name	O O O O O O O B I
+show all airlines flying from pittsburgh to san francisco	O O O O O B O B I	toloc airport name	O O O O O O O O O
+show all airlines flying from pittsburgh to san francisco	O O O O O B O B I	fromloc state code	O O O O O O O O O
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	fromloc city name	O O O O O B O O O O O O O O O O O
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	toloc city name	O O O O O O O O B O O O O B I O O
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	toloc city name	O O O O O O O O B O O O O B I O O
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	depart date day name	O O O O O O O O O O O O O O O O B
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	arrive date month name	O O O O O O O O O O O O O O O O O
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B O O B O O O O B I O B	mod	O O O O O O O O O O O O O O O O O
+which airlines have first class flights today	O O O B I O B	class type	O O O B I O O
+which airlines have first class flights today	O O O B I O B	depart date today relative	O O O O O O B
+which airlines have first class flights today	O O O B I O B	depart date date relative	O O O O O O O
+which airlines have first class flights today	O O O B I O B	cost relative	O O O O O O O
+what airlines fly from boston to san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly from boston to san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly from boston to san francisco	O O O O B O B I	round trip	O O O O O O O O
+what airlines fly from boston to san francisco	O O O O B O B I	arrive date day number	O O O O O O O O
+can you list all the airlines that have flights from boston to san francisco	O O O O O O O O O O B O B I	fromloc city name	O O O O O O O O O O B O O O
+can you list all the airlines that have flights from boston to san francisco	O O O O O O O O O O B O B I	toloc city name	O O O O O O O O O O O O B I
+can you list all the airlines that have flights from boston to san francisco	O O O O O O O O O O B O B I	fromloc airport name	O O O O O O O O O O O O O O
+can you list all the airlines that have flights from boston to san francisco	O O O O O O O O O O B O B I	arrive time time	O O O O O O O O O O O O O O
+which airlines fly from boston to washington dc	O O O O B O B B	fromloc city name	O O O O B O O O
+which airlines fly from boston to washington dc	O O O O B O B B	toloc city name	O O O O O O B O
+which airlines fly from boston to washington dc	O O O O B O B B	toloc state code	O O O O O O O B
+which airlines fly from boston to washington dc	O O O O B O B B	class type	O O O O O O O O
+which airlines fly from boston to washington dc	O O O O B O B B	arrive time time	O O O O O O O O
+what airlines fly from new york to milwaukee to los angeles	O O O O B I O B O B I	fromloc city name	O O O O B I O O O O O
+what airlines fly from new york to milwaukee to los angeles	O O O O B I O B O B I	stoploc city name	O O O O O O O B O O O
+what airlines fly from new york to milwaukee to los angeles	O O O O B I O B O B I	toloc city name	O O O O O O O O O B I
+what airlines fly from new york to milwaukee to los angeles	O O O O B I O B O B I	city name	O O O O O O O O O O O
+what airlines fly from new york to milwaukee to los angeles	O O O O B I O B O B I	arrive date month name	O O O O O O O O O O O
+show me the airlines	O O O O	depart_date.today_relative	O O O O
+show me the airlines that fly from denver to san francisco	O O O O O O O B O B I	fromloc city name	O O O O O O O B O O O
+show me the airlines that fly from denver to san francisco	O O O O O O O B O B I	toloc city name	O O O O O O O O O B I
+show me the airlines that fly from denver to san francisco	O O O O O O O B O B I	depart date month name	O O O O O O O O O O O
+show me the airlines that fly from denver to san francisco	O O O O O O O B O B I	flight number	O O O O O O O O O O O
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B O B I O O O O O B	fromloc city name	O O O O B O O O O O O O O O
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B O B I O O O O O B	toloc city name	O O O O O O B I O O O O O O
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B O B I O O O O O B	stoploc city name	O O O O O O O O O O O O O B
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B O B I O O O O O B	class type	O O O O O O O O O O O O O O
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B O B I O O O O O B	arrive time time	O O O O O O O O O O O O O O
+show me airlines with flights from pittsburgh to boston please	O O O O O O B O B O	fromloc city name	O O O O O O B O O O
+show me airlines with flights from pittsburgh to boston please	O O O O O O B O B O	toloc city name	O O O O O O O O B O
+show me airlines with flights from pittsburgh to boston please	O O O O O O B O B O	arrive date month name	O O O O O O O O O O
+show me airlines with flights from pittsburgh to boston please	O O O O O O B O B O	depart time time relative	O O O O O O O O O O
+does any airline offer dc10 service between denver and boston	O O O O B O O B O B	aircraft code	O O O O B O O O O O
+does any airline offer dc10 service between denver and boston	O O O O B O O B O B	fromloc city name	O O O O O O O B O O
+does any airline offer dc10 service between denver and boston	O O O O B O O B O B	toloc city name	O O O O O O O O O B
+does any airline offer dc10 service between denver and boston	O O O O B O O B O B	toloc state code	O O O O O O O O O O
+does any airline offer dc10 service between denver and boston	O O O O B O O B O B	airport name	O O O O O O O O O O
+which airlines are represented in the database	O O O O O O O	airline_name	O O O O O O O
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B O B O B	fromloc city name	O O O O O O O B O O O O
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B O B O B	toloc city name	O O O O O O O O O B O O
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B O B O B	stoploc city name	O O O O O O O O O O O B
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B O B O B	depart date today relative	O O O O O O O O O O O O
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B O B O B	mod	O O O O O O O O O O O O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	mod	O O O O B O O O O O O O O O O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	fromloc city name	O O O O O O O B O O O O O O O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	toloc city name	O O O O O O O O O O O B O O O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	arrive date month name	O O O O O O O O O O O O O B O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	arrive date day number	O O O O O O O O O O O O O O B
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	fromloc airport code	O O O O O O O O O O O O O O O
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B O O B O O O B O B B	depart date day number	O O O O O O O O O O O O O O O
+list all the airlines that fly into general mitchell international	O O O O O O O B I I	toloc airport name	O O O O O O O B I I
+list all the airlines that fly into general mitchell international	O O O O O O O B I I	fromloc city name	O O O O O O O O O O
+list all the airlines that fly into general mitchell international	O O O O O O O B I I	depart date date relative	O O O O O O O O O O
+is there an airline that services boston dc and dallas	O O O O O O B B O B	fromloc city name	O O O O O O B O O B
+is there an airline that services boston dc and dallas	O O O O O O B B O B	fromloc state code	O O O O O O O B O O
+is there an airline that services boston dc and dallas	O O O O O O B B O B	fromloc city name	O O O O O O B O O B
+is there an airline that services boston dc and dallas	O O O O O O B B O B	arrive time time	O O O O O O O O O O
+is there an airline that services boston dc and dallas	O O O O O O B B O B	depart time period of day	O O O O O O O O O O
+show me airline abbreviations	O O O O	depart_date.date_relative	O O O O
+which airlines have flights from denver to pittsburgh	O O O O O B O B	fromloc city name	O O O O O B O O
+which airlines have flights from denver to pittsburgh	O O O O O B O B	toloc city name	O O O O O O O B
+which airlines have flights from denver to pittsburgh	O O O O O B O B	depart date today relative	O O O O O O O O
+which airlines have flights from denver to pittsburgh	O O O O O B O B	depart time start time	O O O O O O O O
+what airlines fly between san francisco and denver	O O O O B I O B	fromloc city name	O O O O B I O O
+what airlines fly between san francisco and denver	O O O O B I O B	toloc city name	O O O O O O O B
+what airlines fly between san francisco and denver	O O O O B I O B	toloc state code	O O O O O O O O
+what airlines fly between san francisco and denver	O O O O B I O B	fromloc state code	O O O O O O O O
+does any airline have an afternoon flight from atlanta to boston	O O O O O B O O B O B	depart time period of day	O O O O O B O O O O O
+does any airline have an afternoon flight from atlanta to boston	O O O O O B O O B O B	fromloc city name	O O O O O O O O B O O
+does any airline have an afternoon flight from atlanta to boston	O O O O O B O O B O B	toloc city name	O O O O O O O O O O B
+does any airline have an afternoon flight from atlanta to boston	O O O O O B O O B O B	fromloc state code	O O O O O O O O O O O
+does any airline have an afternoon flight from atlanta to boston	O O O O O B O O B O B	mod	O O O O O O O O O O O
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B O B O B I	fromloc city name	O O O O O O B O O O O O
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B O B O B I	toloc city name	O O O O O O O O B O B I
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B O B O B I	toloc city name	O O O O O O O O B O B I
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B O B O B I	depart date day number	O O O O O O O O O O O O
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B O B O B I	arrive time period of day	O O O O O O O O O O O O
+show me airlines between boston and san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+show me airlines between boston and san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+show me airlines between boston and san francisco	O O O O B O B I	depart time end time	O O O O O O O O
+show me airlines between boston and san francisco	O O O O B O B I	flight stop	O O O O O O O O
+show me the airlines that fly between toronto and denver	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+show me the airlines that fly between toronto and denver	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+show me the airlines that fly between toronto and denver	O O O O O O O B O B	depart time time	O O O O O O O O O O
+show me the airlines that fly between toronto and denver	O O O O O O O B O B	arrive date month name	O O O O O O O O O O
+what airlines fly between atlanta and san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly between atlanta and san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly between atlanta and san francisco	O O O O B O B I	depart date month name	O O O O O O O O
+what airlines fly between atlanta and san francisco	O O O O B O B I	round trip	O O O O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	airline code	O O O O O O B O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	flight number	O O O O O O O B O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	fromloc city name	O O O O O O O O O B O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	toloc city name	O O O O O O O O O O O B
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	depart time period of day	O O O O O O O O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	airline name	O O O O O O O O O O O O
+what airline is ac	O O O B	airline code	O O O B
+what airline is ac	O O O B	depart time period of day	O O O O
+what airline is ac	O O O B	flight days	O O O O
+which airlines fly between baltimore and san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+which airlines fly between baltimore and san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+which airlines fly between baltimore and san francisco	O O O O B O B I	round trip	O O O O O O O O
+which airlines fly between baltimore and san francisco	O O O O B O B I	depart date today relative	O O O O O O O O
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B O O O O B O B I	stoploc city name	O O O O O O O O O B O O O O O O O O
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B O O O O B O B I	fromloc city name	O O O O O O O O O O O O O O B O O O
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B O O O O B O B I	toloc city name	O O O O O O O O O O O O O O O O B I
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B O O O O B O B I	airline code	O O O O O O O O O O O O O O O O O O
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B O O O O B O B I	depart date day number	O O O O O O O O O O O O O O O O O O
+please show me airlines with flights from denver to philadelphia	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+please show me airlines with flights from denver to philadelphia	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+please show me airlines with flights from denver to philadelphia	O O O O O O O B O B	arrive time period of day	O O O O O O O O O O
+please show me airlines with flights from denver to philadelphia	O O O O O O O B O B	city name	O O O O O O O O O O
+what airline stands for hp	O O O O B	airline code	O O O O B
+what airline stands for hp	O O O O B	cost relative	O O O O O
+what airline stands for hp	O O O O B	connect	O O O O O
+what airlines fly from boston to washington	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to washington	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to washington	O O O O B O B	round trip	O O O O O O O
+what airlines fly from boston to washington	O O O O B O B	depart date date relative	O O O O O O O
+what airlines have business class service between boston and san francisco	O O O B I O O B O B I	class type	O O O B I O O O O O O
+what airlines have business class service between boston and san francisco	O O O B I O O B O B I	fromloc city name	O O O O O O O B O O O
+what airlines have business class service between boston and san francisco	O O O B I O O B O B I	toloc city name	O O O O O O O O O B I
+what airlines have business class service between boston and san francisco	O O O B I O O B O B I	depart date day number	O O O O O O O O O O O
+what airlines have business class service between boston and san francisco	O O O B I O O B O B I	depart date month name	O O O O O O O O O O O
+please show me airlines with flights from boston to denver	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+please show me airlines with flights from boston to denver	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+please show me airlines with flights from boston to denver	O O O O O O O B O B	flight days	O O O O O O O O O O
+please show me airlines with flights from boston to denver	O O O O O O O B O B	airport name	O O O O O O O O O O
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B O B I O O O O B	fromloc city name	O O O O O O O O O B O O O O O O O O
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B O B I O O O O B	toloc city name	O O O O O O O O O O O B I O O O O O
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B O B I O O O O B	stoploc city name	O O O O O O O O O O O O O O O O O B
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B O B I O O O O B	depart date date relative	O O O O O O O O O O O O O O O O O O
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B O B I O O O O B	arrive time time	O O O O O O O O O O O O O O O O O O
+show me the airlines between boston and denver	O O O O O B O B	fromloc city name	O O O O O B O O
+show me the airlines between boston and denver	O O O O O B O B	toloc city name	O O O O O O O B
+show me the airlines between boston and denver	O O O O O B O B	flight days	O O O O O O O O
+show me the airlines between boston and denver	O O O O O B O B	flight number	O O O O O O O O
+what airline is ea the abbreviation for	O O O B O O O	airline code	O O O B O O O
+what airline is ea the abbreviation for	O O O B O O O	airport name	O O O O O O O
+what airline is ea the abbreviation for	O O O B O O O	arrive date day number	O O O O O O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	fromloc city name	O O O O O B O O O O O O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	toloc city name	O O O O O O O B O O O O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	depart time time relative	O O O O O O O O O O B O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	depart time time	O O O O O O O O O O O B I
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	depart time period of day	O O O O O O O O O O O O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B O B O O B B I	depart date month name	O O O O O O O O O O O O O
+what airlines fly from philadelphia to san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly from philadelphia to san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly from philadelphia to san francisco	O O O O B O B I	toloc airport name	O O O O O O O O
+what airlines fly from philadelphia to san francisco	O O O O B O B I	aircraft code	O O O O O O O O
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	fromloc city name	O O O O O O O O B O O O B O O O O B O O
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	toloc city name	O O O O O O O O O O B O O O B O O O O B
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	fromloc city name	O O O O O O O O B O O O B O O O O B O O
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	toloc city name	O O O O O O O O O O B O O O B O O O O B
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	fromloc city name	O O O O O O O O B O O O B O O O O B O O
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	toloc city name	O O O O O O O O O O B O O O B O O O O B
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	fromloc airport code	O O O O O O O O O O O O O O O O O O O O
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B O B O B O B O O B O B	depart time period of day	O O O O O O O O O O O O O O O O O O O O
+what airlines fly between boston and san francisco and stop in denver	O O O O B O B I O O O B	fromloc city name	O O O O B O O O O O O O
+what airlines fly between boston and san francisco and stop in denver	O O O O B O B I O O O B	toloc city name	O O O O O O B I O O O O
+what airlines fly between boston and san francisco and stop in denver	O O O O B O B I O O O B	stoploc city name	O O O O O O O O O O O B
+what airlines fly between boston and san francisco and stop in denver	O O O O B O B I O O O B	toloc state code	O O O O O O O O O O O O
+what airlines fly between boston and san francisco and stop in denver	O O O O B O B I O O O B	cost relative	O O O O O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	fromloc city name	O O O O O O O B O O O O O O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	depart date month name	O O O O O O O O O B O O O O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	depart date day number	O O O O O O O O O O B O O O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	depart time time	O O O O O O O O O O O O B O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	toloc city name	O O O O O O O O O O O O O O O O B I O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	arrive time time	O O O O O O O O O O O O O O O O O O O B I
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	flight number	O O O O O O O O O O O O O O O O O O O O O
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B O B B O B O O O B I O B I	airline name	O O O O O O O O O O O O O O O O O O O O O
+which airlines fly between boston and pittsburgh	O O O O B O B	fromloc city name	O O O O B O O
+which airlines fly between boston and pittsburgh	O O O O B O B	toloc city name	O O O O O O B
+which airlines fly between boston and pittsburgh	O O O O B O B	flight number	O O O O O O O
+which airlines fly between boston and pittsburgh	O O O O B O B	round trip	O O O O O O O
+show me the airlines that fly from toronto to san francisco	O O O O O O O B O B I	fromloc city name	O O O O O O O B O O O
+show me the airlines that fly from toronto to san francisco	O O O O O O O B O B I	toloc city name	O O O O O O O O O B I
+show me the airlines that fly from toronto to san francisco	O O O O O O O B O B I	fromloc state code	O O O O O O O O O O O
+show me the airlines that fly from toronto to san francisco	O O O O O O O B O B I	stoploc city name	O O O O O O O O O O O
+show me a list of all the airlines that offer business class service	O O O O O O O O O O B I O	class type	O O O O O O O O O O B I O
+show me a list of all the airlines that offer business class service	O O O O O O O O O O B I O	round trip	O O O O O O O O O O O O O
+show me a list of all the airlines that offer business class service	O O O O O O O O O O B I O	depart time time	O O O O O O O O O O O O O
+what airlines fly from dallas to baltimore	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from dallas to baltimore	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from dallas to baltimore	O O O O B O B	toloc state code	O O O O O O O
+what airlines fly from dallas to baltimore	O O O O B O B	fromloc airport name	O O O O O O O
+define airline hp	O O B	airline code	O O B
+define airline hp	O O B	toloc airport name	O O O
+define airline hp	O O B	depart time end time	O O O
+what is airline us	O O O B	airline code	O O O B
+what is airline us	O O O B	flight number	O O O O
+what is airline us	O O O B	flight stop	O O O O
+which airlines have flights between charlotte and newark	O O O O O B O B	fromloc city name	O O O O O B O O
+which airlines have flights between charlotte and newark	O O O O O B O B	toloc city name	O O O O O O O B
+which airlines have flights between charlotte and newark	O O O O O B O B	airline name	O O O O O O O O
+which airlines have flights between charlotte and newark	O O O O O B O B	arrive date month name	O O O O O O O O
+which airlines serve pittsburgh	O O O B	city name	O O O B
+which airlines serve pittsburgh	O O O B	airline name	O O O O
+which airlines serve pittsburgh	O O O B	stoploc city name	O O O O
+what airlines from washington dc to columbus	O O O B B O B	fromloc city name	O O O B O O O
+what airlines from washington dc to columbus	O O O B B O B	fromloc state code	O O O O B O O
+what airlines from washington dc to columbus	O O O B B O B	toloc city name	O O O O O O B
+what airlines from washington dc to columbus	O O O B B O B	round trip	O O O O O O O
+what airlines from washington dc to columbus	O O O B B O B	depart date date relative	O O O O O O O
+which airlines fly from boston to washington	O O O O B O B	fromloc city name	O O O O B O O
+which airlines fly from boston to washington	O O O O B O B	toloc city name	O O O O O O B
+which airlines fly from boston to washington	O O O O B O B	round trip	O O O O O O O
+which airlines fly from boston to washington	O O O O B O B	arrive time time	O O O O O O O
+which airline has more business class flights than any other airline	O O O B B I O O O O O	mod	O O O B O O O O O O O
+which airline has more business class flights than any other airline	O O O B B I O O O O O	class type	O O O O B I O O O O O
+which airline has more business class flights than any other airline	O O O B B I O O O O O	arrive time period of day	O O O O O O O O O O O
+which airline has more business class flights than any other airline	O O O B B I O O O O O	arrive date day number	O O O O O O O O O O O
+which airlines have first class flights today	O O O B I O B	class type	O O O B I O O
+which airlines have first class flights today	O O O B I O B	depart date today relative	O O O O O O B
+which airlines have first class flights today	O O O B I O B	round trip	O O O O O O O
+which airlines have first class flights today	O O O B I O B	cost relative	O O O O O O O
+what airlines service pittsburgh airport	O O O B I	airport name	O O O B I
+what airlines service pittsburgh airport	O O O B I	aircraft code	O O O O O
+what airlines service pittsburgh airport	O O O B I	toloc state name	O O O O O
+which airline has the most arrivals in atlanta	O O O O B O O B	mod	O O O O B O O O
+which airline has the most arrivals in atlanta	O O O O B O O B	toloc city name	O O O O O O O B
+which airline has the most arrivals in atlanta	O O O O B O O B	arrive date day number	O O O O O O O O
+which airline has the most arrivals in atlanta	O O O O B O O B	flight stop	O O O O O O O O
+show me the airlines between toronto and denver	O O O O O B O B	fromloc city name	O O O O O B O O
+show me the airlines between toronto and denver	O O O O O B O B	toloc city name	O O O O O O O B
+show me the airlines between toronto and denver	O O O O O B O B	arrive time time	O O O O O O O O
+show me the airlines between toronto and denver	O O O O O B O B	depart time start time	O O O O O O O O
+what airlines leave from washington	O O O O B	fromloc city name	O O O O B
+what airlines leave from washington	O O O O B	cost relative	O O O O O
+what airlines leave from washington	O O O O B	arrive date month name	O O O O O
+which airlines fly into and out of denver	O O O O O O O B	city name	O O O O O O O B
+which airlines fly into and out of denver	O O O O O O O B	depart time end time	O O O O O O O O
+which airlines fly into and out of denver	O O O O O O O B	flight stop	O O O O O O O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	flight stop	O O O B O O O O O O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	depart time period of day	O O O O B O O O O O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	arrive time period of day	O O O O O B O O O O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	fromloc city name	O O O O O O O O B O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	toloc city name	O O O O O O O O O O B
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	airport name	O O O O O O O O O O O
+what airlines have nonstop early afternoon flights from boston to denver	O O O B B B O O B O B	stoploc city name	O O O O O O O O O O O
+show me the names of airlines in atlanta	O O O O O O O B	city name	O O O O O O O B
+show me the names of airlines in atlanta	O O O O O O O B	airport name	O O O O O O O O
+show me the names of airlines in atlanta	O O O O O O O B	round trip	O O O O O O O O
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B I O B O O O B	fromloc city name	O O O O O B I O O O O O O
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B I O B O O O B	toloc city name	O O O O O O O O B O O O O
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B I O B O O O B	stoploc city name	O O O O O O O O O O O O B
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B I O B O O O B	depart time start time	O O O O O O O O O O O O O
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B I O B O O O B	class type	O O O O O O O O O O O O O
+which airlines fly between boston and pittsburgh	O O O O B O B	fromloc city name	O O O O B O O
+which airlines fly between boston and pittsburgh	O O O O B O B	toloc city name	O O O O O O B
+which airlines fly between boston and pittsburgh	O O O O B O B	class type	O O O O O O O
+which airlines fly between boston and pittsburgh	O O O O B O B	depart time period of day	O O O O O O O
+what airlines go to pittsburgh	O O O O B	toloc city name	O O O O B
+what airlines go to pittsburgh	O O O O B	arrive time time	O O O O O
+what airlines go to pittsburgh	O O O O B	airline name	O O O O O
+give me a list of airlines in pittsburgh	O O O O O O O B	city name	O O O O O O O B
+give me a list of airlines in pittsburgh	O O O O O O O B	flight days	O O O O O O O O
+give me a list of airlines in pittsburgh	O O O O O O O B	aircraft code	O O O O O O O O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	fromloc city name	O O O O O O O B O O O O O O O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	toloc city name	O O O O O O O O O B I O O O O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	depart date day name	O O O O O O O O O O O O B O O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	depart date month name	O O O O O O O O O O O O O B O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	depart date day number	O O O O O O O O O O O O O O B
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	fromloc state code	O O O O O O O O O O O O O O O
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B O B I O B B B	flight days	O O O O O O O O O O O O O O O
+which airlines serve denver	O O O B	city name	O O O B
+which airlines serve denver	O O O B	toloc state code	O O O O
+which airlines serve denver	O O O B	depart time time	O O O O
+what airlines fly from boston to atlanta	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to atlanta	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to atlanta	O O O O B O B	toloc airport name	O O O O O O O
+what airlines fly from boston to atlanta	O O O O B O B	arrive time period of day	O O O O O O O
+airlines that fly to miami from new york on friday	O O O O B O B I O B	toloc city name	O O O O B O O O O O
+airlines that fly to miami from new york on friday	O O O O B O B I O B	fromloc city name	O O O O O O B I O O
+airlines that fly to miami from new york on friday	O O O O B O B I O B	depart date day name	O O O O O O O O O B
+airlines that fly to miami from new york on friday	O O O O B O B I O B	arrive date month name	O O O O O O O O O O
+airlines that fly to miami from new york on friday	O O O O B O B I O B	toloc airport name	O O O O O O O O O O
+do the airlines still offer first class	O O O O O B I	class type	O O O O O B I
+do the airlines still offer first class	O O O O O B I	arrive time time	O O O O O O O
+do the airlines still offer first class	O O O O O B I	toloc city name	O O O O O O O
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	flight stop	O O O O O B O O O O O O
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	arrive time period of day	O O O O O O B O O O O O
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	fromloc city name	O O O O O O O O O B O O
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	toloc city name	O O O O O O O O O O O B
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	depart date today relative	O O O O O O O O O O O O
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B B O O B O B	arrive date month name	O O O O O O O O O O O O
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B O B O O O O B	fromloc city name	O O O O O O O B O O O O O O O
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B O B O O O O B	toloc city name	O O O O O O O O O B O O O O O
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B O B O O O O B	stoploc city name	O O O O O O O O O O O O O O B
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B O B O O O O B	depart date day number	O O O O O O O O O O O O O O O
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B O B O O O O B	airport name	O O O O O O O O O O O O O O O
+show me airline abbreviations	O O O O	airline_code	O O O O
+which airlines fly from bwi to dallas fort worth	O O O O B O B I I	fromloc airport code	O O O O B O O O O
+which airlines fly from bwi to dallas fort worth	O O O O B O B I I	toloc city name	O O O O O O B I I
+which airlines fly from bwi to dallas fort worth	O O O O B O B I I	round trip	O O O O O O O O O
+which airlines fly from bwi to dallas fort worth	O O O O B O B I I	airport name	O O O O O O O O O
+what is airline dl	O O O B	airline code	O O O B
+what is airline dl	O O O B	depart date month name	O O O O
+what is airline dl	O O O B	depart date day number	O O O O
+what airline is dl	O O O B	airline code	O O O B
+what airline is dl	O O O B	aircraft code	O O O O
+what airline is dl	O O O B	toloc state name	O O O O
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B O B I O O O O B	fromloc city name	O O O O B O O O O O O O O
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B O B I O O O O B	toloc city name	O O O O O O B I O O O O O
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B O B I O O O O B	stoploc city name	O O O O O O O O O O O O B
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B O B I O O O O B	fromloc airport name	O O O O O O O O O O O O O
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B O B I O O O O B	airline name	O O O O O O O O O O O O O
+what is airline ff	O O O B	airline code	O O O B
+what is airline ff	O O O B	arrive time period of day	O O O O
+what is airline ff	O O O B	depart date today relative	O O O O
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	fromloc city name	O O O O O O O B O O O O O O B
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	toloc city name	O O O O O O O O O B O B O O O
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	toloc city name	O O O O O O O O O B O B O O O
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	fromloc city name	O O O O O O O B O O O O O O B
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	depart date day number	O O O O O O O O O O O O O O O
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B O B O B O O B	depart date date relative	O O O O O O O O O O O O O O O
+what airline besides continental flies between boston and denver	O O B B O O B O B	mod	O O B O O O O O O
+what airline besides continental flies between boston and denver	O O B B O O B O B	airline name	O O O B O O O O O
+what airline besides continental flies between boston and denver	O O B B O O B O B	fromloc city name	O O O O O O B O O
+what airline besides continental flies between boston and denver	O O B B O O B O B	toloc city name	O O O O O O O O B
+what airline besides continental flies between boston and denver	O O B B O O B O B	depart date today relative	O O O O O O O O O
+what airline besides continental flies between boston and denver	O O B B O O B O B	flight number	O O O O O O O O O
+list all the airlines flying between washington and denver	O O O O O O B O B	fromloc city name	O O O O O O B O O
+list all the airlines flying between washington and denver	O O O O O O B O B	toloc city name	O O O O O O O O B
+list all the airlines flying between washington and denver	O O O O O O B O B	cost relative	O O O O O O O O O
+list all the airlines flying between washington and denver	O O O O O O B O B	toloc state code	O O O O O O O O O
+what airlines fly between boston and san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly between boston and san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly between boston and san francisco	O O O O B O B I	aircraft code	O O O O O O O O
+what airlines fly between boston and san francisco	O O O O B O B I	depart date today relative	O O O O O O O O
+what airlines go from atlanta to baltimore	O O O O B O B	fromloc city name	O O O O B O O
+what airlines go from atlanta to baltimore	O O O O B O B	toloc city name	O O O O O O B
+what airlines go from atlanta to baltimore	O O O O B O B	aircraft code	O O O O O O O
+what airlines go from atlanta to baltimore	O O O O B O B	depart date today relative	O O O O O O O
+which airlines have nonstop flights from kansas city to chicago	O O O B O O B I O B	flight stop	O O O B O O O O O O
+which airlines have nonstop flights from kansas city to chicago	O O O B O O B I O B	fromloc city name	O O O O O O B I O O
+which airlines have nonstop flights from kansas city to chicago	O O O B O O B I O B	toloc city name	O O O O O O O O O B
+which airlines have nonstop flights from kansas city to chicago	O O O B O O B I O B	airline name	O O O O O O O O O O
+which airlines have nonstop flights from kansas city to chicago	O O O B O O B I O B	depart date today relative	O O O O O O O O O O
+which airlines fly between boston and philadelphia	O O O O B O B	fromloc city name	O O O O B O O
+which airlines fly between boston and philadelphia	O O O O B O B	toloc city name	O O O O O O B
+which airlines fly between boston and philadelphia	O O O O B O B	depart date day number	O O O O O O O
+which airlines fly between boston and philadelphia	O O O O B O B	fromloc state code	O O O O O O O
+what airlines fly from toronto to san diego	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly from toronto to san diego	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly from toronto to san diego	O O O O B O B I	airport name	O O O O O O O O
+what airlines fly from toronto to san diego	O O O O B O B I	round trip	O O O O O O O O
+airline code as	O O B	airline code	O O B
+airline code as	O O B	connect	O O O
+airline code as	O O B	fromloc airport code	O O O
+which airlines fly between boston and baltimore	O O O O B O B	fromloc city name	O O O O B O O
+which airlines fly between boston and baltimore	O O O O B O B	toloc city name	O O O O O O B
+which airlines fly between boston and baltimore	O O O O B O B	class type	O O O O O O O
+which airlines fly between boston and baltimore	O O O O B O B	arrive date day number	O O O O O O O
+which airlines serve atlanta	O O O B	city name	O O O B
+which airlines serve atlanta	O O O B	arrive time period of day	O O O O
+which airlines serve atlanta	O O O B	stoploc city name	O O O O
+please show me airlines with flights from philadelphia to dallas	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+please show me airlines with flights from philadelphia to dallas	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+please show me airlines with flights from philadelphia to dallas	O O O O O O O B O B	airline code	O O O O O O O O O O
+please show me airlines with flights from philadelphia to dallas	O O O O O O O B O B	fromloc airport code	O O O O O O O O O O
+please tell me which airline has the most departures from atlanta	O O O O O O O B O O B	mod	O O O O O O O B O O O
+please tell me which airline has the most departures from atlanta	O O O O O O O B O O B	fromloc city name	O O O O O O O O O O B
+please tell me which airline has the most departures from atlanta	O O O O O O O B O O B	arrive time time	O O O O O O O O O O O
+please tell me which airline has the most departures from atlanta	O O O O O O O B O O B	depart time period of day	O O O O O O O O O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	class type	O O B I O O O O O O O O O B I O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	fromloc city name	O O O O O O B I O O O O O O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	toloc city name	O O O O O O O O O B O O O O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	depart date date relative	O O O O O O O O O O O B O O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	depart date day name	O O O O O O O O O O O O B O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	class type	O O B I O O O O O O O O O B I O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	depart date today relative	O O O O O O O O O O O O O O O O
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B I O O B I O B O B B B I O	airport name	O O O O O O O O O O O O O O O O
+what airlines fly boston to baltimore	O O O B O B	fromloc city name	O O O B O O
+what airlines fly boston to baltimore	O O O B O B	toloc city name	O O O O O B
+what airlines fly boston to baltimore	O O O B O B	class type	O O O O O O
+what airlines fly boston to baltimore	O O O B O B	city name	O O O O O O
+what airline is as	O O O B	airline code	O O O B
+what airline is as	O O O B	round trip	O O O O
+what airline is as	O O O B	arrive time period of day	O O O O
+which airlines provide direct flights between washington and denver	O O O B O O B O B	connect	O O O B O O O O O
+which airlines provide direct flights between washington and denver	O O O B O O B O B	fromloc city name	O O O O O O B O O
+which airlines provide direct flights between washington and denver	O O O B O O B O B	toloc city name	O O O O O O O O B
+which airlines provide direct flights between washington and denver	O O O B O O B O B	depart time start time	O O O O O O O O O
+which airlines provide direct flights between washington and denver	O O O B O O B O B	fromloc airport code	O O O O O O O O O
+what airlines are ac and as	O O O B O B	airline code	O O O B O B
+what airlines are ac and as	O O O B O B	airline code	O O O B O B
+what airlines are ac and as	O O O B O B	depart date today relative	O O O O O O
+what airlines are ac and as	O O O B O B	arrive date day number	O O O O O O
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	depart time period of day	O O O O O B B O O O O O
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	depart time period of day	O O O O O B B O O O O O
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	fromloc city name	O O O O O O O O O B O O
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	toloc city name	O O O O O O O O O O O B
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	aircraft code	O O O O O O O O O O O O
+does any airline have an early afternoon flight from boston to denver	O O O O O B B O O B O B	depart time time	O O O O O O O O O O O O
+show me the airlines with first class flights	O O O O O B I O	class type	O O O O O B I O
+show me the airlines with first class flights	O O O O O B I O	depart date date relative	O O O O O O O O
+show me the airlines with first class flights	O O O O O B I O	arrive date day number	O O O O O O O O
+which airline has the most business class flights	O O O O B B I O	mod	O O O O B O O O
+which airline has the most business class flights	O O O O B B I O	class type	O O O O O B I O
+which airline has the most business class flights	O O O O B B I O	depart date day name	O O O O O O O O
+which airline has the most business class flights	O O O O B B I O	cost relative	O O O O O O O O
+which airlines have daily flights from boston to dallas	O O O B O O B O B	flight days	O O O B O O O O O
+which airlines have daily flights from boston to dallas	O O O B O O B O B	fromloc city name	O O O O O O B O O
+which airlines have daily flights from boston to dallas	O O O B O O B O B	toloc city name	O O O O O O O O B
+which airlines have daily flights from boston to dallas	O O O B O O B O B	round trip	O O O O O O O O O
+which airlines have daily flights from boston to dallas	O O O B O O B O B	flight stop	O O O O O O O O O
+what airlines fly from boston to pittsburgh	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to pittsburgh	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to pittsburgh	O O O O B O B	fromloc state code	O O O O O O O
+what airlines fly from boston to pittsburgh	O O O O B O B	aircraft code	O O O O O O O
+is us air	O B I	airline name	O B I
+is us air	O B I	round trip	O O O
+is us air	O B I	depart date day number	O O O
+which companies fly between boston and oakland	O O O O B O B	fromloc city name	O O O O B O O
+which companies fly between boston and oakland	O O O O B O B	toloc city name	O O O O O O B
+which companies fly between boston and oakland	O O O O B O B	flight days	O O O O O O O
+which companies fly between boston and oakland	O O O O B O B	arrive time time	O O O O O O O
+list all the airlines that service denver	O O O O O O B	city name	O O O O O O B
+list all the airlines that service denver	O O O O O O B	arrive time time	O O O O O O O
+list all the airlines that service denver	O O O O O O B	aircraft code	O O O O O O O
+what airline is dl 98	O O O B B	airline code	O O O B O
+what airline is dl 98	O O O B B	flight number	O O O O B
+what airline is dl 98	O O O B B	round trip	O O O O O
+what airline is dl 98	O O O B B	depart time time	O O O O O
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	round trip	O O O O O B I O O O O O O O
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	fromloc city name	O O O O O O O O O B O O O O
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	toloc city name	O O O O O O O O O O O B O O
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	stoploc city name	O O O O O O O O O O O O O B
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	depart time time	O O O O O O O O O O O O O O
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B I O O B O B O B	aircraft code	O O O O O O O O O O O O O O
+show me the airlines between boston and toronto	O O O O O B O B	fromloc city name	O O O O O B O O
+show me the airlines between boston and toronto	O O O O O B O B	toloc city name	O O O O O O O B
+show me the airlines between boston and toronto	O O O O O B O B	airline name	O O O O O O O O
+show me the airlines between boston and toronto	O O O O O B O B	fromloc airport code	O O O O O O O O
+what airlines fly from boston to pittsburgh	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to pittsburgh	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to pittsburgh	O O O O B O B	depart date day number	O O O O O O O
+what airlines fly from boston to pittsburgh	O O O O B O B	flight number	O O O O O O O
+of all airlines which airline has the most arrivals in atlanta	O O O O O O O B O O B	mod	O O O O O O O B O O O
+of all airlines which airline has the most arrivals in atlanta	O O O O O O O B O O B	toloc city name	O O O O O O O O O O B
+of all airlines which airline has the most arrivals in atlanta	O O O O O O O B O O B	toloc state code	O O O O O O O O O O O
+of all airlines which airline has the most arrivals in atlanta	O O O O O O O B O O B	round trip	O O O O O O O O O O O
+please list all airline flights between denver and boston	O O O O O O B O B	fromloc city name	O O O O O O B O O
+please list all airline flights between denver and boston	O O O O O O B O B	toloc city name	O O O O O O O O B
+please list all airline flights between denver and boston	O O O O O O B O B	flight stop	O O O O O O O O O
+please list all airline flights between denver and boston	O O O O O O B O B	depart time start time	O O O O O O O O O
+what does the airline code dl stand for	O O O O O B O O	airline code	O O O O O B O O
+what does the airline code dl stand for	O O O O O B O O	aircraft code	O O O O O O O O
+what does the airline code dl stand for	O O O O O B O O	depart date day name	O O O O O O O O
+please show me airlines with service from boston to denver	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+please show me airlines with service from boston to denver	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+please show me airlines with service from boston to denver	O O O O O O O B O B	airport name	O O O O O O O O O O
+please show me airlines with service from boston to denver	O O O O O O O B O B	class type	O O O O O O O O O O
+show me the airlines that use love field	O O O O O O B I	airport name	O O O O O O B I
+show me the airlines that use love field	O O O O O O B I	arrive time period of day	O O O O O O O O
+show me the airlines that use love field	O O O O O O B I	connect	O O O O O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	fromloc city name	O O O O B O O O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	toloc city name	O O O O O O B O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	toloc state code	O O O O O O O B O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	arrive time time	O O O O O O O O O O O
+which airlines fly from boston to washington dc via other cities	O O O O B O B B O O O	cost relative	O O O O O O O O O O O
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B O O B O B	depart date day name	O O O O O O B O O O O O
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B O O B O B	fromloc city name	O O O O O O O O O B O O
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B O O B O B	toloc city name	O O O O O O O O O O O B
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B O O B O B	depart time start time	O O O O O O O O O O O O
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B O O B O B	airline code	O O O O O O O O O O O O
+what airlines fly into salt lake city	O O O O B I I	toloc city name	O O O O B I I
+what airlines fly into salt lake city	O O O O B I I	depart time end time	O O O O O O O
+what airlines fly into salt lake city	O O O O B I I	fromloc city name	O O O O O O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	cost relative	O O O O B O O O O O O O O O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	fromloc city name	O O O O O O O O B O O O O O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	toloc city name	O O O O O O O O O O B O O O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	depart date month name	O O O O O O O O O O O O B O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	depart date day number	O O O O O O O O O O O O O B I
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	fromloc airport name	O O O O O O O O O O O O O O O
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B O O O B O B O B B I	aircraft code	O O O O O O O O O O O O O O O
+which airline provides business class flights	O O O B I O	class type	O O O B I O
+which airline provides business class flights	O O O B I O	fromloc airport name	O O O O O O
+which airline provides business class flights	O O O B I O	aircraft code	O O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	airline code	O O O O O O B O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	flight number	O O O O O O O B O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	fromloc city name	O O O O O O O O O B O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	toloc city name	O O O O O O O O O O O B
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	depart time end time	O O O O O O O O O O O O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B B O B O B	stoploc city name	O O O O O O O O O O O O
+does any airline have an afternoon flight from boston to oakland	O O O O O B O O B O B	depart time period of day	O O O O O B O O O O O
+does any airline have an afternoon flight from boston to oakland	O O O O O B O O B O B	fromloc city name	O O O O O O O O B O O
+does any airline have an afternoon flight from boston to oakland	O O O O O B O O B O B	toloc city name	O O O O O O O O O O B
+does any airline have an afternoon flight from boston to oakland	O O O O O B O O B O B	arrive time period of day	O O O O O O O O O O O
+does any airline have an afternoon flight from boston to oakland	O O O O O B O O B O B	round trip	O O O O O O O O O O O
+which airlines fly from boston to san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+which airlines fly from boston to san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+which airlines fly from boston to san francisco	O O O O B O B I	arrive date day number	O O O O O O O O
+which airlines fly from boston to san francisco	O O O O B O B I	arrive date month name	O O O O O O O O
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	depart time period of day	O O O O O B B O O O O O
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	depart time period of day	O O O O O B B O O O O O
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	fromloc city name	O O O O O O O O O B O O
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	toloc city name	O O O O O O O O O O O B
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	airport name	O O O O O O O O O O O O
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B B O O B O B	depart time start time	O O O O O O O O O O O O
+what airlines have flights from baltimore to seattle	O O O O O B O B	fromloc city name	O O O O O B O O
+what airlines have flights from baltimore to seattle	O O O O O B O B	toloc city name	O O O O O O O B
+what airlines have flights from baltimore to seattle	O O O O O B O B	depart time period of day	O O O O O O O O
+what airlines have flights from baltimore to seattle	O O O O O B O B	aircraft code	O O O O O O O O
+what airline is ea	O O O B	airline code	O O O B
+what airline is ea	O O O B	airline name	O O O O
+what airline is ea	O O O B	arrive date month name	O O O O
+show me the airlines that fly from toronto to boston	O O O O O O O B O B	fromloc city name	O O O O O O O B O O
+show me the airlines that fly from toronto to boston	O O O O O O O B O B	toloc city name	O O O O O O O O O B
+show me the airlines that fly from toronto to boston	O O O O O O O B O B	mod	O O O O O O O O O O
+show me the airlines that fly from toronto to boston	O O O O O O O B O B	depart time time	O O O O O O O O O O
+what is airline nw	O O O B	airline code	O O O B
+what is airline nw	O O O B	fromloc city name	O O O O
+what is airline nw	O O O B	connect	O O O O
+which airlines have connections between pittsburgh and baltimore	O O O O O B O B	fromloc city name	O O O O O B O O
+which airlines have connections between pittsburgh and baltimore	O O O O O B O B	toloc city name	O O O O O O O B
+which airlines have connections between pittsburgh and baltimore	O O O O O B O B	flight days	O O O O O O O O
+which airlines have connections between pittsburgh and baltimore	O O O O O B O B	arrive date day number	O O O O O O O O
+what airlines fly from boston to atlanta	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to atlanta	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to atlanta	O O O O B O B	airport name	O O O O O O O
+what airlines fly from boston to atlanta	O O O O B O B	depart time start time	O O O O O O O
+list airlines serving between denver and san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+list airlines serving between denver and san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+list airlines serving between denver and san francisco	O O O O B O B I	flight number	O O O O O O O O
+list airlines serving between denver and san francisco	O O O O B O B I	mod	O O O O O O O O
+airline that stands for dl	O O O O B	airline code	O O O O B
+airline that stands for dl	O O O O B	flight number	O O O O O
+airline that stands for dl	O O O O B	depart date month name	O O O O O
+show me the airlines for flights to or from love field	O O O O O O O O O B I	fromloc airport name	O O O O O O O O O B I
+show me the airlines for flights to or from love field	O O O O O O O O O B I	arrive date month name	O O O O O O O O O O O
+show me the airlines for flights to or from love field	O O O O O O O O O B I	toloc city name	O O O O O O O O O O O
+show me the airlines from love field	O O O O O B I	fromloc airport name	O O O O O B I
+show me the airlines from love field	O O O O O B I	fromloc city name	O O O O O O O
+show me the airlines from love field	O O O O O B I	toloc state code	O O O O O O O
+can you tell me what airline flies between denver and san francisco	O O O O O O O O B O B I	fromloc city name	O O O O O O O O B O O O
+can you tell me what airline flies between denver and san francisco	O O O O O O O O B O B I	toloc city name	O O O O O O O O O O B I
+can you tell me what airline flies between denver and san francisco	O O O O O O O O B O B I	depart time time	O O O O O O O O O O O O
+can you tell me what airline flies between denver and san francisco	O O O O O O O O B O B I	flight number	O O O O O O O O O O O O
+what airlines fly from burbank to denver	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from burbank to denver	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from burbank to denver	O O O O B O B	depart time end time	O O O O O O O
+what airlines fly from burbank to denver	O O O O B O B	connect	O O O O O O O
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	fromloc city name	O O O O O O O O B O O O O O O O
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	toloc city name	O O O O O O O O O O B O O O O O
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	depart time time relative	O O O O O O O O O O O O O B O O
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	depart time time	O O O O O O O O O O O O O O B I
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	fromloc airport name	O O O O O O O O O O O O O O O O
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B O B O O B B I	depart date date relative	O O O O O O O O O O O O O O O O
+what airlines have business class	O O O B I	class type	O O O B I
+what airlines have business class	O O O B I	depart time end time	O O O O O
+what airlines have business class	O O O B I	stoploc city name	O O O O O
+what is airline nw	O O O B	airline code	O O O B
+what is airline nw	O O O B	round trip	O O O O
+what is airline nw	O O O B	depart date today relative	O O O O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	cost relative	O O O O B O O O O O O O O O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	fromloc city name	O O O O O O O O B O O O O O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	toloc city name	O O O O O O O O O O B O O O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	depart date month name	O O O O O O O O O O O O B O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	depart date day number	O O O O O O O O O O O O O B
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	depart date today relative	O O O O O O O O O O O O O O
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B O O O B O B O B B	depart time time	O O O O O O O O O O O O O O
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B O B O O O B	fromloc city name	O O O O O O O B O O O O O O
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B O B O O O B	toloc city name	O O O O O O O O O B O O O O
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B O B O O O B	stoploc city name	O O O O O O O O O O O O O B
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B O B O O O B	arrive time time	O O O O O O O O O O O O O O
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B O B O O O B	depart time end time	O O O O O O O O O O O O O O
+show me the airlines for flights to or from love field	O O O O O O O O O B I	fromloc airport name	O O O O O O O O O B I
+show me the airlines for flights to or from love field	O O O O O O O O O B I	toloc state name	O O O O O O O O O O O
+show me the airlines for flights to or from love field	O O O O O O O O O B I	flight stop	O O O O O O O O O O O
+which airline serves denver pittsburgh and atlanta	O O O B B O B	fromloc city name	O O O B B O B
+which airline serves denver pittsburgh and atlanta	O O O B B O B	fromloc city name	O O O B B O B
+which airline serves denver pittsburgh and atlanta	O O O B B O B	fromloc city name	O O O B B O B
+which airline serves denver pittsburgh and atlanta	O O O B B O B	class type	O O O O O O O
+which airline serves denver pittsburgh and atlanta	O O O B B O B	arrive date month name	O O O O O O O
+show all airlines with flights between denver and dallas	O O O O O O B O B	fromloc city name	O O O O O O B O O
+show all airlines with flights between denver and dallas	O O O O O O B O B	toloc city name	O O O O O O O O B
+show all airlines with flights between denver and dallas	O O O O O O B O B	flight days	O O O O O O O O O
+show all airlines with flights between denver and dallas	O O O O O O B O B	class type	O O O O O O O O O
+what airlines fly from boston to denver	O O O O B O B	fromloc city name	O O O O B O O
+what airlines fly from boston to denver	O O O O B O B	toloc city name	O O O O O O B
+what airlines fly from boston to denver	O O O O B O B	arrive date day number	O O O O O O O
+what airlines fly from boston to denver	O O O O B O B	fromloc airport name	O O O O O O O
+which airlines go from san francisco to washington by way of indianapolis	O O O O B I O B O O O B	fromloc city name	O O O O B I O O O O O O
+which airlines go from san francisco to washington by way of indianapolis	O O O O B I O B O O O B	toloc city name	O O O O O O O B O O O O
+which airlines go from san francisco to washington by way of indianapolis	O O O O B I O B O O O B	stoploc city name	O O O O O O O O O O O B
+which airlines go from san francisco to washington by way of indianapolis	O O O O B I O B O O O B	depart date date relative	O O O O O O O O O O O O
+which airlines go from san francisco to washington by way of indianapolis	O O O O B I O B O O O B	flight stop	O O O O O O O O O O O O
+what airline uses the code hp	O O O O O B	airline code	O O O O O B
+what airline uses the code hp	O O O O O B	class type	O O O O O O
+what airline uses the code hp	O O O O O B	flight days	O O O O O O
+what airline is hp	O O O B	airline code	O O O B
+what airline is hp	O O O B	arrive date day number	O O O O
+what airline is hp	O O O B	cost relative	O O O O
+which airlines have flights between philadelphia and pittsburgh	O O O O O B O B	fromloc city name	O O O O O B O O
+which airlines have flights between philadelphia and pittsburgh	O O O O O B O B	toloc city name	O O O O O O O B
+which airlines have flights between philadelphia and pittsburgh	O O O O O B O B	depart date month name	O O O O O O O O
+which airlines have flights between philadelphia and pittsburgh	O O O O O B O B	stoploc city name	O O O O O O O O
+what airlines fly between detroit and westchester county	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly between detroit and westchester county	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly between detroit and westchester county	O O O O B O B I	connect	O O O O O O O O
+what airlines fly between detroit and westchester county	O O O O B O B I	toloc state name	O O O O O O O O
+what airline flies from boston to san diego	O O O O B O B I	fromloc city name	O O O O B O O O
+what airline flies from boston to san diego	O O O O B O B I	toloc city name	O O O O O O B I
+what airline flies from boston to san diego	O O O O B O B I	depart date month name	O O O O O O O O
+what airline flies from boston to san diego	O O O O B O B I	cost relative	O O O O O O O O
+which different airlines go from las vegas to new york city	O O O O O B I O B I I	fromloc city name	O O O O O B I O O O O
+which different airlines go from las vegas to new york city	O O O O O B I O B I I	toloc city name	O O O O O O O O B I I
+which different airlines go from las vegas to new york city	O O O O O B I O B I I	depart time time relative	O O O O O O O O O O O
+which different airlines go from las vegas to new york city	O O O O O B I O B I I	depart date month name	O O O O O O O O O O O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	fromloc airport name	O O O O B I O O O O O O O O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	depart time start time	O O O O O O O B O O O O O O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	depart time end time	O O O O O O O O O B I O O O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	depart date month name	O O O O O O O O O O O O B O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	depart date day number	O O O O O O O O O O O O O B
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	depart date today relative	O O O O O O O O O O O O O O
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B I O B O B I O B B	airline code	O O O O O O O O O O O O O O
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	fromloc city name	O O O O B O O O O
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	fromloc state code	O O O O O B O O O
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	toloc city name	O O O O O O O B O
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	toloc state name	O O O O O O O O B
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	round trip	O O O O O O O O O
+what airlines fly between washington dc and columbus ohio	O O O O B B O B B	depart date day number	O O O O O O O O O
+what airlines are departing from baltimore	O O O O O B	fromloc city name	O O O O O B
+what airlines are departing from baltimore	O O O O O B	fromloc airport code	O O O O O O
+what airlines are departing from baltimore	O O O O O B	flight stop	O O O O O O
+which airlines fly from baltimore to san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+which airlines fly from baltimore to san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+which airlines fly from baltimore to san francisco	O O O O B O B I	stoploc city name	O O O O O O O O
+which airlines fly from baltimore to san francisco	O O O O B O B I	mod	O O O O O O O O
+list airlines flying from seattle to salt lake city	O O O O B O B I I	fromloc city name	O O O O B O O O O
+list airlines flying from seattle to salt lake city	O O O O B O B I I	toloc city name	O O O O O O B I I
+list airlines flying from seattle to salt lake city	O O O O B O B I I	mod	O O O O O O O O O
+list airlines flying from seattle to salt lake city	O O O O B O B I I	flight stop	O O O O O O O O O
+what airlines fly from baltimore to san francisco	O O O O B O B I	fromloc city name	O O O O B O O O
+what airlines fly from baltimore to san francisco	O O O O B O B I	toloc city name	O O O O O O B I
+what airlines fly from baltimore to san francisco	O O O O B O B I	depart date day number	O O O O O O O O
+what airlines fly from baltimore to san francisco	O O O O B O B I	depart date day name	O O O O O O O O
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B B O B I	fromloc city name	O O O O O O O O O B O O O O
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B B O B I	toloc city name	O O O O O O O O O O B O B I
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B B O B I	toloc city name	O O O O O O O O O O B O B I
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B B O B I	arrive time time	O O O O O O O O O O O O O O
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B B O B I	depart date day name	O O O O O O O O O O O O O O
+what is airline wn	O O O B	airline code	O O O B
+what is airline wn	O O O B	aircraft code	O O O O
+what is airline wn	O O O B	arrive date month name	O O O O
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	fromloc city name	O O O O O O O B O O O B O O O O O B I O O
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	toloc city name	O O O O O O O O O B O O O B I O O O O O B
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	fromloc city name	O O O O O O O B O O O B O O O O O B I O O
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	toloc city name	O O O O O O O O O B O O O B I O O O O O B
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	fromloc city name	O O O O O O O B O O O B O O O O O B I O O
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	toloc city name	O O O O O O O O O B O O O B I O O O O O B
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	flight days	O O O O O O O O O O O O O O O O O O O O O
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B O B O B O B I O O B I O B	arrive time time	O O O O O O O O O O O O O O O O O O O O O
+what airline is us	O O O B	airline code	O O O B
+what airline is us	O O O B	depart date day name	O O O O
+what airline is us	O O O B	arrive date month name	O O O O
+what airline is dl	O O O B	airline code	O O O B
+what airline is dl	O O O B	depart date month name	O O O O
+what airline is dl	O O O B	airport name	O O O O
+what airline is aa	O O O B	airline code	O O O B
+what airline is aa	O O O B	arrive date month name	O O O O
+what airline is aa	O O O B	class type	O O O O
+which airlines fly between toronto and san diego	O O O O B O B I	fromloc city name	O O O O B O O O
+which airlines fly between toronto and san diego	O O O O B O B I	toloc city name	O O O O O O B I
+which airlines fly between toronto and san diego	O O O O B O B I	fromloc airport code	O O O O O O O O
+which airlines fly between toronto and san diego	O O O O B O B I	arrive date month name	O O O O O O O O
+what airline is dl	O O O B	airline code	O O O B
+what airline is dl	O O O B	round trip	O O O O
+what airline is dl	O O O B	airport name	O O O O
+which airline is kw	O O O B	airline code	O O O B
+which airline is kw	O O O B	stoploc city name	O O O O
+which airline is kw	O O O B	depart time end time	O O O O
+what airline is hp	O O O B	airline code	O O O B
+what airline is hp	O O O B	fromloc city name	O O O O
+what airline is hp	O O O B	airline name	O O O O
+what airline is us	O O O B	airline code	O O O B
+what airline is us	O O O B	depart date today relative	O O O O
+what airline is us	O O O B	round trip	O O O O
+which airline is us	O O O B	airline code	O O O B
+which airline is us	O O O B	arrive date day number	O O O O
+which airline is us	O O O B	depart time start time	O O O O
+which airline is us	O O O B	airline code	O O O B
+which airline is us	O O O B	toloc state code	O O O O
+which airline is us	O O O B	depart time end time	O O O O
+which airline is us	O O O B	airline code	O O O B
+which airline is us	O O O B	depart date month name	O O O O
+which airline is us	O O O B	toloc city name	O O O O
+which airline is us	O O O B	airline code	O O O B
+which airline is us	O O O B	depart date day name	O O O O
+which airline is us	O O O B	flight days	O O O O
+what airline is hp	O O O B	airline code	O O O B
+what airline is hp	O O O B	depart time period of day	O O O O
+what airline is hp	O O O B	depart date day number	O O O O
+what airline is yx	O O O B	airline code	O O O B
+what airline is yx	O O O B	flight stop	O O O O
+what airline is yx	O O O B	toloc state name	O O O O
+what airline is hp	O O O B	airline code	O O O B
+what airline is hp	O O O B	toloc city name	O O O O
+what airline is hp	O O O B	aircraft code	O O O O
+what airline is as	O O O B	airline code	O O O B
+what airline is as	O O O B	depart date day name	O O O O
+what airline is as	O O O B	depart time period of day	O O O O
+what airline is as	O O O B	airline code	O O O B
+what airline is as	O O O B	airline name	O O O O
+what airline is as	O O O B	flight days	O O O O
+what airline is as	O O O B	airline code	O O O B
+what airline is as	O O O B	depart date day name	O O O O
+what airline is as	O O O B	toloc state name	O O O O
+what airline is as as in sam	O O O B O O O	airline code	O O O B O O O
+what airline is as as in sam	O O O B O O O	depart time time	O O O O O O O
+what airline is as as in sam	O O O B O O O	class type	O O O O O O O
+what airline is hp	O O O B	airline code	O O O B
+what airline is hp	O O O B	cost relative	O O O O
+what airline is hp	O O O B	fromloc airport name	O O O O
+list airlines that fly from seattle to salt lake city	O O O O O B O B I I	fromloc city name	O O O O O B O O O O
+list airlines that fly from seattle to salt lake city	O O O O O B O B I I	toloc city name	O O O O O O O B I I
+list airlines that fly from seattle to salt lake city	O O O O O B O B I I	city name	O O O O O O O O O O
+list airlines that fly from seattle to salt lake city	O O O O O B O B I I	depart date date relative	O O O O O O O O O O
+what airlines serve denver	O O O B	city name	O O O B
+what airlines serve denver	O O O B	toloc airport name	O O O O
+what airlines serve denver	O O O B	arrive time period of day	O O O O
+list the airlines with flights to or from denver	O O O O O O O O B	city name	O O O O O O O O B
+list the airlines with flights to or from denver	O O O O O O O O B	depart date day name	O O O O O O O O O
+list the airlines with flights to or from denver	O O O O O O O O B	arrive date month name	O O O O O O O O O
+what airlines fly into denver	O O O O B	toloc city name	O O O O B
+what airlines fly into denver	O O O O B	mod	O O O O O
+what airlines fly into denver	O O O O B	arrive time period of day	O O O O O
+which airline is as	O O O B	airline code	O O O B
+which airline is as	O O O B	depart date today relative	O O O O
+which airline is as	O O O B	round trip	O O O O
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	fromloc city name	O O O O O O O B O O B O O O O O B I O O
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	toloc city name	O O O O O O O O O B O O B I O O O O O B
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	fromloc city name	O O O O O O O B O O B O O O O O B I O O
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	toloc city name	O O O O O O O O O B O O B I O O O O O B
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	fromloc city name	O O O O O O O B O O B O O O O O B I O O
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	toloc city name	O O O O O O O O O B O O B I O O O O O B
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	arrive date month name	O O O O O O O O O O O O O O O O O O O O
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B O B B O B I O O B I O B	stoploc city name	O O O O O O O O O O O O O O O O O O O O

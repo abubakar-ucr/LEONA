@@ -1,0 +1,195 @@
+which airlines fly from boston to washington dc via other cities	O O O O B-fromloc.city_name O B-toloc.city_name B-toloc.state_code O O O
+which airlines fly from boston to washington dc but stopover in some other city	O O O O B-fromloc.city_name O B-toloc.city_name B-toloc.state_code O O O O O O
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name O O B-fromloc.city_name O B-toloc.city_name
+could you please tell me the airlines that fly from toronto to san diego	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+does any airline have a jet flight between pittsburgh and baltimore	O O O O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines are there	O O O O
+is there an airline that advertises having more flights than any other airline	O O O O O O O B-mod O O O O O
+what airlines fly between boston and atlanta	O O O O B-fromloc.city_name O B-toloc.city_name
+show me the airlines that fly from san francisco to boston	O O O O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name
+what airlines flies out of atlanta	O O O O O B-fromloc.city_name
+show all airlines flying from pittsburgh to san francisco	O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday	O O O O O B-fromloc.city_name O O B-toloc.city_name O O O O B-toloc.city_name I-toloc.city_name O B-depart_date.day_name
+which airlines have first class flights today	O O O B-class_type I-class_type O B-depart_date.today_relative
+what airlines fly from boston to san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+can you list all the airlines that have flights from boston to san francisco	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+which airlines fly from boston to washington dc	O O O O B-fromloc.city_name O B-toloc.city_name B-toloc.state_code
+what airlines fly from new york to milwaukee to los angeles	O O O O B-fromloc.city_name I-fromloc.city_name O B-stoploc.city_name O B-toloc.city_name I-toloc.city_name
+show me the airlines	O O O O
+show me the airlines that fly from denver to san francisco	O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+which airlines fly from toronto to san diego and have a stopover in denver	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O O O O B-stoploc.city_name
+show me airlines with flights from pittsburgh to boston please	O O O O O O B-fromloc.city_name O B-toloc.city_name O
+does any airline offer dc10 service between denver and boston	O O O O B-aircraft_code O O B-fromloc.city_name O B-toloc.city_name
+which airlines are represented in the database	O O O O O O O
+please show me airlines with flights from denver to boston stop philadelphia	O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-stoploc.city_name
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth	O O O O B-mod O O B-fromloc.city_name O O O B-toloc.city_name O B-arrive_date.month_name B-arrive_date.day_number
+list all the airlines that fly into general mitchell international	O O O O O O O B-toloc.airport_name I-toloc.airport_name I-toloc.airport_name
+is there an airline that services boston dc and dallas	O O O O O O B-fromloc.city_name B-fromloc.state_code O B-fromloc.city_name
+show me airline abbreviations	O O O O
+which airlines have flights from denver to pittsburgh	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly between san francisco and denver	O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name
+does any airline have an afternoon flight from atlanta to boston	O O O O O B-depart_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+which airline can fly me from atlanta to denver to san francisco	O O O O O O B-fromloc.city_name O B-toloc.city_name O B-toloc.city_name I-toloc.city_name
+show me airlines between boston and san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+show me the airlines that fly between toronto and denver	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly between atlanta and san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name
+what airline is ac	O O O B-airline_code
+which airlines fly between baltimore and san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	O O O O O O O O O B-stoploc.city_name O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+please show me airlines with flights from denver to philadelphia	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+what airline stands for hp	O O O O B-airline_code
+what airlines fly from boston to washington	O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines have business class service between boston and san francisco	O O O B-class_type I-class_type O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+please show me airlines with flights from boston to denver	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+is there an airline that has a flight from philadelphia to san francisco with a stop in dallas	O O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O O O B-stoploc.city_name
+show me the airlines between boston and denver	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airline is ea the abbreviation for	O O O B-airline_code O O O
+what airlines have flights from boston to philadelphia that leave before 630 am	O O O O O B-fromloc.city_name O B-toloc.city_name O O B-depart_time.time_relative B-depart_time.time I-depart_time.time
+what airlines fly from philadelphia to san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston	O O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-fromloc.city_name O B-toloc.city_name O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly between boston and san francisco and stop in denver	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O O B-stoploc.city_name
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	O O O O O O O B-fromloc.city_name O B-depart_date.month_name B-depart_date.day_number O B-depart_time.time O O O B-toloc.city_name I-toloc.city_name O B-arrive_time.time I-arrive_time.time
+which airlines fly between boston and pittsburgh	O O O O B-fromloc.city_name O B-toloc.city_name
+show me the airlines that fly from toronto to san francisco	O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+show me a list of all the airlines that offer business class service	O O O O O O O O O O B-class_type I-class_type O
+what airlines fly from dallas to baltimore	O O O O B-fromloc.city_name O B-toloc.city_name
+define airline hp	O O B-airline_code
+what is airline us	O O O B-airline_code
+which airlines have flights between charlotte and newark	O O O O O B-fromloc.city_name O B-toloc.city_name
+which airlines serve pittsburgh	O O O B-city_name
+what airlines from washington dc to columbus	O O O B-fromloc.city_name B-fromloc.state_code O B-toloc.city_name
+which airlines fly from boston to washington	O O O O B-fromloc.city_name O B-toloc.city_name
+which airline has more business class flights than any other airline	O O O B-mod B-class_type I-class_type O O O O O
+which airlines have first class flights today	O O O B-class_type I-class_type O B-depart_date.today_relative
+what airlines service pittsburgh airport	O O O B-airport_name I-airport_name
+which airline has the most arrivals in atlanta	O O O O B-mod O O B-toloc.city_name
+show me the airlines between toronto and denver	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines leave from washington	O O O O B-fromloc.city_name
+which airlines fly into and out of denver	O O O O O O O B-city_name
+what airlines have nonstop early afternoon flights from boston to denver	O O O B-flight_stop B-depart_time.period_of_day B-arrive_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+show me the names of airlines in atlanta	O O O O O O O B-city_name
+which airlines have flights from san francisco to washington by way of indianapolis	O O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name O O O B-stoploc.city_name
+which airlines fly between boston and pittsburgh	O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines go to pittsburgh	O O O O B-toloc.city_name
+give me a list of airlines in pittsburgh	O O O O O O O B-city_name
+tell me which airlines have flights from pittsburgh to san francisco on monday september second	O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O B-depart_date.day_name B-depart_date.month_name B-depart_date.day_number
+which airlines serve denver	O O O B-city_name
+what airlines fly from boston to atlanta	O O O O B-fromloc.city_name O B-toloc.city_name
+airlines that fly to miami from new york on friday	O O O O B-toloc.city_name O B-fromloc.city_name I-fromloc.city_name O B-depart_date.day_name
+do the airlines still offer first class	O O O O O B-class_type I-class_type
+list the airlines that have nonstop afternoon flights from boston to oakland	O O O O O B-flight_stop B-arrive_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+please show me airlines with flights from denver to boston with a stopover in philadelphia	O O O O O O O B-fromloc.city_name O B-toloc.city_name O O O O B-stoploc.city_name
+show me airline abbreviations	O O O O
+which airlines fly from bwi to dallas fort worth	O O O O B-fromloc.airport_code O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+what is airline dl	O O O B-airline_code
+what airline is dl	O O O B-airline_code
+what airlines fly from toronto to san diego with a stopover in denver	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O O O B-stoploc.city_name
+what is airline ff	O O O B-airline_code
+can i take a single airline from la to charlotte to newark back to la	O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-toloc.city_name O O B-fromloc.city_name
+what airline besides continental flies between boston and denver	O O B-mod B-airline_name O O B-fromloc.city_name O B-toloc.city_name
+list all the airlines flying between washington and denver	O O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly between boston and san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what airlines go from atlanta to baltimore	O O O O B-fromloc.city_name O B-toloc.city_name
+which airlines have nonstop flights from kansas city to chicago	O O O B-flight_stop O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name
+which airlines fly between boston and philadelphia	O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly from toronto to san diego	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+airline code as	O O B-airline_code
+which airlines fly between boston and baltimore	O O O O B-fromloc.city_name O B-toloc.city_name
+which airlines serve atlanta	O O O B-city_name
+please show me airlines with flights from philadelphia to dallas	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+please tell me which airline has the most departures from atlanta	O O O O O O O B-mod O O B-fromloc.city_name
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only	O O B-class_type I-class_type O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name O B-depart_date.date_relative B-depart_date.day_name B-class_type I-class_type O
+what airlines fly boston to baltimore	O O O B-fromloc.city_name O B-toloc.city_name
+what airline is as	O O O B-airline_code
+which airlines provide direct flights between washington and denver	O O O B-connect O O B-fromloc.city_name O B-toloc.city_name
+what airlines are ac and as	O O O B-airline_code O B-airline_code
+does any airline have an early afternoon flight from boston to denver	O O O O O B-depart_time.period_of_day B-depart_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+show me the airlines with first class flights	O O O O O B-class_type I-class_type O
+which airline has the most business class flights	O O O O B-mod B-class_type I-class_type O
+which airlines have daily flights from boston to dallas	O O O B-flight_days O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly from boston to pittsburgh	O O O O B-fromloc.city_name O B-toloc.city_name
+is us air	O B-airline_name I-airline_name
+which companies fly between boston and oakland	O O O O B-fromloc.city_name O B-toloc.city_name
+list all the airlines that service denver	O O O O O O B-city_name
+what airline is dl 98	O O O B-airline_code B-flight_number
+please show me airlines with round trip flights from boston to denver stop philadelphia	O O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name O B-stoploc.city_name
+show me the airlines between boston and toronto	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly from boston to pittsburgh	O O O O B-fromloc.city_name O B-toloc.city_name
+of all airlines which airline has the most arrivals in atlanta	O O O O O O O B-mod O O B-toloc.city_name
+please list all airline flights between denver and boston	O O O O O O B-fromloc.city_name O B-toloc.city_name
+what does the airline code dl stand for	O O O O O B-airline_code O O
+please show me airlines with service from boston to denver	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+show me the airlines that use love field	O O O O O O B-airport_name I-airport_name
+which airlines fly from boston to washington dc via other cities	O O O O B-fromloc.city_name O B-toloc.city_name B-toloc.state_code O O O
+please show me all airlines with sunday flights from philadelphia to denver	O O O O O O B-depart_date.day_name O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly into salt lake city	O O O O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth	O O O O B-cost_relative O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number
+which airline provides business class flights	O O O B-class_type I-class_type O
+what kind of airline is flight ua 281 from boston to denver	O O O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name
+does any airline have an afternoon flight from boston to oakland	O O O O O B-depart_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+which airlines fly from boston to san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+does any airline have an early afternoon flight from boston to pittsburgh	O O O O O B-depart_time.period_of_day B-depart_time.period_of_day O O B-fromloc.city_name O B-toloc.city_name
+what airlines have flights from baltimore to seattle	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airline is ea	O O O B-airline_code
+show me the airlines that fly from toronto to boston	O O O O O O O B-fromloc.city_name O B-toloc.city_name
+what is airline nw	O O O B-airline_code
+which airlines have connections between pittsburgh and baltimore	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly from boston to atlanta	O O O O B-fromloc.city_name O B-toloc.city_name
+list airlines serving between denver and san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+airline that stands for dl	O O O O B-airline_code
+show me the airlines for flights to or from love field	O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name
+show me the airlines from love field	O O O O O B-fromloc.airport_name I-fromloc.airport_name
+can you tell me what airline flies between denver and san francisco	O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what airlines fly from burbank to denver	O O O O B-fromloc.city_name O B-toloc.city_name
+are there any airlines that have flights from boston to philadelphia that leave before 630 am	O O O O O O O O B-fromloc.city_name O B-toloc.city_name O O B-depart_time.time_relative B-depart_time.time I-depart_time.time
+what airlines have business class	O O O B-class_type I-class_type
+what is airline nw	O O O B-airline_code
+which airline offers the cheapest rate going from dallas to baltimore on july fourth	O O O O B-cost_relative O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number
+please show me airlines with flights from denver to boston with stop in philadelphia	O O O O O O O B-fromloc.city_name O B-toloc.city_name O O O B-stoploc.city_name
+show me the airlines for flights to or from love field	O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name
+which airline serves denver pittsburgh and atlanta	O O O B-fromloc.city_name B-fromloc.city_name O B-fromloc.city_name
+show all airlines with flights between denver and dallas	O O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly from boston to denver	O O O O B-fromloc.city_name O B-toloc.city_name
+which airlines go from san francisco to washington by way of indianapolis	O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name O O O B-stoploc.city_name
+what airline uses the code hp	O O O O O B-airline_code
+what airline is hp	O O O B-airline_code
+which airlines have flights between philadelphia and pittsburgh	O O O O O B-fromloc.city_name O B-toloc.city_name
+what airlines fly between detroit and westchester county	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what airline flies from boston to san diego	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+which different airlines go from las vegas to new york city	O O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+what airlines off from love field between 6 and 10 am on june sixth	O O O O B-fromloc.airport_name I-fromloc.airport_name O B-depart_time.start_time O B-depart_time.end_time I-depart_time.end_time O B-depart_date.month_name B-depart_date.day_number
+what airlines fly between washington dc and columbus ohio	O O O O B-fromloc.city_name B-fromloc.state_code O B-toloc.city_name B-toloc.state_name
+what airlines are departing from baltimore	O O O O O B-fromloc.city_name
+which airlines fly from baltimore to san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+list airlines flying from seattle to salt lake city	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+what airlines fly from baltimore to san francisco	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+i would like to have the airline that flies toronto detroit and st. louis	O O O O O O O O O B-fromloc.city_name B-toloc.city_name O B-toloc.city_name I-toloc.city_name
+what is airline wn	O O O B-airline_code
+show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto	O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name
+what airline is us	O O O B-airline_code
+what airline is dl	O O O B-airline_code
+what airline is aa	O O O B-airline_code
+which airlines fly between toronto and san diego	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name
+what airline is dl	O O O B-airline_code
+which airline is kw	O O O B-airline_code
+what airline is hp	O O O B-airline_code
+what airline is us	O O O B-airline_code
+which airline is us	O O O B-airline_code
+which airline is us	O O O B-airline_code
+which airline is us	O O O B-airline_code
+which airline is us	O O O B-airline_code
+what airline is hp	O O O B-airline_code
+what airline is yx	O O O B-airline_code
+what airline is hp	O O O B-airline_code
+what airline is as	O O O B-airline_code
+what airline is as	O O O B-airline_code
+what airline is as	O O O B-airline_code
+what airline is as as in sam	O O O B-airline_code O O O
+what airline is hp	O O O B-airline_code
+list airlines that fly from seattle to salt lake city	O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name
+what airlines serve denver	O O O B-city_name
+list the airlines with flights to or from denver	O O O O O O O O B-city_name
+what airlines fly into denver	O O O O B-toloc.city_name
+which airline is as	O O O B-airline_code
+is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	O O O O O O O B-fromloc.city_name O B-toloc.city_name B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name

@@ -1,0 +1,551 @@
+what does fare code y mean	O O O O B O	fare basis code	O O O O B O
+what does fare code y mean	O O O O B O	booking class	O O O O O O
+what does fare code y mean	O O O O B O	airline code	O O O O O O
+what does fare code qx mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qx mean	O O O O B O	meal code	O O O O O O
+what does fare code qx mean	O O O O B O	class type	O O O O O O
+what is ewr	O O B	airport code	O O B
+what is ewr	O O B	meal code	O O O
+what is ewr	O O B	aircraft code	O O O
+what is mco	O O B	airport code	O O B
+what is mco	O O B	toloc city name	O O O
+what is mco	O O B	meal code	O O O
+what is ff	O O B	airline code	O O B
+what is ff	O O B	airport code	O O O
+what is ff	O O B	meal code	O O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	booking class	O O O O O O
+what does fare code qo mean	O O O O B O	airline name	O O O O O O
+explain meal codes sd d	O B O B I	meal	O B O O O
+explain meal codes sd d	O B O B I	meal code	O O O B I
+explain meal codes sd d	O B O B I	airline name	O O O O O
+explain meal codes sd d	O B O B I	class type	O O O O O
+explain fare code qx	O O O B	fare basis code	O O O B
+explain fare code qx	O O O B	class type	O O O O
+explain fare code qx	O O O B	restriction code	O O O O
+what is fare code f	O O O O B	fare basis code	O O O O B
+what is fare code f	O O O O B	airline code	O O O O O
+what is fare code f	O O O O B	restriction code	O O O O O
+what does code yn mean	O O O B O	fare basis code	O O O B O
+what does code yn mean	O O O B O	meal	O O O O O
+what does code yn mean	O O O B O	class type	O O O O O
+what is as	O O B	airline code	O O B
+what is as	O O B	airport code	O O O
+what is as	O O B	aircraft code	O O O
+what is fare code fn	O O O O B	fare basis code	O O O O B
+what is fare code fn	O O O O B	meal code	O O O O O
+what is fare code fn	O O O O B	booking class	O O O O O
+what does restriction ap 57 mean	O O O B I O	restriction code	O O O B I O
+what does restriction ap 57 mean	O O O B I O	class type	O O O O O O
+what does restriction ap 57 mean	O O O B I O	days code	O O O O O O
+could you tell me what the abbreviation us stands for	O O O O O O O B O O	airline code	O O O O O O O B O O
+could you tell me what the abbreviation us stands for	O O O O O O O B O O	meal code	O O O O O O O O O O
+could you tell me what the abbreviation us stands for	O O O O O O O B O O	restriction code	O O O O O O O O O O
+what does the fare code f mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code f mean	O O O O O B O	toloc city name	O O O O O O O
+what does the fare code f mean	O O O O O B O	aircraft code	O O O O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	mod	O O O O O
+what is fare code h	O O O O B	fromloc city name	O O O O O
+what is ewr	O O B	airport code	O O B
+what is ewr	O O B	class type	O O O
+what is ewr	O O B	airline code	O O O
+what does dfw mean	O O B O	airport code	O O B O
+what does dfw mean	O O B O	booking class	O O O O
+what does dfw mean	O O B O	fare basis code	O O O O
+what is mco	O O B	airport code	O O B
+what is mco	O O B	fromloc city name	O O O
+what is mco	O O B	fare basis code	O O O
+what does code y mean	O O O B O	fare basis code	O O O B O
+what does code y mean	O O O B O	airline name	O O O O O
+what does code y mean	O O O B O	meal code	O O O O O
+does dl stand for delta	O B O O B	airline code	O B O O O
+does dl stand for delta	O B O O B	airline name	O O O O B
+does dl stand for delta	O B O O B	meal	O O O O O
+does dl stand for delta	O B O O B	class type	O O O O O
+what does us stand for	O O B O O	airline code	O O B O O
+what does us stand for	O O B O O	fromloc city name	O O O O O
+what does us stand for	O O B O O	class type	O O O O O
+what is restriction ap 57	O O O B I	restriction code	O O O B I
+what is restriction ap 57	O O O B I	airline name	O O O O O
+what is restriction ap 57	O O O B I	airline code	O O O O O
+explain the fare codes	O O O O	fromloc.city_name	O O O O
+what does iah mean	O O B O	airport code	O O B O
+what does iah mean	O O B O	meal code	O O O O
+what does iah mean	O O B O	restriction code	O O O O
+what is fare code f	O O O O B	fare basis code	O O O O B
+what is fare code f	O O O O B	class type	O O O O O
+what is fare code f	O O O O B	meal code	O O O O O
+what does s designate as a meal	O O B O O O B	meal code	O O B O O O O
+what does s designate as a meal	O O B O O O B	meal	O O O O O O B
+what does s designate as a meal	O O B O O O B	aircraft code	O O O O O O O
+what does s designate as a meal	O O B O O O B	airport code	O O O O O O O
+what is the abbreviation d10	O O O O B	aircraft code	O O O O B
+what is the abbreviation d10	O O O O B	fromloc city name	O O O O O
+what is the abbreviation d10	O O O O B	restriction code	O O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	airline name	O O O O O
+what is fare code h	O O O O B	meal	O O O O O
+i'd like to see the fare code again qx	O O O O O O O O B	fare basis code	O O O O O O O O B
+i'd like to see the fare code again qx	O O O O O O O O B	fromloc city name	O O O O O O O O O
+i'd like to see the fare code again qx	O O O O O O O O B	mod	O O O O O O O O O
+what does the abbreviation dl mean	O O O O B O	airline code	O O O O B O
+what does the abbreviation dl mean	O O O O B O	aircraft code	O O O O O O
+what does the abbreviation dl mean	O O O O B O	fromloc city name	O O O O O O
+what is the code for business class	O O O O O B I	class type	O O O O O B I
+what is the code for business class	O O O O O B I	airport code	O O O O O O O
+what is the code for business class	O O O O O B I	booking class	O O O O O O O
+what's the difference between fare code q and fare code b	O O O O O O B O O O B	fare basis code	O O O O O O B O O O B
+what's the difference between fare code q and fare code b	O O O O O O B O O O B	fare basis code	O O O O O O B O O O B
+what's the difference between fare code q and fare code b	O O O O O O B O O O B	mod	O O O O O O O O O O O
+what's the difference between fare code q and fare code b	O O O O O O B O O O B	aircraft code	O O O O O O O O O O O
+what does d s stand for for meals	O O B I O O O B	meal code	O O B I O O O O
+what does d s stand for for meals	O O B I O O O B	meal	O O O O O O O B
+what does d s stand for for meals	O O B I O O O B	airline name	O O O O O O O O
+what does d s stand for for meals	O O B I O O O B	airport code	O O O O O O O O
+what does mco stand for	O O B O O	airport code	O O B O O
+what does mco stand for	O O B O O	airline name	O O O O O
+what does mco stand for	O O B O O	restriction code	O O O O O
+what does ff mean	O O B O	airline code	O O B O
+what does ff mean	O O B O	days code	O O O O
+what does ff mean	O O B O	toloc city name	O O O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	toloc city name	O O O O O O
+what does fare code qo mean	O O O O B O	meal code	O O O O O O
+what is ua	O O B	airline code	O O B
+what is ua	O O B	aircraft code	O O O
+what is ua	O O B	airline name	O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	meal	O O O O O
+what is fare code h	O O O O B	airport code	O O O O O
+what does ewr mean	O O B O	airport code	O O B O
+what does ewr mean	O O B O	aircraft code	O O O O
+what does ewr mean	O O B O	booking class	O O O O
+what is the yn code	O O O B O	fare basis code	O O O B O
+what is the yn code	O O O B O	airline name	O O O O O
+what is the yn code	O O O B O	class type	O O O O O
+what does the fare code f mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code f mean	O O O O O B O	toloc city name	O O O O O O O
+what does the fare code f mean	O O O O O B O	airline code	O O O O O O O
+explain the fare code q	O O O O B	fare basis code	O O O O B
+explain the fare code q	O O O O B	airport code	O O O O O
+explain the fare code q	O O O O B	toloc city name	O O O O O
+what does the fare code yn mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code yn mean	O O O O O B O	airline code	O O O O O O O
+what does the fare code yn mean	O O O O O B O	airline name	O O O O O O O
+what does hou mean	O O B O	airport code	O O B O
+what does hou mean	O O B O	fare basis code	O O O O
+what does hou mean	O O B O	aircraft code	O O O O
+what does the fare code qx mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code qx mean	O O O O O B O	airport code	O O O O O O O
+what does the fare code qx mean	O O O O O B O	days code	O O O O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	mod	O O O O O
+what is fare code h	O O O O B	meal	O O O O O
+what is the ap57 restriction	O O O B O	restriction code	O O O B O
+what is the ap57 restriction	O O O B O	booking class	O O O O O
+what is the ap57 restriction	O O O B O	aircraft code	O O O O O
+what does ea mean	O O B O	airline code	O O B O
+what does ea mean	O O B O	class type	O O O O
+what does ea mean	O O B O	fromloc city name	O O O O
+what does restriction ap 57 mean	O O O B I O	restriction code	O O O B I O
+what does restriction ap 57 mean	O O O B I O	meal	O O O O O O
+what does restriction ap 57 mean	O O O B I O	fromloc city name	O O O O O O
+define airline ua	O O B	airline code	O O B
+define airline ua	O O B	mod	O O O
+define airline ua	O O B	meal	O O O
+code ff	O B	airline code	O B
+code ff	O B	class type	O O
+code ff	O B	restriction code	O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	aircraft code	O O O O O O
+what does fare code qo mean	O O O O B O	class type	O O O O O O
+what is bur	O O B	airport code	O O B
+what is bur	O O B	airline code	O O O
+what is bur	O O B	aircraft code	O O O
+what is booking class c	O O O O B	fare basis code	O O O O B
+what is booking class c	O O O O B	meal	O O O O O
+what is booking class c	O O O O B	airport code	O O O O O
+what is mco	O O B	airport code	O O B
+what is mco	O O B	booking class	O O O
+what is mco	O O B	fare basis code	O O O
+what is the meaning of restriction ap80	O O O O O O B	restriction code	O O O O O O B
+what is the meaning of restriction ap80	O O O O O O B	airline name	O O O O O O O
+what is the meaning of restriction ap80	O O O O O O B	meal	O O O O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	meal code	O O O O O
+what is fare code h	O O O O B	toloc city name	O O O O O
+what is ff	O O B	airline code	O O B
+what is ff	O O B	toloc city name	O O O
+what is ff	O O B	meal	O O O
+what does ea mean	O O B O	airline code	O O B O
+what does ea mean	O O B O	fare basis code	O O O O
+what does ea mean	O O B O	meal code	O O O O
+what is restriction ap 57	O O O B I	restriction code	O O O B I
+what is restriction ap 57	O O O B I	meal code	O O O O O
+what is restriction ap 57	O O O B I	airline code	O O O O O
+what's the difference between fare code q and fare code f	O O O O O O B O O O B	fare basis code	O O O O O O B O O O B
+what's the difference between fare code q and fare code f	O O O O O O B O O O B	fare basis code	O O O O O O B O O O B
+what's the difference between fare code q and fare code f	O O O O O O B O O O B	aircraft code	O O O O O O O O O O O
+what's the difference between fare code q and fare code f	O O O O O O B O O O B	airline code	O O O O O O O O O O O
+describe fare code qx	O O O B	fare basis code	O O O B
+describe fare code qx	O O O B	fromloc city name	O O O O
+describe fare code qx	O O O B	booking class	O O O O
+what is ewr	O O B	airport code	O O B
+what is ewr	O O B	meal code	O O O
+what is ewr	O O B	airline name	O O O
+what is sa	O O B	days code	O O B
+what is sa	O O B	meal code	O O O
+what is sa	O O B	airport code	O O O
+what is ua	O O B	airline code	O O B
+what is ua	O O B	class type	O O O
+what is ua	O O B	days code	O O O
+what is hp	O O B	airline code	O O B
+what is hp	O O B	days code	O O O
+what is hp	O O B	booking class	O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	meal code	O O O O O
+what is fare code h	O O O O B	meal	O O O O O
+explain restriction ap please	O O B O	restriction code	O O B O
+explain restriction ap please	O O B O	airline code	O O O O
+explain restriction ap please	O O B O	days code	O O O O
+what does the fare code qw mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code qw mean	O O O O O B O	airline code	O O O O O O O
+what does the fare code qw mean	O O O O O B O	airline name	O O O O O O O
+what is yyz	O O B	airport code	O O B
+what is yyz	O O B	toloc city name	O O O
+what is yyz	O O B	class type	O O O
+what does ewr mean	O O B O	airport code	O O B O
+what does ewr mean	O O B O	fare basis code	O O O O
+what does ewr mean	O O B O	toloc city name	O O O O
+what is restriction ap 80	O O O B I	restriction code	O O O B I
+what is restriction ap 80	O O O B I	mod	O O O O O
+what is restriction ap 80	O O O B I	airline code	O O O O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	days code	O O O O O O
+what does fare code qo mean	O O O O B O	booking class	O O O O O O
+what is the abbreviation for canadian airlines international	O O O O O B I I	airline name	O O O O O B I I
+what is the abbreviation for canadian airlines international	O O O O O B I I	aircraft code	O O O O O O O O
+what is the abbreviation for canadian airlines international	O O O O O B I I	days code	O O O O O O O O
+what does the fare code y mean	O O O O O B O	fare basis code	O O O O O B O
+what does the fare code y mean	O O O O O B O	airline code	O O O O O O O
+what does the fare code y mean	O O O O O B O	restriction code	O O O O O O O
+explain the restriction ap 57	O O O B I	restriction code	O O O B I
+explain the restriction ap 57	O O O B I	mod	O O O O O
+explain the restriction ap 57	O O O B I	meal	O O O O O
+what does the fare code f and fn mean	O O O O O B O O O	fare basis code	O O O O O B O O O
+what does the fare code f and fn mean	O O O O O B O O O	toloc city name	O O O O O O O O O
+what does the fare code f and fn mean	O O O O O B O O O	days code	O O O O O O O O O
+fare code y what does that mean	O O B O O O O	fare basis code	O O B O O O O
+fare code y what does that mean	O O B O O O O	aircraft code	O O O O O O O
+fare code y what does that mean	O O B O O O O	class type	O O O O O O O
+what does fare code y mean	O O O O B O	fare basis code	O O O O B O
+what does fare code y mean	O O O O B O	mod	O O O O O O
+what does fare code y mean	O O O O B O	toloc city name	O O O O O O
+what is the meaning of fare code qx and qw	O O O O O O O B O B	fare basis code	O O O O O O O B O B
+what is the meaning of fare code qx and qw	O O O O O O O B O B	fare basis code	O O O O O O O B O B
+what is the meaning of fare code qx and qw	O O O O O O O B O B	meal	O O O O O O O O O O
+what is the meaning of fare code qx and qw	O O O O O O O B O B	airline code	O O O O O O O O O O
+explain restriction ap 57	O O B I	restriction code	O O B I
+explain restriction ap 57	O O B I	booking class	O O O O
+explain restriction ap 57	O O B I	airport code	O O O O
+what is the meaning of meal code s	O O O O O B I I	meal code	O O O O O B I I
+what is the meaning of meal code s	O O O O O B I I	meal	O O O O O O O O
+what is the meaning of meal code s	O O O O O B I I	class type	O O O O O O O O
+what is restriction ap 55	O O O B I	restriction code	O O O B I
+what is restriction ap 55	O O O B I	booking class	O O O O O
+what is restriction ap 55	O O O B I	airline code	O O O O O
+what does code y stand for	O O O B O O	fare basis code	O O O B O O
+what does code y stand for	O O O B O O	class type	O O O O O O
+what does code y stand for	O O O B O O	toloc city name	O O O O O O
+what does fare code m mean	O O O O B O	fare basis code	O O O O B O
+what does fare code m mean	O O O O B O	mod	O O O O O O
+what does fare code m mean	O O O O B O	class type	O O O O O O
+what is fare code qw	O O O O B	fare basis code	O O O O B
+what is fare code qw	O O O O B	airline name	O O O O O
+what is fare code qw	O O O O B	restriction code	O O O O O
+please explain fare code f	O O O O B	fare basis code	O O O O B
+please explain fare code f	O O O O B	booking class	O O O O O
+please explain fare code f	O O O O B	airport code	O O O O O
+what is fare code q	O O O O B	fare basis code	O O O O B
+what is fare code q	O O O O B	class type	O O O O O
+what is fare code q	O O O O B	booking class	O O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	booking class	O O O O O
+what is fare code h	O O O O B	airport code	O O O O O
+what is the ap 57 restriction	O O O B I O	restriction code	O O O B I O
+what is the ap 57 restriction	O O O B I O	fromloc city name	O O O O O O
+what is the ap 57 restriction	O O O B I O	days code	O O O O O O
+define airline us	O O B	airline code	O O B
+define airline us	O O B	aircraft code	O O O
+define airline us	O O B	booking class	O O O
+what is hp	O O B	airline code	O O B
+what is hp	O O B	restriction code	O O O
+what is hp	O O B	toloc city name	O O O
+what is ewr	O O B	airport code	O O B
+what is ewr	O O B	airline code	O O O
+what is ewr	O O B	aircraft code	O O O
+what does fn under fare code mean	O O B O O O O	fare basis code	O O B O O O O
+what does fn under fare code mean	O O B O O O O	booking class	O O O O O O O
+what does fn under fare code mean	O O B O O O O	days code	O O O O O O O
+is fare code b the same as business class	O O O B O B O B I	fare basis code	O O O B O O O O O
+is fare code b the same as business class	O O O B O B O B I	mod	O O O O O B O O O
+is fare code b the same as business class	O O O B O B O B I	class type	O O O O O O O B I
+is fare code b the same as business class	O O O B O B O B I	toloc city name	O O O O O O O O O
+is fare code b the same as business class	O O O B O B O B I	booking class	O O O O O O O O O
+what is the fare code y and what is the fare code h	O O O O O B O O O O O O B	fare basis code	O O O O O B O O O O O O B
+what is the fare code y and what is the fare code h	O O O O O B O O O O O O B	fare basis code	O O O O O B O O O O O O B
+what is the fare code y and what is the fare code h	O O O O O B O O O O O O B	toloc city name	O O O O O O O O O O O O O
+what is the fare code y and what is the fare code h	O O O O O B O O O O O O B	meal	O O O O O O O O O O O O O
+what does y mean	O O B O	fare basis code	O O B O
+what does y mean	O O B O	class type	O O O O
+what does y mean	O O B O	fromloc city name	O O O O
+what does ls stand for	O O B O O	meal code	O O B O O
+what does ls stand for	O O B O O	airport code	O O O O O
+what does ls stand for	O O B O O	toloc city name	O O O O O
+what does us mean	O O B O	airline code	O O B O
+what does us mean	O O B O	booking class	O O O O
+what does us mean	O O B O	class type	O O O O
+what does mco stand for	O O B O O	airport code	O O B O O
+what does mco stand for	O O B O O	meal code	O O O O O
+what does mco stand for	O O B O O	mod	O O O O O
+what does ap57 mean	O O B O	restriction code	O O B O
+what does ap57 mean	O O B O	meal code	O O O O
+what does ap57 mean	O O B O	booking class	O O O O
+what does ua stand for	O O B O O	airline code	O O B O O
+what does ua stand for	O O B O O	restriction code	O O O O O
+what does ua stand for	O O B O O	toloc city name	O O O O O
+what are fare codes qw and qx	O O O O B O B	fare basis code	O O O O B O B
+what are fare codes qw and qx	O O O O B O B	fare basis code	O O O O B O B
+what are fare codes qw and qx	O O O O B O B	restriction code	O O O O O O O
+what are fare codes qw and qx	O O O O B O B	days code	O O O O O O O
+what is dl	O O B	airline code	O O B
+what is dl	O O B	booking class	O O O
+what is dl	O O B	aircraft code	O O O
+what does restriction ap 57 mean	O O O B I O	restriction code	O O O B I O
+what does restriction ap 57 mean	O O O B I O	meal	O O O O O O
+what does restriction ap 57 mean	O O O B I O	fare basis code	O O O O O O
+explain restriction ap80	O O B	restriction code	O O B
+explain restriction ap80	O O B	airport code	O O O
+explain restriction ap80	O O B	meal code	O O O
+what does the abbreviation ua mean	O O O O B O	airline code	O O O O B O
+what does the abbreviation ua mean	O O O O B O	airline name	O O O O O O
+what does the abbreviation ua mean	O O O O B O	aircraft code	O O O O O O
+does dl stand for delta	O B O O B	airline code	O B O O O
+does dl stand for delta	O B O O B	airline name	O O O O B
+does dl stand for delta	O B O O B	airport code	O O O O O
+does dl stand for delta	O B O O B	fromloc city name	O O O O O
+what does restriction ap 57	O O O B I	restriction code	O O O B I
+what does restriction ap 57	O O O B I	mod	O O O O O
+what does restriction ap 57	O O O B I	days code	O O O O O
+what is restriction ap 57	O O O B I	restriction code	O O O B I
+what is restriction ap 57	O O O B I	days code	O O O O O
+what is restriction ap 57	O O O B I	mod	O O O O O
+what does us mean	O O B O	airline code	O O B O
+what does us mean	O O B O	meal	O O O O
+what does us mean	O O B O	airport code	O O O O
+what is fare code h	O O O O B	fare basis code	O O O O B
+what is fare code h	O O O O B	days code	O O O O O
+what is fare code h	O O O O B	restriction code	O O O O O
+what is ord	O O B	airport code	O O B
+what is ord	O O B	booking class	O O O
+what is ord	O O B	meal code	O O O
+what is mia	O O B	airport code	O O B
+what is mia	O O B	meal	O O O
+what is mia	O O B	aircraft code	O O O
+what does co mean	O O B O	airline code	O O B O
+what does co mean	O O B O	aircraft code	O O O O
+what does co mean	O O B O	class type	O O O O
+what is ewr	O O B	airport code	O O B
+what is ewr	O O B	aircraft code	O O O
+what is ewr	O O B	meal code	O O O
+what is bna	O O B	airport code	O O B
+what is bna	O O B	meal	O O O
+what is bna	O O B	airline name	O O O
+what does the meal code s stand for	O O O B O B O O	meal	O O O B O O O O
+what does the meal code s stand for	O O O B O B O O	meal code	O O O O O B O O
+what does the meal code s stand for	O O O B O B O O	fare basis code	O O O O O O O O
+what does the meal code s stand for	O O O B O B O O	airline code	O O O O O O O O
+what is fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what is fare code qo mean	O O O O B O	airline name	O O O O O O
+what is fare code qo mean	O O O O B O	fromloc city name	O O O O O O
+what does ewr mean	O O B O	airport code	O O B O
+what does ewr mean	O O B O	mod	O O O O
+what does ewr mean	O O B O	airline code	O O O O
+what does fare code qx mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qx mean	O O O O B O	meal	O O O O O O
+what does fare code qx mean	O O O O B O	class type	O O O O O O
+what is the yn code	O O O B O	fare basis code	O O O B O
+what is the yn code	O O O B O	airline name	O O O O O
+what is the yn code	O O O B O	meal code	O O O O O
+what does restriction ap 80 mean	O O O B I O	restriction code	O O O B I O
+what does restriction ap 80 mean	O O O B I O	class type	O O O O O O
+what does restriction ap 80 mean	O O O B I O	meal code	O O O O O O
+what is sa	O O B	days code	O O B
+what is sa	O O B	restriction code	O O O
+what is sa	O O B	toloc city name	O O O
+show me what fare codes symbols stand for	O O O O O O O O	fromloc.city_name	O O O O O O O O
+what is hp	O O B	airline code	O O B
+what is hp	O O B	fare basis code	O O O
+what is hp	O O B	toloc city name	O O O
+what does ord mean	O O B O	airport code	O O B O
+what does ord mean	O O B O	toloc city name	O O O O
+what does ord mean	O O B O	booking class	O O O O
+what does nw stand for	O O B O O	airline code	O O B O O
+what does nw stand for	O O B O O	airport code	O O O O O
+what does nw stand for	O O B O O	fare basis code	O O O O O
+what is fare code m	O O O O B	fare basis code	O O O O B
+what is fare code m	O O O O B	meal	O O O O O
+what is fare code m	O O O O B	booking class	O O O O O
+what does the abbreviation co mean	O O O O B O	airline code	O O O O B O
+what does the abbreviation co mean	O O O O B O	airport code	O O O O O O
+what does the abbreviation co mean	O O O O B O	class type	O O O O O O
+what does lax stand for	O O B O O	airport code	O O B O O
+what does lax stand for	O O B O O	fromloc city name	O O O O O
+what does lax stand for	O O B O O	meal	O O O O O
+what does yn stand for	O O B O O	fare basis code	O O B O O
+what does yn stand for	O O B O O	fromloc city name	O O O O O
+what does yn stand for	O O B O O	mod	O O O O O
+what fare codes cover flights from philadelphia to san francisco	O O O O O O B O B I	fromloc city name	O O O O O O B O O O
+what fare codes cover flights from philadelphia to san francisco	O O O O O O B O B I	toloc city name	O O O O O O O O B I
+what fare codes cover flights from philadelphia to san francisco	O O O O O O B O B I	meal code	O O O O O O O O O O
+what fare codes cover flights from philadelphia to san francisco	O O O O O O B O B I	aircraft code	O O O O O O O O O O
+what does ewr stand for	O O B O O	airport code	O O B O O
+what does ewr stand for	O O B O O	mod	O O O O O
+what does ewr stand for	O O B O O	restriction code	O O O O O
+what is fare code c	O O O O B	fare basis code	O O O O B
+what is fare code c	O O O O B	airline name	O O O O O
+what is fare code c	O O O O B	mod	O O O O O
+what is fare code y mean	O O O O B O	fare basis code	O O O O B O
+what is fare code y mean	O O O O B O	meal	O O O O O O
+what is fare code y mean	O O O O B O	days code	O O O O O O
+what does fare code q mean	O O O O B O	fare basis code	O O O O B O
+what does fare code q mean	O O O O B O	toloc city name	O O O O O O
+what does fare code q mean	O O O O B O	class type	O O O O O O
+what is sa	O O B	days code	O O B
+what is sa	O O B	class type	O O O
+what is sa	O O B	mod	O O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	fromloc city name	O O O O O O
+what does fare code qo mean	O O O O B O	toloc city name	O O O O O O
+what does mco mean	O O B O	airport code	O O B O
+what does mco mean	O O B O	days code	O O O O
+what does mco mean	O O B O	booking class	O O O O
+what is fare class h	O O O O B	fare basis code	O O O O B
+what is fare class h	O O O O B	restriction code	O O O O O
+what is fare class h	O O O O B	airline name	O O O O O
+what's fare code yn	O O O B	fare basis code	O O O B
+what's fare code yn	O O O B	restriction code	O O O O
+what's fare code yn	O O O B	class type	O O O O
+what does fare code qw mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qw mean	O O O O B O	aircraft code	O O O O O O
+what does fare code qw mean	O O O O B O	airline name	O O O O O O
+what is fare code f	O O O O B	fare basis code	O O O O B
+what is fare code f	O O O O B	class type	O O O O O
+what is fare code f	O O O O B	days code	O O O O O
+explain the restriction ap 80	O O O B I	restriction code	O O O B I
+explain the restriction ap 80	O O O B I	airport code	O O O O O
+explain the restriction ap 80	O O O B I	fromloc city name	O O O O O
+what does code qw mean	O O O B O	fare basis code	O O O B O
+what does code qw mean	O O O B O	restriction code	O O O O O
+what does code qw mean	O O O B O	airport code	O O O O O
+what is meal code sb	O O O O B	meal code	O O O O B
+what is meal code sb	O O O O B	aircraft code	O O O O O
+what is meal code sb	O O O O B	airport code	O O O O O
+what is fare code m	O O O O B	fare basis code	O O O O B
+what is fare code m	O O O O B	restriction code	O O O O O
+what is fare code m	O O O O B	aircraft code	O O O O O
+what is fare code f	O O O O B	fare basis code	O O O O B
+what is fare code f	O O O O B	fromloc city name	O O O O O
+what is fare code f	O O O O B	airline name	O O O O O
+what does hp stand for	O O B O O	airline code	O O B O O
+what does hp stand for	O O B O O	restriction code	O O O O O
+what does hp stand for	O O B O O	airport code	O O O O O
+what does fare code bn mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bn mean	O O O O B O	meal code	O O O O O O
+what does fare code bn mean	O O O O B O	toloc city name	O O O O O O
+what does ua mean	O O B O	airline code	O O B O
+what does ua mean	O O B O	days code	O O O O
+what does ua mean	O O B O	aircraft code	O O O O
+what does q mean	O O B O	fare basis code	O O B O
+what does q mean	O O B O	aircraft code	O O O O
+what does q mean	O O B O	meal code	O O O O
+what does m mean	O O B O	fare basis code	O O B O
+what does m mean	O O B O	booking class	O O O O
+what does m mean	O O B O	airline name	O O O O
+what does ap 57 mean	O O B I O	restriction code	O O B I O
+what does ap 57 mean	O O B I O	airline name	O O O O O
+what does ap 57 mean	O O B I O	days code	O O O O O
+what does ap 20 mean	O O B I O	restriction code	O O B I O
+what does ap 20 mean	O O B I O	airline code	O O O O O
+what does ap 20 mean	O O B I O	toloc city name	O O O O O
+what is phl	O O B	airport code	O O B
+what is phl	O O B	restriction code	O O O
+what is phl	O O B	meal code	O O O
+what is mci	O O B	airport code	O O B
+what is mci	O O B	meal code	O O O
+what is mci	O O B	mod	O O O
+what does not sa mean	O O B B O	mod	O O B O O
+what does not sa mean	O O B B O	days code	O O O B O
+what does not sa mean	O O B B O	meal	O O O O O
+what does not sa mean	O O B B O	airline name	O O O O O
+what is tpa	O O B	airport code	O O B
+what is tpa	O O B	meal code	O O O
+what is tpa	O O B	fare basis code	O O O
+what does fare code qo mean	O O O O B O	fare basis code	O O O O B O
+what does fare code qo mean	O O O O B O	meal	O O O O O O
+what does fare code qo mean	O O O O B O	airport code	O O O O O O
+what the abbreviation us stand for	O O O B O O	airline code	O O O B O O
+what the abbreviation us stand for	O O O B O O	fromloc city name	O O O O O O
+what the abbreviation us stand for	O O O B O O	mod	O O O O O O
+what does fare code f mean	O O O O B O	fare basis code	O O O O B O
+what does fare code f mean	O O O O B O	toloc city name	O O O O O O
+what does fare code f mean	O O O O B O	fromloc city name	O O O O O O
+what does fare code h mean	O O O O B O	fare basis code	O O O O B O
+what does fare code h mean	O O O O B O	aircraft code	O O O O O O
+what does fare code h mean	O O O O B O	airline code	O O O O O O
+what does fare code y mean	O O O O B O	fare basis code	O O O O B O
+what does fare code y mean	O O O O B O	airline code	O O O O O O
+what does fare code y mean	O O O O B O	toloc city name	O O O O O O
+what are restrictions ap 57	O O O B I	restriction code	O O O B I
+what are restrictions ap 57	O O O B I	airline code	O O O O O
+what are restrictions ap 57	O O O B I	airline name	O O O O O
+what does fare code bh mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bh mean	O O O O B O	restriction code	O O O O O O
+what does fare code bh mean	O O O O B O	aircraft code	O O O O O O
+what does fare code bh mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bh mean	O O O O B O	mod	O O O O O O
+what does fare code bh mean	O O O O B O	airline name	O O O O O O
+what does fare code bh mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bh mean	O O O O B O	class type	O O O O O O
+what does fare code bh mean	O O O O B O	airline name	O O O O O O
+what does fare code bh mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bh mean	O O O O B O	restriction code	O O O O O O
+what does fare code bh mean	O O O O B O	meal code	O O O O O O
+what does fare code bh mean	O O O O B O	fare basis code	O O O O B O
+what does fare code bh mean	O O O O B O	class type	O O O O O O
+what does fare code bh mean	O O O O B O	toloc city name	O O O O O O
+what does fare code f mean	O O O O B O	fare basis code	O O O O B O
+what does fare code f mean	O O O O B O	days code	O O O O O O
+what does fare code f mean	O O O O B O	fromloc city name	O O O O O O
+what does the restriction ap58 mean	O O O O B O	restriction code	O O O O B O
+what does the restriction ap58 mean	O O O O B O	meal code	O O O O O O
+what does the restriction ap58 mean	O O O O B O	meal	O O O O O O
+what does fare code h mean	O O O O B O	fare basis code	O O O O B O
+what does fare code h mean	O O O O B O	toloc city name	O O O O O O
+what does fare code h mean	O O O O B O	aircraft code	O O O O O O
+what class is fare code q	O O O O O B	booking class	O O O O O B
+what class is fare code q	O O O O O B	days code	O O O O O O
+what class is fare code q	O O O O O B	toloc city name	O O O O O O
+what is a d9s	O O O B	aircraft code	O O O B
+what is a d9s	O O O B	class type	O O O O
+what is a d9s	O O O B	booking class	O O O O
+what is a d9s	O O O B	aircraft code	O O O B
+what is a d9s	O O O B	class type	O O O O
+what is a d9s	O O O B	airport code	O O O O
+what is 73s	O O B	aircraft code	O O B
+what is 73s	O O B	mod	O O O
+what is 73s	O O B	days code	O O O
+what is cvg	O O B	airport code	O O B
+what is cvg	O O B	fromloc city name	O O O
+what is cvg	O O B	booking class	O O O

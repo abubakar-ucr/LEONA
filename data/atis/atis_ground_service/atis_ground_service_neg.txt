@@ -1,0 +1,984 @@
+what types of ground transportation are there to san francisco airport	O O O O O O O O B I I	toloc airport name	O O O O O O O O B I I
+what types of ground transportation are there to san francisco airport	O O O O O O O O B I I	month name	O O O O O O O O O O O
+what types of ground transportation are there to san francisco airport	O O O O O O O O B I I	state name	O O O O O O O O O O O
+show me ground transportation in boston and in baltimore	O O O O O B O O B	city name	O O O O O B O O B
+show me ground transportation in boston and in baltimore	O O O O O B O O B	city name	O O O O O B O O B
+show me ground transportation in boston and in baltimore	O O O O O B O O B	time	O O O O O O O O O
+show me ground transportation in boston and in baltimore	O O O O O B O O B	day name	O O O O O O O O O
+ground transportation in phoenix	O O O B	city name	O O O B
+ground transportation in phoenix	O O O B	depart date day name	O O O O
+ground transportation in phoenix	O O O B	toloc airport name	O O O O
+ground transportation in oakland	O O O B	city name	O O O B
+ground transportation in oakland	O O O B	day number	O O O O
+ground transportation in oakland	O O O B	toloc city name	O O O O
+show me ground transportation information for san francisco	O O O O O O B I	city name	O O O O O O B I
+show me ground transportation information for san francisco	O O O O O O B I	today relative	O O O O O O O O
+show me ground transportation information for san francisco	O O O O O O B I	fromloc airport name	O O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in atlanta	O O O O O O B	day number	O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	state name	O O O O O O O
+what kind of ground transportation is there once i get to dallas	O O O O O O O O O O O B	city name	O O O O O O O O O O O B
+what kind of ground transportation is there once i get to dallas	O O O O O O O O O O O B	time relative	O O O O O O O O O O O O
+what kind of ground transportation is there once i get to dallas	O O O O O O O O O O O B	depart date date relative	O O O O O O O O O O O O
+what kind of ground transportation is available in denver	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is available in denver	O O O O O O O O B	depart date day name	O O O O O O O O O
+what kind of ground transportation is available in denver	O O O O O O O O B	period of day	O O O O O O O O O
+what kinds of ground transportation is available in dallas fort worth	O O O O O O O O B I I	city name	O O O O O O O O B I I
+what kinds of ground transportation is available in dallas fort worth	O O O O O O O O B I I	depart date month name	O O O O O O O O O O O
+what kinds of ground transportation is available in dallas fort worth	O O O O O O O O B I I	airport code	O O O O O O O O O O O
+what are the ground transportation services in philadelphia	O O O O O O O B	city name	O O O O O O O B
+what are the ground transportation services in philadelphia	O O O O O O O B	flight time	O O O O O O O O
+what are the ground transportation services in philadelphia	O O O O O O O B	state code	O O O O O O O O
+ground transportation washington	O O B	city name	O O B
+ground transportation washington	O O B	flight time	O O O
+ground transportation washington	O O B	toloc airport name	O O O
+is there ground transportation from the atlanta airport to downtown atlanta	O O O O O O B I O O B	fromloc airport name	O O O O O O B I O O O
+is there ground transportation from the atlanta airport to downtown atlanta	O O O O O O B I O O B	toloc city name	O O O O O O O O O O B
+is there ground transportation from the atlanta airport to downtown atlanta	O O O O O O B I O O B	day name	O O O O O O O O O O O
+is there ground transportation from the atlanta airport to downtown atlanta	O O O O O O B I O O B	state code	O O O O O O O O O O O
+what ground transportation is available in newark	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in newark	O O O O O O B	state name	O O O O O O O
+what ground transportation is available in newark	O O O O O O B	period of day	O O O O O O O
+in denver what kind of ground transportation is there from the airport to downtown	O B O O O O O O O O O O O O	city name	O B O O O O O O O O O O O O
+in denver what kind of ground transportation is there from the airport to downtown	O B O O O O O O O O O O O O	depart date day name	O O O O O O O O O O O O O O
+in denver what kind of ground transportation is there from the airport to downtown	O B O O O O O O O O O O O O	time relative	O O O O O O O O O O O O O O
+show me about the ground transportation in boston	O O O O O O O B	city name	O O O O O O O B
+show me about the ground transportation in boston	O O O O O O O B	transport type	O O O O O O O O
+show me about the ground transportation in boston	O O O O O O O B	toloc city name	O O O O O O O O
+ground transportation in baltimore	O O O B	city name	O O O B
+ground transportation in baltimore	O O O B	day name	O O O O
+ground transportation in baltimore	O O O B	state name	O O O O
+show me all ground transportation in washington dc	O O O O O O B B	city name	O O O O O O B O
+show me all ground transportation in washington dc	O O O O O O B B	state code	O O O O O O O B
+show me all ground transportation in washington dc	O O O O O O B B	depart date day number	O O O O O O O O
+show me all ground transportation in washington dc	O O O O O O B B	depart date day name	O O O O O O O O
+is there limousine service available at baltimore airport	O O B O O O B I	transport type	O O B O O O O O
+is there limousine service available at baltimore airport	O O B O O O B I	airport name	O O O O O O B I
+is there limousine service available at baltimore airport	O O B O O O B I	depart date day name	O O O O O O O O
+is there limousine service available at baltimore airport	O O B O O O B I	depart date month name	O O O O O O O O
+can i get a rental car in dallas	O O O O B I O B	transport type	O O O O B I O O
+can i get a rental car in dallas	O O O O B I O B	city name	O O O O O O O B
+can i get a rental car in dallas	O O O O B I O B	state code	O O O O O O O O
+can i get a rental car in dallas	O O O O B I O B	fromloc city name	O O O O O O O O
+tell me about ground transportation at san francisco	O O O O O O B I	city name	O O O O O O B I
+tell me about ground transportation at san francisco	O O O O O O B I	depart date date relative	O O O O O O O O
+tell me about ground transportation at san francisco	O O O O O O B I	fromloc airport name	O O O O O O O O
+information on ground transportation from airport to downtown boston	O O O O O O O O B	toloc city name	O O O O O O O O B
+information on ground transportation from airport to downtown boston	O O O O O O O O B	depart date date relative	O O O O O O O O O
+information on ground transportation from airport to downtown boston	O O O O O O O O B	depart date day number	O O O O O O O O O
+is there ground transportation from the milwaukee airport to the downtown area	O O O O O O B I O O O O	airport name	O O O O O O B I O O O O
+is there ground transportation from the milwaukee airport to the downtown area	O O O O O O B I O O O O	toloc airport name	O O O O O O O O O O O O
+is there ground transportation from the milwaukee airport to the downtown area	O O O O O O B I O O O O	fromloc city name	O O O O O O O O O O O O
+is there an airport limousine at the atlanta airport	O O O B I O O B I	transport type	O O O B I O O O O
+is there an airport limousine at the atlanta airport	O O O B I O O B I	airport name	O O O O O O O B I
+is there an airport limousine at the atlanta airport	O O O B I O O B I	time relative	O O O O O O O O O
+is there an airport limousine at the atlanta airport	O O O B I O O B I	depart date day name	O O O O O O O O O
+show me ground transportation information for pittsburgh	O O O O O O B	city name	O O O O O O B
+show me ground transportation information for pittsburgh	O O O O O O B	state code	O O O O O O O
+show me ground transportation information for pittsburgh	O O O O O O B	depart date day number	O O O O O O O
+is there transportation from the atlanta airport to downtown atlanta	O O O O O B I O O B	fromloc airport name	O O O O O B I O O O
+is there transportation from the atlanta airport to downtown atlanta	O O O O O B I O O B	toloc city name	O O O O O O O O O B
+is there transportation from the atlanta airport to downtown atlanta	O O O O O B I O O B	day name	O O O O O O O O O O
+is there transportation from the atlanta airport to downtown atlanta	O O O O O B I O O B	day number	O O O O O O O O O O
+please give me ground transportation information for denver	O O O O O O O B	city name	O O O O O O O B
+please give me ground transportation information for denver	O O O O O O O B	depart date day name	O O O O O O O O
+please give me ground transportation information for denver	O O O O O O O B	or	O O O O O O O O
+what ground transport is available in charlotte	O O O O O O B	city name	O O O O O O B
+what ground transport is available in charlotte	O O O O O O B	depart date date relative	O O O O O O O
+what ground transport is available in charlotte	O O O O O O B	fromloc airport name	O O O O O O O
+what ground transportation is available in pittsburgh	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in pittsburgh	O O O O O O B	toloc city name	O O O O O O O
+what ground transportation is available in pittsburgh	O O O O O O B	today relative	O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	city name	O O O O O O B I
+what ground transportation is available in san francisco	O O O O O O B I	airport code	O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	fromloc airport name	O O O O O O O O
+can i see ground transportation from long beach airport to downtown	O O O O O O B I O O O	fromloc city name	O O O O O O B I O O O
+can i see ground transportation from long beach airport to downtown	O O O O O O B I O O O	airport name	O O O O O O O O O O O
+can i see ground transportation from long beach airport to downtown	O O O O O O B I O O O	flight time	O O O O O O O O O O O
+what ground transportation is available in denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in denver	O O O O O O B	fromloc city name	O O O O O O O
+what ground transportation is available in denver	O O O O O O B	state name	O O O O O O O
+what ground transportation is available at the atlanta airport	O O O O O O O B I	airport name	O O O O O O O B I
+what ground transportation is available at the atlanta airport	O O O O O O O B I	time relative	O O O O O O O O O
+what ground transportation is available at the atlanta airport	O O O O O O O B I	month name	O O O O O O O O O
+what limousine service in los angeles	O B O O B I	transport type	O B O O O O
+what limousine service in los angeles	O B O O B I	city name	O O O O B I
+what limousine service in los angeles	O B O O B I	month name	O O O O O O
+what limousine service in los angeles	O B O O B I	depart date month name	O O O O O O
+ground transportation from airport in boston to downtown boston	O O O O O B O O B	fromloc city name	O O O O O B O O O
+ground transportation from airport in boston to downtown boston	O O O O O B O O B	toloc city name	O O O O O O O O B
+ground transportation from airport in boston to downtown boston	O O O O O B O O B	depart date day number	O O O O O O O O O
+ground transportation from airport in boston to downtown boston	O O O O O B O O B	day number	O O O O O O O O O
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B I O O B	fromloc airport name	O O O O O O O B I O O O
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B I O O B	toloc city name	O O O O O O O O O O O B
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B I O O B	today relative	O O O O O O O O O O O O
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B I O O B	toloc airport name	O O O O O O O O O O O O
+is there ground transportation from the airport in denver to downtown	O O O O O O O O B O O	fromloc city name	O O O O O O O O B O O
+is there ground transportation from the airport in denver to downtown	O O O O O O O O B O O	today relative	O O O O O O O O O O O
+is there ground transportation from the airport in denver to downtown	O O O O O O O O B O O	depart date day name	O O O O O O O O O O O
+what ground transportation is there in dallas	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in dallas	O O O O O O B	depart date day name	O O O O O O O
+what ground transportation is there in dallas	O O O O O O B	month name	O O O O O O O
+and how can i get to the boston airport from downtown boston	O O O O O O O B I O O B	toloc airport name	O O O O O O O B I O O O
+and how can i get to the boston airport from downtown boston	O O O O O O O B I O O B	fromloc city name	O O O O O O O O O O O B
+and how can i get to the boston airport from downtown boston	O O O O O O O B I O O B	depart date day name	O O O O O O O O O O O O
+and how can i get to the boston airport from downtown boston	O O O O O O O B I O O B	fromloc airport name	O O O O O O O O O O O O
+in atlanta i would like information on ground transportation	O B O O O O O O O	city name	O B O O O O O O O
+in atlanta i would like information on ground transportation	O B O O O O O O O	depart date date relative	O O O O O O O O O
+in atlanta i would like information on ground transportation	O B O O O O O O O	or	O O O O O O O O O
+what is the ground transportation available in the city of philadelphia	O O O O O O O O O O B	city name	O O O O O O O O O O B
+what is the ground transportation available in the city of philadelphia	O O O O O O O O O O B	period of day	O O O O O O O O O O O
+what is the ground transportation available in the city of philadelphia	O O O O O O O O O O B	toloc city name	O O O O O O O O O O O
+how long does the ground transportation take from the salt lake city airport	O O O O O O O O O B I I I	airport name	O O O O O O O O O B I I I
+how long does the ground transportation take from the salt lake city airport	O O O O O O O O O B I I I	depart date date relative	O O O O O O O O O O O O O
+how long does the ground transportation take from the salt lake city airport	O O O O O O O O O B I I I	time relative	O O O O O O O O O O O O O
+show me ground transportation in dallas please	O O O O O B O	city name	O O O O O B O
+show me ground transportation in dallas please	O O O O O B O	flight time	O O O O O O O
+show me ground transportation in dallas please	O O O O O B O	month name	O O O O O O O
+show me a list of ground transportation at boston airport	O O O O O O O O B I	airport name	O O O O O O O O B I
+show me a list of ground transportation at boston airport	O O O O O O O O B I	month name	O O O O O O O O O O
+show me a list of ground transportation at boston airport	O O O O O O O O B I	depart date day name	O O O O O O O O O O
+what ground transportation is available at boston	O O O O O O B	city name	O O O O O O B
+what ground transportation is available at boston	O O O O O O B	depart date month name	O O O O O O O
+what ground transportation is available at boston	O O O O O O B	flight time	O O O O O O O
+is there ground transportation in st. louis	O O O O O B I	city name	O O O O O B I
+is there ground transportation in st. louis	O O O O O B I	period of day	O O O O O O O
+is there ground transportation in st. louis	O O O O O B I	depart date date relative	O O O O O O O
+what ground transportation is available from pittsburgh to downtown	O O O O O O B O O	fromloc city name	O O O O O O B O O
+what ground transportation is available from pittsburgh to downtown	O O O O O O B O O	period of day	O O O O O O O O O
+what ground transportation is available from pittsburgh to downtown	O O O O O O B O O	time relative	O O O O O O O O O
+i need ground transportation in dallas please show me what's available	O O O O O B O O O O O	city name	O O O O O B O O O O O
+i need ground transportation in dallas please show me what's available	O O O O O B O O O O O	period of day	O O O O O O O O O O O
+i need ground transportation in dallas please show me what's available	O O O O O B O O O O O	state code	O O O O O O O O O O O
+is there ground transportation from san diego airport to the downtown area	O O O O O B I I O O O O	fromloc airport name	O O O O O B I I O O O O
+is there ground transportation from san diego airport to the downtown area	O O O O O B I I O O O O	airport name	O O O O O O O O O O O O
+is there ground transportation from san diego airport to the downtown area	O O O O O B I I O O O O	day name	O O O O O O O O O O O O
+list ground transportation options at phoenix	O O O O O B	city name	O O O O O B
+list ground transportation options at phoenix	O O O O O B	month name	O O O O O O
+list ground transportation options at phoenix	O O O O O B	time	O O O O O O
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B B O O	city name	O O O O O O O O O O B O O O
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B B O O	state code	O O O O O O O O O O O B O O
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B B O O	depart date day number	O O O O O O O O O O O O O O
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B B O O	period of day	O O O O O O O O O O O O O O
+please list the rental car information in pittsburgh	O O O B I O O B	transport type	O O O B I O O O
+please list the rental car information in pittsburgh	O O O B I O O B	city name	O O O O O O O B
+please list the rental car information in pittsburgh	O O O B I O O B	or	O O O O O O O O
+please list the rental car information in pittsburgh	O O O B I O O B	airport code	O O O O O O O O
+i'm looking for ground transportation in dallas	O O O O O O B	city name	O O O O O O B
+i'm looking for ground transportation in dallas	O O O O O O B	toloc city name	O O O O O O O
+i'm looking for ground transportation in dallas	O O O O O O B	airport name	O O O O O O O
+ground transportation in las vegas	O O O B I	city name	O O O B I
+ground transportation in las vegas	O O O B I	period of day	O O O O O
+ground transportation in las vegas	O O O B I	state name	O O O O O
+ground transportation please in the city of boston between airport and downtown	O O O O O B I I O O O O	city name	O O O O O B I I O O O O
+ground transportation please in the city of boston between airport and downtown	O O O O O B I I O O O O	depart date date relative	O O O O O O O O O O O O
+ground transportation please in the city of boston between airport and downtown	O O O O O B I I O O O O	airport name	O O O O O O O O O O O O
+show me ground transportation in denver	O O O O O B	city name	O O O O O B
+show me ground transportation in denver	O O O O O B	airport name	O O O O O O
+show me ground transportation in denver	O O O O O B	day name	O O O O O O
+what is the ground transportation in san diego	O O O O O O B I	city name	O O O O O O B I
+what is the ground transportation in san diego	O O O O O O B I	day number	O O O O O O O O
+what is the ground transportation in san diego	O O O O O O B I	depart date day name	O O O O O O O O
+i would like information on ground transportation in the city of atlanta from airport to downtown	O O O O O O O O O O O B O O O O	city name	O O O O O O O O O O O B O O O O
+i would like information on ground transportation in the city of atlanta from airport to downtown	O O O O O O O O O O O B O O O O	flight time	O O O O O O O O O O O O O O O O
+i would like information on ground transportation in the city of atlanta from airport to downtown	O O O O O O O O O O O B O O O O	toloc airport name	O O O O O O O O O O O O O O O O
+ground transportation in denver	O O O B	city name	O O O B
+ground transportation in denver	O O O B	state code	O O O O
+ground transportation in denver	O O O B	transport type	O O O O
+what is the ground transportation available in fort worth	O O O O O O O B I	city name	O O O O O O O B I
+what is the ground transportation available in fort worth	O O O O O O O B I	depart date date relative	O O O O O O O O O
+what is the ground transportation available in fort worth	O O O O O O O B I	fromloc city name	O O O O O O O O O
+can you find out about the ground transportation available in atlanta	O O O O O O O O O O B	city name	O O O O O O O O O O B
+can you find out about the ground transportation available in atlanta	O O O O O O O O O O B	or	O O O O O O O O O O O
+can you find out about the ground transportation available in atlanta	O O O O O O O O O O B	fromloc airport name	O O O O O O O O O O O
+please show me ground transportation in denver	O O O O O O B	city name	O O O O O O B
+please show me ground transportation in denver	O O O O O O B	fromloc airport name	O O O O O O O
+please show me ground transportation in denver	O O O O O O B	depart date day name	O O O O O O O
+what ground transportation is available into washington	O O O O O O B	city name	O O O O O O B
+what ground transportation is available into washington	O O O O O O B	depart date month name	O O O O O O O
+what ground transportation is available into washington	O O O O O O B	toloc airport name	O O O O O O O
+show me the ground transportation in denver	O O O O O O B	city name	O O O O O O B
+show me the ground transportation in denver	O O O O O O B	month name	O O O O O O O
+show me the ground transportation in denver	O O O O O O B	fromloc airport name	O O O O O O O
+please list ground transport in san francisco	O O O O O B I	city name	O O O O O B I
+please list ground transport in san francisco	O O O O O B I	state code	O O O O O O O
+please list ground transport in san francisco	O O O O O B I	toloc city name	O O O O O O O
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	fromloc airport name	O O O O O O O B I I I O O O
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	toloc city name	O O O O O O O O O O O O O B
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	state code	O O O O O O O O O O O O O O
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	airport name	O O O O O O O O O O O O O O
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B O O B I O O B	city name	O O O O O B O O O O O O O
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B O O B I O O B	fromloc airport name	O O O O O O O O B I O O O
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B O O B I O O B	toloc city name	O O O O O O O O O O O O B
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B O O B I O O B	depart date day number	O O O O O O O O O O O O O
+is there ground transportation in dallas from the dallas airport to downtown dallas	O O O O O B O O B I O O B	or	O O O O O O O O O O O O O
+what ground transportation is available in denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in denver	O O O O O O B	transport type	O O O O O O O
+what ground transportation is available in denver	O O O O O O B	flight time	O O O O O O O
+ground transportation in san jose	O O O B I	city name	O O O B I
+ground transportation in san jose	O O O B I	fromloc city name	O O O O O
+ground transportation in san jose	O O O B I	fromloc airport name	O O O O O
+show me ground transportation in boston	O O O O O B	city name	O O O O O B
+show me ground transportation in boston	O O O O O B	toloc city name	O O O O O O
+show me ground transportation in boston	O O O O O B	day number	O O O O O O
+i would like to find out the ground travel available in atlanta	O O O O O O O O O O O B	city name	O O O O O O O O O O O B
+i would like to find out the ground travel available in atlanta	O O O O O O O O O O O B	today relative	O O O O O O O O O O O O
+i would like to find out the ground travel available in atlanta	O O O O O O O O O O O B	month name	O O O O O O O O O O O O
+tell me about ground transportation at toronto	O O O O O O B	city name	O O O O O O B
+tell me about ground transportation at toronto	O O O O O O B	day number	O O O O O O O
+tell me about ground transportation at toronto	O O O O O O B	month name	O O O O O O O
+ground transportation in dallas and boston	O O O B O B	city name	O O O B O B
+ground transportation in dallas and boston	O O O B O B	city name	O O O B O B
+ground transportation in dallas and boston	O O O B O B	fromloc airport name	O O O O O O
+ground transportation in dallas and boston	O O O B O B	toloc airport name	O O O O O O
+show me ground transport in seattle	O O O O O B	city name	O O O O O B
+show me ground transport in seattle	O O O O O B	toloc city name	O O O O O O
+show me ground transport in seattle	O O O O O B	fromloc airport name	O O O O O O
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	transport type	O O O B O B O O O O O O
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	or	O O O O B O O O O O O O
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	transport type	O O O B O B O O O O O O
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	airport name	O O O O O O O O O O B I
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	toloc airport name	O O O O O O O O O O O O
+are there any limousines or taxi services available at the boston airport	O O O B B B O O O O B I	depart date day number	O O O O O O O O O O O O
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	O O O O O O B I O O B	fromloc airport name	O O O O O O B I O O O
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	O O O O O O B I O O B	toloc city name	O O O O O O O O O O B
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	O O O O O O B I O O B	day name	O O O O O O O O O O O
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	O O O O O O B I O O B	today relative	O O O O O O O O O O O
+i will need a car at new york	O O O O B O B I	transport type	O O O O B O O O
+i will need a car at new york	O O O O B O B I	city name	O O O O O O B I
+i will need a car at new york	O O O O B O B I	depart date month name	O O O O O O O O
+i will need a car at new york	O O O O B O B I	today relative	O O O O O O O O
+does the phoenix airport have ground transportation to and from downtown	O O B I O O O O O O O	airport name	O O B I O O O O O O O
+does the phoenix airport have ground transportation to and from downtown	O O B I O O O O O O O	time	O O O O O O O O O O O
+does the phoenix airport have ground transportation to and from downtown	O O B I O O O O O O O	day name	O O O O O O O O O O O
+what ground transportation is available in baltimore	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in baltimore	O O O O O O B	day number	O O O O O O O
+what ground transportation is available in baltimore	O O O O O O B	toloc airport name	O O O O O O O
+ground transportation san francisco	O O B I	city name	O O B I
+ground transportation san francisco	O O B I	time	O O O O
+ground transportation san francisco	O O B I	period of day	O O O O
+what ground transportation is there from the airport in atlanta to downtown	O O O O O O O O O B O O	fromloc city name	O O O O O O O O O B O O
+what ground transportation is there from the airport in atlanta to downtown	O O O O O O O O O B O O	city name	O O O O O O O O O O O O
+what ground transportation is there from the airport in atlanta to downtown	O O O O O O O O O B O O	day name	O O O O O O O O O O O O
+show me ground transportation in denver	O O O O O B	city name	O O O O O B
+show me ground transportation in denver	O O O O O B	transport type	O O O O O O
+show me ground transportation in denver	O O O O O B	fromloc airport name	O O O O O O
+what do you know about car rental in denver	O O O O O B I O B	transport type	O O O O O B I O O
+what do you know about car rental in denver	O O O O O B I O B	city name	O O O O O O O O B
+what do you know about car rental in denver	O O O O O B I O B	fromloc airport name	O O O O O O O O O
+what do you know about car rental in denver	O O O O O B I O B	depart date day name	O O O O O O O O O
+what ground transportation is there in oakland	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in oakland	O O O O O O B	fromloc city name	O O O O O O O
+what ground transportation is there in oakland	O O O O O O B	depart date date relative	O O O O O O O
+i'd like to know the ground travel available in fort worth	O O O O O O O O O B I	city name	O O O O O O O O O B I
+i'd like to know the ground travel available in fort worth	O O O O O O O O O B I	or	O O O O O O O O O O O
+i'd like to know the ground travel available in fort worth	O O O O O O O O O B I	fromloc city name	O O O O O O O O O O O
+what kind of ground transportation can you offer me in seattle	O O O O O O O O O O B	city name	O O O O O O O O O O B
+what kind of ground transportation can you offer me in seattle	O O O O O O O O O O B	transport type	O O O O O O O O O O O
+what kind of ground transportation can you offer me in seattle	O O O O O O O O O O B	airport name	O O O O O O O O O O O
+ground transportation baltimore	O O B	city name	O O B
+ground transportation baltimore	O O B	airport code	O O O
+ground transportation baltimore	O O B	time	O O O
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	transport type	O B I O O O O O O O
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	depart date date relative	O O O O O B O O O O
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	depart date day name	O O O O O O B O O O
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	fromloc airport name	O O O O O O O O B I
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	depart date month name	O O O O O O O O O O
+what car rentals are available next sunday from denver airport	O B I O O B B O B I	today relative	O O O O O O O O O O
+ground transportation oakland	O O B	city name	O O B
+ground transportation oakland	O O B	period of day	O O O
+ground transportation oakland	O O B	day number	O O O
+show me boston ground transportation	O O B O O	city name	O O B O O
+show me boston ground transportation	O O B O O	depart date day number	O O O O O
+show me boston ground transportation	O O B O O	depart date day name	O O O O O
+ground transportation in westchester county	O O O B I	city name	O O O B I
+ground transportation in westchester county	O O O B I	day name	O O O O O
+ground transportation in westchester county	O O O B I	or	O O O O O
+i would like information on ground transportation city of boston between airport and downtown	O O O O O O O B I I O O O O	city name	O O O O O O O B I I O O O O
+i would like information on ground transportation city of boston between airport and downtown	O O O O O O O B I I O O O O	fromloc city name	O O O O O O O O O O O O O O
+i would like information on ground transportation city of boston between airport and downtown	O O O O O O O B I I O O O O	depart date month name	O O O O O O O O O O O O O O
+what is the transportation time from the airport to boston	O O O O B O O O O B	time	O O O O B O O O O O
+what is the transportation time from the airport to boston	O O O O B O O O O B	toloc city name	O O O O O O O O O B
+what is the transportation time from the airport to boston	O O O O B O O O O B	day name	O O O O O O O O O O
+what is the transportation time from the airport to boston	O O O O B O O O O B	time relative	O O O O O O O O O O
+i need information on ground transportation between airport and downtown in the city of boston	O O O O O O O O O O O O B I I	toloc city name	O O O O O O O O O O O O B I I
+i need information on ground transportation between airport and downtown in the city of boston	O O O O O O O O O O O O B I I	airport code	O O O O O O O O O O O O O O O
+i need information on ground transportation between airport and downtown in the city of boston	O O O O O O O O O O O O B I I	time	O O O O O O O O O O O O O O O
+i would like to know the types of ground transportation from the airport to las vegas	O O O O O O O O O O O O O O B I	city name	O O O O O O O O O O O O O O B I
+i would like to know the types of ground transportation from the airport to las vegas	O O O O O O O O O O O O O O B I	day name	O O O O O O O O O O O O O O O O
+i would like to know the types of ground transportation from the airport to las vegas	O O O O O O O O O O O O O O B I	toloc airport name	O O O O O O O O O O O O O O O O
+how do i get downtown from the toronto airport	O O O O O O O B I	fromloc airport name	O O O O O O O B I
+how do i get downtown from the toronto airport	O O O O O O O B I	day number	O O O O O O O O O
+how do i get downtown from the toronto airport	O O O O O O O B I	time relative	O O O O O O O O O
+show me the car rentals in baltimore	O O O B I O B	transport type	O O O B I O O
+show me the car rentals in baltimore	O O O B I O B	city name	O O O O O O B
+show me the car rentals in baltimore	O O O B I O B	toloc city name	O O O O O O O
+show me the car rentals in baltimore	O O O B I O B	state name	O O O O O O O
+what is the ground transportation available in boston	O O O O O O O B	city name	O O O O O O O B
+what is the ground transportation available in boston	O O O O O O O B	state code	O O O O O O O O
+what is the ground transportation available in boston	O O O O O O O B	depart date day number	O O O O O O O O
+show me ground transportation for boston	O O O O O B	city name	O O O O O B
+show me ground transportation for boston	O O O O O B	airport name	O O O O O O
+show me ground transportation for boston	O O O O O B	fromloc airport name	O O O O O O
+what ground transportation is there from denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is there from denver	O O O O O O B	fromloc airport name	O O O O O O O
+what ground transportation is there from denver	O O O O O O B	flight time	O O O O O O O
+ground transportation dallas	O O B	city name	O O B
+ground transportation dallas	O O B	flight time	O O O
+ground transportation dallas	O O B	or	O O O
+i'd like a limo in denver on august seventh	O O O B O B O B B	transport type	O O O B O O O O O
+i'd like a limo in denver on august seventh	O O O B O B O B B	fromloc city name	O O O O O B O O O
+i'd like a limo in denver on august seventh	O O O B O B O B B	depart date month name	O O O O O O O B O
+i'd like a limo in denver on august seventh	O O O B O B O B B	depart date day number	O O O O O O O O B
+i'd like a limo in denver on august seventh	O O O B O B O B B	state name	O O O O O O O O O
+i'd like a limo in denver on august seventh	O O O B O B O B B	day number	O O O O O O O O O
+what is ground transportation between the san francisco airport and the city	O O O O O O B I I O O O	fromloc airport name	O O O O O O B I I O O O
+what is ground transportation between the san francisco airport and the city	O O O O O O B I I O O O	depart date day name	O O O O O O O O O O O O
+what is ground transportation between the san francisco airport and the city	O O O O O O B I I O O O	airport code	O O O O O O O O O O O O
+is there ground transportation from the dallas airport to downtown dallas	O O O O O O B I O O B	fromloc airport name	O O O O O O B I O O O
+is there ground transportation from the dallas airport to downtown dallas	O O O O O O B I O O B	toloc city name	O O O O O O O O O O B
+is there ground transportation from the dallas airport to downtown dallas	O O O O O O B I O O B	today relative	O O O O O O O O O O O
+is there ground transportation from the dallas airport to downtown dallas	O O O O O O B I O O B	depart date day name	O O O O O O O O O O O
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B O B I I I	city name	O O O O O O B O O O O O
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B O B I I I	today relative	O O O O O O O O B I I I
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B O B I I I	airport code	O O O O O O O O O O O O
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B O B I I I	period of day	O O O O O O O O O O O O
+what ground transportation is available at denver airport	O O O O O O B I	airport name	O O O O O O B I
+what ground transportation is available at denver airport	O O O O O O B I	flight time	O O O O O O O O
+what ground transportation is available at denver airport	O O O O O O B I	city name	O O O O O O O O
+show me information on ground transportation for dallas	O O O O O O O B	city name	O O O O O O O B
+show me information on ground transportation for dallas	O O O O O O O B	airport name	O O O O O O O O
+show me information on ground transportation for dallas	O O O O O O O B	toloc city name	O O O O O O O O
+ground transportation between airport and downtown in boston	O O O O O O O B	toloc city name	O O O O O O O B
+ground transportation between airport and downtown in boston	O O O O O O O B	or	O O O O O O O O
+ground transportation between airport and downtown in boston	O O O O O O O B	today relative	O O O O O O O O
+tell me about the ground transportation in chicago	O O O O O O O B	city name	O O O O O O O B
+tell me about the ground transportation in chicago	O O O O O O O B	flight time	O O O O O O O O
+tell me about the ground transportation in chicago	O O O O O O O B	toloc city name	O O O O O O O O
+what ground transport is available in minneapolis	O O O O O O B	city name	O O O O O O B
+what ground transport is available in minneapolis	O O O O O O B	depart date day number	O O O O O O O
+what ground transport is available in minneapolis	O O O O O O B	toloc city name	O O O O O O O
+what is the schedule of ground transportation from the airport in philadelphia into downtown	O O O B O O O O O O O B O O	flight time	O O O B O O O O O O O O O O
+what is the schedule of ground transportation from the airport in philadelphia into downtown	O O O B O O O O O O O B O O	fromloc city name	O O O O O O O O O O O B O O
+what is the schedule of ground transportation from the airport in philadelphia into downtown	O O O B O O O O O O O B O O	time	O O O O O O O O O O O O O O
+what is the schedule of ground transportation from the airport in philadelphia into downtown	O O O B O O O O O O O B O O	toloc airport name	O O O O O O O O O O O O O O
+what is the ground transportation available in fort worth texas	O O O O O O O B I B	city name	O O O O O O O B I O
+what is the ground transportation available in fort worth texas	O O O O O O O B I B	state name	O O O O O O O O O B
+what is the ground transportation available in fort worth texas	O O O O O O O B I B	toloc airport name	O O O O O O O O O O
+what is the ground transportation available in fort worth texas	O O O O O O O B I B	toloc city name	O O O O O O O O O O
+what's the ground transportation like at pittsburgh	O O O O O O B	city name	O O O O O O B
+what's the ground transportation like at pittsburgh	O O O O O O B	flight time	O O O O O O O
+what's the ground transportation like at pittsburgh	O O O O O O B	transport type	O O O O O O O
+show me ground transportation in washington dc	O O O O O B B	city name	O O O O O B O
+show me ground transportation in washington dc	O O O O O B B	state code	O O O O O O B
+show me ground transportation in washington dc	O O O O O B B	day name	O O O O O O O
+show me ground transportation in washington dc	O O O O O B B	today relative	O O O O O O O
+ground transportation for st. paul	O O O B I	city name	O O O B I
+ground transportation for st. paul	O O O B I	day name	O O O O O
+ground transportation for st. paul	O O O B I	airport name	O O O O O
+describe ground transportation in dallas	O O O O B	city name	O O O O B
+describe ground transportation in dallas	O O O O B	period of day	O O O O O
+describe ground transportation in dallas	O O O O B	airport name	O O O O O
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O O O O O O B O O B	fromloc city name	O O O O O O O O O O O O O O O O B O O O
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O O O O O O B O O B	toloc city name	O O O O O O O O O O O O O O O O O O O B
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O O O O O O B O O B	flight time	O O O O O O O O O O O O O O O O O O O O
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O O O O O O B O O B	airport code	O O O O O O O O O O O O O O O O O O O O
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B I O O B I O O O O O O	transport type	O O O B I O O O O O O O O O O
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B I O O B I O O O O O O	airport name	O O O O O O O B I O O O O O O
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B I O O B I O O O O O O	city name	O O O O O O O O O O O O O O O
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B I O O B I O O O O O O	fromloc city name	O O O O O O O O O O O O O O O
+is there any ground transportation to the city in dallas	O O O O O O O B I I	city name	O O O O O O O B I I
+is there any ground transportation to the city in dallas	O O O O O O O B I I	today relative	O O O O O O O O O O
+is there any ground transportation to the city in dallas	O O O O O O O B I I	depart date date relative	O O O O O O O O O O
+what's the ground transportation from oakland to san francisco	O O O O O B O B I	fromloc city name	O O O O O B O O O
+what's the ground transportation from oakland to san francisco	O O O O O B O B I	toloc city name	O O O O O O O B I
+what's the ground transportation from oakland to san francisco	O O O O O B O B I	flight time	O O O O O O O O O
+what's the ground transportation from oakland to san francisco	O O O O O B O B I	depart date month name	O O O O O O O O O
+what ground transportation is available in dallas	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in dallas	O O O O O O B	state name	O O O O O O O
+what ground transportation is available in dallas	O O O O O O B	toloc city name	O O O O O O O
+ground transport in oakland	O O O B	city name	O O O B
+ground transport in oakland	O O O B	airport name	O O O O
+ground transport in oakland	O O O B	depart date date relative	O O O O
+is there ground transportation between airport and downtown in boston	O O O O O O O O O B	toloc city name	O O O O O O O O O B
+is there ground transportation between airport and downtown in boston	O O O O O O O O O B	or	O O O O O O O O O O
+is there ground transportation between airport and downtown in boston	O O O O O O O O O B	depart date day name	O O O O O O O O O O
+what type of ground transportation is available in washington	O O O O O O O O B	city name	O O O O O O O O B
+what type of ground transportation is available in washington	O O O O O O O O B	day number	O O O O O O O O O
+what type of ground transportation is available in washington	O O O O O O O O B	depart date month name	O O O O O O O O O
+can you tell me about ground transportation between the dallas airport and downtown dallas	O O O O O O O O O B I O O B	fromloc airport name	O O O O O O O O O B I O O O
+can you tell me about ground transportation between the dallas airport and downtown dallas	O O O O O O O O O B I O O B	toloc city name	O O O O O O O O O O O O O B
+can you tell me about ground transportation between the dallas airport and downtown dallas	O O O O O O O O O B I O O B	time	O O O O O O O O O O O O O O
+can you tell me about ground transportation between the dallas airport and downtown dallas	O O O O O O O O O B I O O B	or	O O O O O O O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	city name	O O O O O O B I
+what ground transportation is available in san francisco	O O O O O O B I	day number	O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	day name	O O O O O O O O
+tell me about ground transportation in st. petersburg airport	O O O O O O B I I	airport name	O O O O O O B I I
+tell me about ground transportation in st. petersburg airport	O O O O O O B I I	state code	O O O O O O O O O
+tell me about ground transportation in st. petersburg airport	O O O O O O B I I	city name	O O O O O O O O O
+what type of ground transportation is available at logan airport	O O O O O O O O B I	airport name	O O O O O O O O B I
+what type of ground transportation is available at logan airport	O O O O O O O O B I	flight time	O O O O O O O O O O
+what type of ground transportation is available at logan airport	O O O O O O O O B I	period of day	O O O O O O O O O O
+show me the ground transportation in the salt lake city airport	O O O O O O O B I I I	airport name	O O O O O O O B I I I
+show me the ground transportation in the salt lake city airport	O O O O O O O B I I I	fromloc city name	O O O O O O O O O O O
+show me the ground transportation in the salt lake city airport	O O O O O O O B I I I	depart date day number	O O O O O O O O O O O
+ground transportation philadelphia	O O B	city name	O O B
+ground transportation philadelphia	O O B	state name	O O O
+ground transportation philadelphia	O O B	airport code	O O O
+while i'm in pittsburgh what ground transportation is available	O O O B O O O O O	city name	O O O B O O O O O
+while i'm in pittsburgh what ground transportation is available	O O O B O O O O O	toloc city name	O O O O O O O O O
+while i'm in pittsburgh what ground transportation is available	O O O B O O O O O	time	O O O O O O O O O
+train to newark	B O B	transport type	B O O
+train to newark	B O B	city name	O O B
+train to newark	B O B	day name	O O O
+train to newark	B O B	today relative	O O O
+what does ground transportation look like in oakland	O O O O O O O B	city name	O O O O O O O B
+what does ground transportation look like in oakland	O O O O O O O B	today relative	O O O O O O O O
+what does ground transportation look like in oakland	O O O O O O O B	day number	O O O O O O O O
+show me ground transportation in westchester county	O O O O O B I	city name	O O O O O B I
+show me ground transportation in westchester county	O O O O O B I	depart date date relative	O O O O O O O
+show me ground transportation in westchester county	O O O O O B I	depart date month name	O O O O O O O
+is there ground transportation from atlanta airport to downtown atlanta	O O O O O B I O O B	fromloc airport name	O O O O O B I O O O
+is there ground transportation from atlanta airport to downtown atlanta	O O O O O B I O O B	toloc city name	O O O O O O O O O B
+is there ground transportation from atlanta airport to downtown atlanta	O O O O O B I O O B	state code	O O O O O O O O O O
+is there ground transportation from atlanta airport to downtown atlanta	O O O O O B I O O B	depart date day name	O O O O O O O O O O
+what kind of ground transportation is there in philadelphia	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is there in philadelphia	O O O O O O O O B	airport code	O O O O O O O O O
+what kind of ground transportation is there in philadelphia	O O O O O O O O B	toloc airport name	O O O O O O O O O
+atlanta ground transportation	B O O	city name	B O O
+atlanta ground transportation	B O O	toloc airport name	O O O
+atlanta ground transportation	B O O	or	O O O
+what ground transportation is available in dallas tomorrow	O O O O O O B B	city name	O O O O O O B O
+what ground transportation is available in dallas tomorrow	O O O O O O B B	today relative	O O O O O O O B
+what ground transportation is available in dallas tomorrow	O O O O O O B B	fromloc airport name	O O O O O O O O
+what ground transportation is available in dallas tomorrow	O O O O O O B B	depart date month name	O O O O O O O O
+is there ground transportation from the airport to downtown phoenix	O O O O O O O O O B	toloc city name	O O O O O O O O O B
+is there ground transportation from the airport to downtown phoenix	O O O O O O O O O B	time relative	O O O O O O O O O O
+is there ground transportation from the airport to downtown phoenix	O O O O O O O O O B	toloc airport name	O O O O O O O O O O
+how do i get to philadelphia downtown from the airport	O O O O O B O O O O	toloc city name	O O O O O B O O O O
+how do i get to philadelphia downtown from the airport	O O O O O B O O O O	depart date day number	O O O O O O O O O O
+how do i get to philadelphia downtown from the airport	O O O O O B O O O O	state name	O O O O O O O O O O
+what ground transportation is there in denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in denver	O O O O O O B	day name	O O O O O O O
+what ground transportation is there in denver	O O O O O O B	day number	O O O O O O O
+show me a list of ground transportation at denver	O O O O O O O O B	city name	O O O O O O O O B
+show me a list of ground transportation at denver	O O O O O O O O B	day number	O O O O O O O O O
+show me a list of ground transportation at denver	O O O O O O O O B	toloc airport name	O O O O O O O O O
+i need your help with information on ground transportation from the airport in philadelphia to downtown	O O O O O O O O O O O O O B O O	fromloc city name	O O O O O O O O O O O O O B O O
+i need your help with information on ground transportation from the airport in philadelphia to downtown	O O O O O O O O O O O O O B O O	time relative	O O O O O O O O O O O O O O O O
+i need your help with information on ground transportation from the airport in philadelphia to downtown	O O O O O O O O O O O O O B O O	depart date day name	O O O O O O O O O O O O O O O O
+show me the ground transportation at denver	O O O O O O B	city name	O O O O O O B
+show me the ground transportation at denver	O O O O O O B	airport name	O O O O O O O
+show me the ground transportation at denver	O O O O O O B	time relative	O O O O O O O
+please give ground transportation at denver airport	O O O O O B I	airport name	O O O O O B I
+please give ground transportation at denver airport	O O O O O B I	toloc airport name	O O O O O O O
+please give ground transportation at denver airport	O O O O O B I	state name	O O O O O O O
+what type of ground transportation is available between the airport and downtown san francisco	O O O O O O O O O O O O B I	toloc city name	O O O O O O O O O O O O B I
+what type of ground transportation is available between the airport and downtown san francisco	O O O O O O O O O O O O B I	time relative	O O O O O O O O O O O O O O
+what type of ground transportation is available between the airport and downtown san francisco	O O O O O O O O O O O O B I	month name	O O O O O O O O O O O O O O
+show me the car rentals in baltimore	O O O B I O B	transport type	O O O B I O O
+show me the car rentals in baltimore	O O O B I O B	city name	O O O O O O B
+show me the car rentals in baltimore	O O O B I O B	depart date day number	O O O O O O O
+show me the car rentals in baltimore	O O O B I O B	airport name	O O O O O O O
+what is the ground transportation from philadelphia airport to the city proper	O O O O O O B I O O O O	fromloc airport name	O O O O O O B I O O O O
+what is the ground transportation from philadelphia airport to the city proper	O O O O O O B I O O O O	period of day	O O O O O O O O O O O O
+what is the ground transportation from philadelphia airport to the city proper	O O O O O O B I O O O O	transport type	O O O O O O O O O O O O
+show me the ground transportation to westchester county	O O O O O O B I	city name	O O O O O O B I
+show me the ground transportation to westchester county	O O O O O O B I	state code	O O O O O O O O
+show me the ground transportation to westchester county	O O O O O O B I	airport name	O O O O O O O O
+what types of ground transportation are available in denver	O O O O O O O O B	city name	O O O O O O O O B
+what types of ground transportation are available in denver	O O O O O O O O B	day number	O O O O O O O O O
+what types of ground transportation are available in denver	O O O O O O O O B	depart date month name	O O O O O O O O O
+dallas ground transportation	B O O	city name	B O O
+dallas ground transportation	B O O	state code	O O O
+dallas ground transportation	B O O	airport code	O O O
+what is the available ground transportation between san francisco and downtown	O O O O O O O B I O O	fromloc city name	O O O O O O O B I O O
+what is the available ground transportation between san francisco and downtown	O O O O O O O B I O O	time relative	O O O O O O O O O O O
+what is the available ground transportation between san francisco and downtown	O O O O O O O B I O O	or	O O O O O O O O O O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	city name	O O O O O O O O B O O O O O O O O O O O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	period of day	O O O O O O O O O O O O O O O O O B O O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	time relative	O O O O O O O O O O O O O O O O O O B O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	time	O O O O O O O O O O O O O O O O O O O B I
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	state code	O O O O O O O O O O O O O O O O O O O O O
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B O O O O O O O O B B B I	day number	O O O O O O O O O O O O O O O O O O O O O
+what kind of ground transportation is there in washington dc	O O O O O O O O B B	city name	O O O O O O O O B O
+what kind of ground transportation is there in washington dc	O O O O O O O O B B	state code	O O O O O O O O O B
+what kind of ground transportation is there in washington dc	O O O O O O O O B B	toloc city name	O O O O O O O O O O
+what kind of ground transportation is there in washington dc	O O O O O O O O B B	airport name	O O O O O O O O O O
+what ground transportation is available in boston	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in boston	O O O O O O B	state code	O O O O O O O
+what ground transportation is available in boston	O O O O O O B	day number	O O O O O O O
+i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available	O O O O O O B O O O O O O O O O O O O O	city name	O O O O O O B O O O O O O O O O O O O O
+i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available	O O O O O O B O O O O O O O O O O O O O	airport code	O O O O O O O O O O O O O O O O O O O O
+i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available	O O O O O O B O O O O O O O O O O O O O	state name	O O O O O O O O O O O O O O O O O O O O
+what ground transportation is available from the pittsburgh airport to the town	O O O O O O O B I O O O	fromloc airport name	O O O O O O O B I O O O
+what ground transportation is available from the pittsburgh airport to the town	O O O O O O O B I O O O	depart date date relative	O O O O O O O O O O O O
+what ground transportation is available from the pittsburgh airport to the town	O O O O O O O B I O O O	day number	O O O O O O O O O O O O
+show me ground transportation in denver during weekdays	O O O O O B O O	city name	O O O O O B O O
+show me ground transportation in denver during weekdays	O O O O O B O O	depart date day number	O O O O O O O O
+show me ground transportation in denver during weekdays	O O O O O B O O	day name	O O O O O O O O
+what is the ground transportation available in denver	O O O O O O O B	city name	O O O O O O O B
+what is the ground transportation available in denver	O O O O O O O B	day number	O O O O O O O O
+what is the ground transportation available in denver	O O O O O O O B	transport type	O O O O O O O O
+in dallas fort worth i would like information on ground transportation	O B I I O O O O O O O	city name	O B I I O O O O O O O
+in dallas fort worth i would like information on ground transportation	O B I I O O O O O O O	toloc city name	O O O O O O O O O O O
+in dallas fort worth i would like information on ground transportation	O B I I O O O O O O O	today relative	O O O O O O O O O O O
+what limousine service in toronto	O B O O B	transport type	O B O O O
+what limousine service in toronto	O B O O B	city name	O O O O B
+what limousine service in toronto	O B O O B	flight time	O O O O O
+what limousine service in toronto	O B O O B	airport code	O O O O O
+ground transport denver	O O B	city name	O O B
+ground transport denver	O O B	depart date date relative	O O O
+ground transport denver	O O B	day name	O O O
+what sort of ground transportation is there in washington dc	O O O O O O O O B B	city name	O O O O O O O O B O
+what sort of ground transportation is there in washington dc	O O O O O O O O B B	state code	O O O O O O O O O B
+what sort of ground transportation is there in washington dc	O O O O O O O O B B	airport name	O O O O O O O O O O
+what sort of ground transportation is there in washington dc	O O O O O O O O B B	day number	O O O O O O O O O O
+i need ground transportation in seattle	O O O O O B	city name	O O O O O B
+i need ground transportation in seattle	O O O O O B	time relative	O O O O O O
+i need ground transportation in seattle	O O O O O B	airport code	O O O O O O
+train to newark	B O B	transport type	B O O
+train to newark	B O B	city name	O O B
+train to newark	B O B	day number	O O O
+train to newark	B O B	or	O O O
+what ground transportation is available in charlotte	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in charlotte	O O O O O O B	day name	O O O O O O O
+what ground transportation is available in charlotte	O O O O O O B	state name	O O O O O O O
+what is the ground transportation from boston airport to boston downtown	O O O O O O B I O B O	fromloc airport name	O O O O O O B I O O O
+what is the ground transportation from boston airport to boston downtown	O O O O O O B I O B O	toloc city name	O O O O O O O O O B O
+what is the ground transportation from boston airport to boston downtown	O O O O O O B I O B O	day number	O O O O O O O O O O O
+what is the ground transportation from boston airport to boston downtown	O O O O O O B I O B O	today relative	O O O O O O O O O O O
+can i rent a car in san jose too	O O O O B O B I O	transport type	O O O O B O O O O
+can i rent a car in san jose too	O O O O B O B I O	city name	O O O O O O B I O
+can i rent a car in san jose too	O O O O B O B I O	depart date day number	O O O O O O O O O
+can i rent a car in san jose too	O O O O B O B I O	airport code	O O O O O O O O O
+show me ground transportation in san francisco	O O O O O B I	city name	O O O O O B I
+show me ground transportation in san francisco	O O O O O B I	time	O O O O O O O
+show me ground transportation in san francisco	O O O O O B I	fromloc airport name	O O O O O O O
+what ground transportation is available from the pittsburgh airport	O O O O O O O B I	fromloc airport name	O O O O O O O B I
+what ground transportation is available from the pittsburgh airport	O O O O O O O B I	depart date date relative	O O O O O O O O O
+what ground transportation is available from the pittsburgh airport	O O O O O O O B I	transport type	O O O O O O O O O
+what ground transportation is available in atlanta	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in atlanta	O O O O O O B	toloc city name	O O O O O O O
+what ground transportation is available in atlanta	O O O O O O B	state name	O O O O O O O
+show me ground transportation in baltimore	O O O O O B	city name	O O O O O B
+show me ground transportation in baltimore	O O O O O B	today relative	O O O O O O
+show me ground transportation in baltimore	O O O O O B	fromloc city name	O O O O O O
+what about a car rental in denver	O O O B I O B	transport type	O O O B I O O
+what about a car rental in denver	O O O B I O B	city name	O O O O O O B
+what about a car rental in denver	O O O B I O B	airport name	O O O O O O O
+what about a car rental in denver	O O O B I O B	time relative	O O O O O O O
+what ground transportation is available in dallas	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in dallas	O O O O O O B	day name	O O O O O O O
+what ground transportation is available in dallas	O O O O O O B	airport name	O O O O O O O
+rental car in baltimore	B I O B	transport type	B I O O
+rental car in baltimore	B I O B	city name	O O O B
+rental car in baltimore	B I O B	or	O O O O
+rental car in baltimore	B I O B	toloc airport name	O O O O
+show me ground transportation for dallas	O O O O O B	city name	O O O O O B
+show me ground transportation for dallas	O O O O O B	fromloc city name	O O O O O O
+show me ground transportation for dallas	O O O O O B	month name	O O O O O O
+i need to get downtown from the denver airport	O O O O O O O B I	fromloc airport name	O O O O O O O B I
+i need to get downtown from the denver airport	O O O O O O O B I	toloc city name	O O O O O O O O O
+i need to get downtown from the denver airport	O O O O O O O B I	day name	O O O O O O O O O
+what is the available ground transportation between the airport in denver and downtown	O O O O O O O O O O B O O	fromloc city name	O O O O O O O O O O B O O
+what is the available ground transportation between the airport in denver and downtown	O O O O O O O O O O B O O	or	O O O O O O O O O O O O O
+what is the available ground transportation between the airport in denver and downtown	O O O O O O O O O O B O O	day name	O O O O O O O O O O O O O
+ground transportation minneapolis	O O B	city name	O O B
+ground transportation minneapolis	O O B	month name	O O O
+ground transportation minneapolis	O O B	time	O O O
+rental cars in boston	B I O B	transport type	B I O O
+rental cars in boston	B I O B	city name	O O O B
+rental cars in boston	B I O B	month name	O O O O
+rental cars in boston	B I O B	state name	O O O O
+what ground transportation is available in san francisco	O O O O O O B I	city name	O O O O O O B I
+what ground transportation is available in san francisco	O O O O O O B I	fromloc airport name	O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	fromloc city name	O O O O O O O O
+ground transportation atlanta	O O B	city name	O O B
+ground transportation atlanta	O O B	airport name	O O O
+ground transportation atlanta	O O B	depart date day number	O O O
+what ground transportation is available in boston	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in boston	O O O O O O B	period of day	O O O O O O O
+what ground transportation is available in boston	O O O O O O B	state code	O O O O O O O
+is there ground transportation in boston from the airport	O O O O O B O O O	city name	O O O O O B O O O
+is there ground transportation in boston from the airport	O O O O O B O O O	day number	O O O O O O O O O
+is there ground transportation in boston from the airport	O O O O O B O O O	month name	O O O O O O O O O
+please list ground transportation in atlanta	O O O O O B	city name	O O O O O B
+please list ground transportation in atlanta	O O O O O B	airport code	O O O O O O
+please list ground transportation in atlanta	O O O O O B	time relative	O O O O O O
+what transportation is available from the dallas airport to downtown	O O O O O O B I O O	fromloc airport name	O O O O O O B I O O
+what transportation is available from the dallas airport to downtown	O O O O O O B I O O	fromloc city name	O O O O O O O O O O
+what transportation is available from the dallas airport to downtown	O O O O O O B I O O	today relative	O O O O O O O O O O
+what ground transport is available in baltimore	O O O O O O B	city name	O O O O O O B
+what ground transport is available in baltimore	O O O O O O B	depart date day number	O O O O O O O
+what ground transport is available in baltimore	O O O O O O B	or	O O O O O O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	fromloc airport name	O O O O O O B I O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	toloc city name	O O O O O O O O O B
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	flight time	O O O O O O O O O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	depart date day name	O O O O O O O O O O
+is there limo service at pittsburgh airport	O O B O O B I	transport type	O O B O O O O
+is there limo service at pittsburgh airport	O O B O O B I	airport name	O O O O O B I
+is there limo service at pittsburgh airport	O O B O O B I	toloc city name	O O O O O O O
+is there limo service at pittsburgh airport	O O B O O B I	depart date date relative	O O O O O O O
+please list available ground transportation in pittsburgh	O O O O O O B	city name	O O O O O O B
+please list available ground transportation in pittsburgh	O O O O O O B	fromloc city name	O O O O O O O
+please list available ground transportation in pittsburgh	O O O O O O B	day number	O O O O O O O
+what kind of ground transportation is available in las vegas	O O O O O O O O B I	city name	O O O O O O O O B I
+what kind of ground transportation is available in las vegas	O O O O O O O O B I	airport code	O O O O O O O O O O
+what kind of ground transportation is available in las vegas	O O O O O O O O B I	toloc airport name	O O O O O O O O O O
+what is the ground transportation between airport and baltimore	O O O O O O O O B	toloc city name	O O O O O O O O B
+what is the ground transportation between airport and baltimore	O O O O O O O O B	today relative	O O O O O O O O O
+what is the ground transportation between airport and baltimore	O O O O O O O O B	toloc airport name	O O O O O O O O O
+show me dallas ground transport	O O B O O	city name	O O B O O
+show me dallas ground transport	O O B O O	toloc city name	O O O O O
+show me dallas ground transport	O O B O O	or	O O O O O
+list ground transportation in detroit	O O O O B	city name	O O O O B
+list ground transportation in detroit	O O O O B	month name	O O O O O
+list ground transportation in detroit	O O O O B	day name	O O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	day name	O O O O O O B O O O B O O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	month name	O O O O O O O B O O O B O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	day number	O O O O O O O O B O O O B O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	day name	O O O O O O B O O O B O O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	month name	O O O O O O O B O O O B O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	day number	O O O O O O O O B O O O B O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	city name	O O O O O O O O O O O O O O B I
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	time	O O O O O O O O O O O O O O O O
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B B B O B B B O B I	toloc airport name	O O O O O O O O O O O O O O O O
+what ground transportation is available at baltimore	O O O O O O B	city name	O O O O O O B
+what ground transportation is available at baltimore	O O O O O O B	airport name	O O O O O O O
+what ground transportation is available at baltimore	O O O O O O B	state name	O O O O O O O
+can i have a rental car in houston	O O O O B I O B	transport type	O O O O B I O O
+can i have a rental car in houston	O O O O B I O B	city name	O O O O O O O B
+can i have a rental car in houston	O O O O B I O B	time	O O O O O O O O
+can i have a rental car in houston	O O O O B I O B	day number	O O O O O O O O
+can i get a taxi from long beach airport to downtown long beach	O O O O B O B I O O O B I	transport type	O O O O B O O O O O O O O
+can i get a taxi from long beach airport to downtown long beach	O O O O B O B I O O O B I	fromloc city name	O O O O O O B I O O O B I
+can i get a taxi from long beach airport to downtown long beach	O O O O B O B I O O O B I	fromloc city name	O O O O O O B I O O O B I
+can i get a taxi from long beach airport to downtown long beach	O O O O B O B I O O O B I	depart date date relative	O O O O O O O O O O O O O
+can i get a taxi from long beach airport to downtown long beach	O O O O B O B I O O O B I	fromloc airport name	O O O O O O O O O O O O O
+what ground transportation is available in denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in denver	O O O O O O B	time	O O O O O O O
+what ground transportation is available in denver	O O O O O O B	period of day	O O O O O O O
+what kind of ground transportation is there in denver	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is there in denver	O O O O O O O O B	today relative	O O O O O O O O O
+what kind of ground transportation is there in denver	O O O O O O O O B	airport code	O O O O O O O O O
+in boston is there ground transportation between airport and downtown	O B O O O O O O O O	city name	O B O O O O O O O O
+in boston is there ground transportation between airport and downtown	O B O O O O O O O O	day name	O O O O O O O O O O
+in boston is there ground transportation between airport and downtown	O B O O O O O O O O	period of day	O O O O O O O O O O
+tell me about ground transportation at salt lake city	O O O O O O B I I	city name	O O O O O O B I I
+tell me about ground transportation at salt lake city	O O O O O O B I I	fromloc city name	O O O O O O O O O
+tell me about ground transportation at salt lake city	O O O O O O B I I	day number	O O O O O O O O O
+show me a list of rental car fares at boston airport	O O O O O B I O O B I	transport type	O O O O O B I O O O O
+show me a list of rental car fares at boston airport	O O O O O B I O O B I	airport name	O O O O O O O O O B I
+show me a list of rental car fares at boston airport	O O O O O B I O O B I	day name	O O O O O O O O O O O
+show me a list of rental car fares at boston airport	O O O O O B I O O B I	fromloc airport name	O O O O O O O O O O O
+can you give me information on transportation from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O B O O B	fromloc city name	O O O O O O O O O O O B O O O
+can you give me information on transportation from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O B O O B	toloc city name	O O O O O O O O O O O O O O B
+can you give me information on transportation from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O B O O B	time relative	O O O O O O O O O O O O O O O
+can you give me information on transportation from the airport in philadelphia to downtown philadelphia	O O O O O O O O O O O B O O B	flight time	O O O O O O O O O O O O O O O
+what kind of ground transportation is available in atlanta	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is available in atlanta	O O O O O O O O B	depart date month name	O O O O O O O O O
+what kind of ground transportation is available in atlanta	O O O O O O O O B	airport code	O O O O O O O O O
+ground transport phoenix	O O B	city name	O O B
+ground transport phoenix	O O B	month name	O O O
+ground transport phoenix	O O B	flight time	O O O
+show me ground transportation information for dallas fort worth	O O O O O O B I I	city name	O O O O O O B I I
+show me ground transportation information for dallas fort worth	O O O O O O B I I	flight time	O O O O O O O O O
+show me ground transportation information for dallas fort worth	O O O O O O B I I	period of day	O O O O O O O O O
+what ground transportation can i take into boston	O O O O O O O B	city name	O O O O O O O B
+what ground transportation can i take into boston	O O O O O O O B	depart date day number	O O O O O O O O
+what ground transportation can i take into boston	O O O O O O O B	depart date day name	O O O O O O O O
+what is the ground transport in denver	O O O O O O B	city name	O O O O O O B
+what is the ground transport in denver	O O O O O O B	month name	O O O O O O O
+what is the ground transport in denver	O O O O O O B	flight time	O O O O O O O
+i need information on ground transportation from the airport in atlanta	O O O O O O O O O O B	fromloc city name	O O O O O O O O O O B
+i need information on ground transportation from the airport in atlanta	O O O O O O O O O O B	toloc airport name	O O O O O O O O O O O
+i need information on ground transportation from the airport in atlanta	O O O O O O O O O O B	toloc city name	O O O O O O O O O O O
+ground transportation atl to atlanta	O O B O B	airport code	O O B O O
+ground transportation atl to atlanta	O O B O B	toloc city name	O O O O B
+ground transportation atl to atlanta	O O B O B	day number	O O O O O
+ground transportation atl to atlanta	O O B O B	state code	O O O O O
+show ground transportation for pittsburgh	O O O O B	city name	O O O O B
+show ground transportation for pittsburgh	O O O O B	period of day	O O O O O
+show ground transportation for pittsburgh	O O O O B	flight time	O O O O O
+do you have ground transportation between airport and downtown in boston	O O O O O O O O O O B	toloc city name	O O O O O O O O O O B
+do you have ground transportation between airport and downtown in boston	O O O O O O O O O O B	state name	O O O O O O O O O O O
+do you have ground transportation between airport and downtown in boston	O O O O O O O O O O B	city name	O O O O O O O O O O O
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B I O B B	city name	O O O O O O O B I O O O
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B I O B B	day name	O O O O O O O O O O B O
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B I O B B	period of day	O O O O O O O O O O O B
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B I O B B	depart date month name	O O O O O O O O O O O O
+show me the ground transportation schedule in san francisco on thursday evening	O O O O O O O B I O B B	day number	O O O O O O O O O O O O
+is there ground transportation in baltimore	O O O O O B	city name	O O O O O B
+is there ground transportation in baltimore	O O O O O B	period of day	O O O O O O
+is there ground transportation in baltimore	O O O O O B	toloc city name	O O O O O O
+what kind of ground transportation is available in denver	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is available in denver	O O O O O O O O B	transport type	O O O O O O O O O
+what kind of ground transportation is available in denver	O O O O O O O O B	state code	O O O O O O O O O
+please give grounds transportation at dallas airport	O O O O O B I	airport name	O O O O O B I
+please give grounds transportation at dallas airport	O O O O O B I	flight time	O O O O O O O
+please give grounds transportation at dallas airport	O O O O O B I	time relative	O O O O O O O
+is there ground transportation from the boston airport to downtown boston	O O O O O O B I O O B	fromloc airport name	O O O O O O B I O O O
+is there ground transportation from the boston airport to downtown boston	O O O O O O B I O O B	toloc city name	O O O O O O O O O O B
+is there ground transportation from the boston airport to downtown boston	O O O O O O B I O O B	time	O O O O O O O O O O O
+is there ground transportation from the boston airport to downtown boston	O O O O O O B I O O B	depart date month name	O O O O O O O O O O O
+is there ground transportation in oakland	O O O O O B	city name	O O O O O B
+is there ground transportation in oakland	O O O O O B	airport code	O O O O O O
+is there ground transportation in oakland	O O O O O B	transport type	O O O O O O
+how much time does it take to go between the airport and downtown by ground transportation in dallas	O O O O O O O O O O O O O O O O O B	city name	O O O O O O O O O O O O O O O O O B
+how much time does it take to go between the airport and downtown by ground transportation in dallas	O O O O O O O O O O O O O O O O O B	day name	O O O O O O O O O O O O O O O O O O
+how much time does it take to go between the airport and downtown by ground transportation in dallas	O O O O O O O O O O O O O O O O O B	time	O O O O O O O O O O O O O O O O O O
+ground transport in denver	O O O B	city name	O O O B
+ground transport in denver	O O O B	transport type	O O O O
+ground transport in denver	O O O B	today relative	O O O O
+ground transportation denver	O O B	city name	O O B
+ground transportation denver	O O B	transport type	O O O
+ground transportation denver	O O B	state code	O O O
+please give me ground transportation information between dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	fromloc airport name	O O O O O O O B I I I O O O
+please give me ground transportation information between dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	toloc city name	O O O O O O O O O O O O O B
+please give me ground transportation information between dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	depart date month name	O O O O O O O O O O O O O O
+please give me ground transportation information between dallas fort worth airport and downtown dallas	O O O O O O O B I I I O O B	period of day	O O O O O O O O O O O O O O
+show me the ground transportation in denver	O O O O O O B	city name	O O O O O O B
+show me the ground transportation in denver	O O O O O O B	depart date day number	O O O O O O O
+show me the ground transportation in denver	O O O O O O B	airport name	O O O O O O O
+is there ground transportation available in denver	O O O O O O B	city name	O O O O O O B
+is there ground transportation available in denver	O O O O O O B	time relative	O O O O O O O
+is there ground transportation available in denver	O O O O O O B	time	O O O O O O O
+is ground transportation available in philadelphia	O O O O O B	city name	O O O O O B
+is ground transportation available in philadelphia	O O O O O B	toloc city name	O O O O O O
+is ground transportation available in philadelphia	O O O O O B	fromloc airport name	O O O O O O
+ground san francisco	O B I	city name	O B I
+ground san francisco	O B I	state name	O O O
+ground san francisco	O B I	flight time	O O O
+can you rent a car at stapleton international airport in denver	O O O O B O B I I O B	transport type	O O O O B O O O O O O
+can you rent a car at stapleton international airport in denver	O O O O B O B I I O B	fromloc airport name	O O O O O O B I I O O
+can you rent a car at stapleton international airport in denver	O O O O B O B I I O B	fromloc city name	O O O O O O O O O O B
+can you rent a car at stapleton international airport in denver	O O O O B O B I I O B	airport code	O O O O O O O O O O O
+can you rent a car at stapleton international airport in denver	O O O O B O B I I O B	depart date month name	O O O O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	city name	O O O O O O B I
+what ground transportation is available in san francisco	O O O O O O B I	flight time	O O O O O O O O
+what ground transportation is available in san francisco	O O O O O O B I	today relative	O O O O O O O O
+information on ground transportation in denver	O O O O O B	city name	O O O O O B
+information on ground transportation in denver	O O O O O B	airport name	O O O O O O
+information on ground transportation in denver	O O O O O B	fromloc city name	O O O O O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	fromloc airport name	O O O O O O B I O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	toloc city name	O O O O O O O O O B
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	day number	O O O O O O O O O O
+tell me about ground transportation between orlando international and orlando	O O O O O O B I O B	day name	O O O O O O O O O O
+what types of ground transportation are available in philadelphia	O O O O O O O O B	city name	O O O O O O O O B
+what types of ground transportation are available in philadelphia	O O O O O O O O B	flight time	O O O O O O O O O
+what types of ground transportation are available in philadelphia	O O O O O O O O B	toloc city name	O O O O O O O O O
+show me ground transportation in philadelphia on monday morning	O O O O O B O B B	city name	O O O O O B O O O
+show me ground transportation in philadelphia on monday morning	O O O O O B O B B	day name	O O O O O O O B O
+show me ground transportation in philadelphia on monday morning	O O O O O B O B B	period of day	O O O O O O O O B
+show me ground transportation in philadelphia on monday morning	O O O O O B O B B	today relative	O O O O O O O O O
+show me ground transportation in philadelphia on monday morning	O O O O O B O B B	transport type	O O O O O O O O O
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B O O B O B	city name	O O O O O O O B O O O O O
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B O O B O B	period of day	O O O O O O O O O O B O O
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B O O B O B	day name	O O O O O O O O O O O O B
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B O O B O B	today relative	O O O O O O O O O O O O O
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B O O B O B	month name	O O O O O O O O O O O O O
+in new york i'll need to rent a car	O B I O O O O O B	city name	O B I O O O O O O
+in new york i'll need to rent a car	O B I O O O O O B	transport type	O O O O O O O O B
+in new york i'll need to rent a car	O B I O O O O O B	airport code	O O O O O O O O O
+in new york i'll need to rent a car	O B I O O O O O B	fromloc city name	O O O O O O O O O
+what ground transportation is available at the boston airport	O O O O O O O B I	airport name	O O O O O O O B I
+what ground transportation is available at the boston airport	O O O O O O O B I	city name	O O O O O O O O O
+what ground transportation is available at the boston airport	O O O O O O O B I	depart date date relative	O O O O O O O O O
+what type of ground transportation is available at philadelphia airport	O O O O O O O O B I	airport name	O O O O O O O O B I
+what type of ground transportation is available at philadelphia airport	O O O O O O O O B I	or	O O O O O O O O O O
+what type of ground transportation is available at philadelphia airport	O O O O O O O O B I	depart date month name	O O O O O O O O O O
+what is the ground transportation available in the city of fort worth	O O O O O O O O O O B I	city name	O O O O O O O O O O B I
+what is the ground transportation available in the city of fort worth	O O O O O O O O O O B I	airport name	O O O O O O O O O O O O
+what is the ground transportation available in the city of fort worth	O O O O O O O O O O B I	fromloc city name	O O O O O O O O O O O O
+what ground transportation is available at the baltimore airport	O O O O O O O B I	airport name	O O O O O O O B I
+what ground transportation is available at the baltimore airport	O O O O O O O B I	state name	O O O O O O O O O
+what ground transportation is available at the baltimore airport	O O O O O O O B I	fromloc city name	O O O O O O O O O
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B I O B O	fromloc airport name	O O O O O O O O O O O B I O O O
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B I O B O	toloc city name	O O O O O O O O O O O O O O B O
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B I O B O	airport code	O O O O O O O O O O O O O O O O
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B I O B O	flight time	O O O O O O O O O O O O O O O O
+ground transportation denver	O O B	city name	O O B
+ground transportation denver	O O B	flight time	O O O
+ground transportation denver	O O B	depart date month name	O O O
+what ground transportation is available in denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is available in denver	O O O O O O B	state code	O O O O O O O
+what ground transportation is available in denver	O O O O O O B	airport code	O O O O O O O
+in pittsburgh i'd like to rent a car	O B O O O O O B	city name	O B O O O O O O
+in pittsburgh i'd like to rent a car	O B O O O O O B	transport type	O O O O O O O B
+in pittsburgh i'd like to rent a car	O B O O O O O B	fromloc airport name	O O O O O O O O
+in pittsburgh i'd like to rent a car	O B O O O O O B	airport name	O O O O O O O O
+what limousine service is in boston	O B O O O B	transport type	O B O O O O
+what limousine service is in boston	O B O O O B	city name	O O O O O B
+what limousine service is in boston	O B O O O B	fromloc city name	O O O O O O
+what limousine service is in boston	O B O O O B	period of day	O O O O O O
+ground transportation in denver	O O O B	city name	O O O B
+ground transportation in denver	O O O B	fromloc airport name	O O O O
+ground transportation in denver	O O O B	depart date day number	O O O O
+show ground transportation in denver	O O O O B	city name	O O O O B
+show ground transportation in denver	O O O O B	state code	O O O O O
+show ground transportation in denver	O O O O B	toloc city name	O O O O O
+rental cars in washington dc	B I O B B	transport type	B I O O O
+rental cars in washington dc	B I O B B	city name	O O O B O
+rental cars in washington dc	B I O B B	state code	O O O O B
+rental cars in washington dc	B I O B B	fromloc airport name	O O O O O
+rental cars in washington dc	B I O B B	time	O O O O O
+what kind of ground transportation is there in dallas	O O O O O O O O B	city name	O O O O O O O O B
+what kind of ground transportation is there in dallas	O O O O O O O O B	month name	O O O O O O O O O
+what kind of ground transportation is there in dallas	O O O O O O O O B	state code	O O O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in atlanta	O O O O O O B	fromloc airport name	O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	toloc city name	O O O O O O O
+i need information for ground transportation denver colorado	O O O O O O B B	city name	O O O O O O B O
+i need information for ground transportation denver colorado	O O O O O O B B	state name	O O O O O O O B
+i need information for ground transportation denver colorado	O O O O O O B B	period of day	O O O O O O O O
+i need information for ground transportation denver colorado	O O O O O O B B	flight time	O O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in atlanta	O O O O O O B	fromloc airport name	O O O O O O O
+what ground transportation is there in atlanta	O O O O O O B	fromloc city name	O O O O O O O
+ground transportation in denver	O O O B	city name	O O O B
+ground transportation in denver	O O O B	airport name	O O O O
+ground transportation in denver	O O O B	today relative	O O O O
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B I O O B	fromloc airport name	O O O O O O O O O O B I O O O
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B I O O B	toloc city name	O O O O O O O O O O O O O O B
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B I O O B	day name	O O O O O O O O O O O O O O O
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B I O O B	depart date day number	O O O O O O O O O O O O O O O
+is there a limousine service available from the pittsburgh airport	O O O B O O O O B I	transport type	O O O B O O O O O O
+is there a limousine service available from the pittsburgh airport	O O O B O O O O B I	fromloc airport name	O O O O O O O O B I
+is there a limousine service available from the pittsburgh airport	O O O B O O O O B I	toloc airport name	O O O O O O O O O O
+is there a limousine service available from the pittsburgh airport	O O O B O O O O B I	depart date month name	O O O O O O O O O O
+boston ground transportation	B O O	city name	B O O
+boston ground transportation	B O O	period of day	O O O
+boston ground transportation	B O O	depart date day name	O O O
+show me ground transportation in san francisco	O O O O O B I	city name	O O O O O B I
+show me ground transportation in san francisco	O O O O O B I	period of day	O O O O O O O
+show me ground transportation in san francisco	O O O O O B I	fromloc city name	O O O O O O O
+does tacoma airport offer transportation from the airport to the downtown area	O B I O O O O O O O O O	airport name	O B I O O O O O O O O O
+does tacoma airport offer transportation from the airport to the downtown area	O B I O O O O O O O O O	city name	O O O O O O O O O O O O
+does tacoma airport offer transportation from the airport to the downtown area	O B I O O O O O O O O O	state code	O O O O O O O O O O O O
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B I B I O O B	airport name	O O O O O O O B I O O O O O
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B I B I O O B	city name	O O O O O O O O O B I O O B
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B I B I O O B	city name	O O O O O O O O O B I O O B
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B I B I O O B	fromloc city name	O O O O O O O O O O O O O O
+what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	O O O O O O O B I B I O O B	state name	O O O O O O O O O O O O O O
+what's the ground transportation in denver	O O O O O B	city name	O O O O O B
+what's the ground transportation in denver	O O O O O B	toloc city name	O O O O O O
+what's the ground transportation in denver	O O O O O B	depart date day number	O O O O O O
+what's the ground transportation in westchester county	O O O O O B I	city name	O O O O O B I
+what's the ground transportation in westchester county	O O O O O B I	month name	O O O O O O O
+what's the ground transportation in westchester county	O O O O O B I	state code	O O O O O O O
+now show me ground transportation in houston on monday afternoon	O O O O O O B O B B	city name	O O O O O O B O O O
+now show me ground transportation in houston on monday afternoon	O O O O O O B O B B	day name	O O O O O O O O B O
+now show me ground transportation in houston on monday afternoon	O O O O O O B O B B	period of day	O O O O O O O O O B
+now show me ground transportation in houston on monday afternoon	O O O O O O B O B B	depart date month name	O O O O O O O O O O
+now show me ground transportation in houston on monday afternoon	O O O O O O B O B B	depart date date relative	O O O O O O O O O O
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B B B	city name	O O O O O O O O O O O B O O
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B B B	period of day	O O O O O O O O O O O O B B
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B B B	period of day	O O O O O O O O O O O O B B
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B B B	fromloc city name	O O O O O O O O O O O O O O
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B B B	airport name	O O O O O O O O O O O O O O
+i'll need to rent a car in washington dc	O O O O O B O B B	transport type	O O O O O B O O O
+i'll need to rent a car in washington dc	O O O O O B O B B	city name	O O O O O O O B O
+i'll need to rent a car in washington dc	O O O O O B O B B	state code	O O O O O O O O B
+i'll need to rent a car in washington dc	O O O O O B O B B	fromloc city name	O O O O O O O O O
+i'll need to rent a car in washington dc	O O O O O B O B B	today relative	O O O O O O O O O
+i need to rent a car in milwaukee	O O O O O B O B	transport type	O O O O O B O O
+i need to rent a car in milwaukee	O O O O O B O B	city name	O O O O O O O B
+i need to rent a car in milwaukee	O O O O O B O B	day name	O O O O O O O O
+i need to rent a car in milwaukee	O O O O O B O B	state code	O O O O O O O O
+what ground transportation is available at denver	O O O O O O B	city name	O O O O O O B
+what ground transportation is available at denver	O O O O O O B	period of day	O O O O O O O
+what ground transportation is available at denver	O O O O O O B	time relative	O O O O O O O
+what ground transportation is available from dallas fort worth airport to downtown dallas	O O O O O O B I I I O O B	airport name	O O O O O O B I I I O O O
+what ground transportation is available from dallas fort worth airport to downtown dallas	O O O O O O B I I I O O B	city name	O O O O O O O O O O O O B
+what ground transportation is available from dallas fort worth airport to downtown dallas	O O O O O O B I I I O O B	time	O O O O O O O O O O O O O
+what ground transportation is available from dallas fort worth airport to downtown dallas	O O O O O O B I I I O O B	fromloc city name	O O O O O O O O O O O O O
+what ground transportation is available between phoenix airport and downtown phoenix	O O O O O O B I O O B	airport name	O O O O O O B I O O O
+what ground transportation is available between phoenix airport and downtown phoenix	O O O O O O B I O O B	city name	O O O O O O O O O O B
+what ground transportation is available between phoenix airport and downtown phoenix	O O O O O O B I O O B	toloc city name	O O O O O O O O O O O
+what ground transportation is available between phoenix airport and downtown phoenix	O O O O O O B I O O B	day number	O O O O O O O O O O O
+what ground transportation is available between pittsburgh airport and downtown pittsburgh	O O O O O O B I O O B	airport name	O O O O O O B I O O O
+what ground transportation is available between pittsburgh airport and downtown pittsburgh	O O O O O O B I O O B	city name	O O O O O O O O O O B
+what ground transportation is available between pittsburgh airport and downtown pittsburgh	O O O O O O B I O O B	fromloc city name	O O O O O O O O O O O
+what ground transportation is available between pittsburgh airport and downtown pittsburgh	O O O O O O B I O O B	depart date month name	O O O O O O O O O O O
+what ground transportation is available between dca and downtown washington	O O O O O O B O O B	airport code	O O O O O O B O O O
+what ground transportation is available between dca and downtown washington	O O O O O O B O O B	city name	O O O O O O O O O B
+what ground transportation is available between dca and downtown washington	O O O O O O B O O B	state code	O O O O O O O O O O
+what ground transportation is available between dca and downtown washington	O O O O O O B O O B	day number	O O O O O O O O O O
+what ground transportation is available between milwaukee airport and downtown milwaukee	O O O O O O B I O O B	airport name	O O O O O O B I O O O
+what ground transportation is available between milwaukee airport and downtown milwaukee	O O O O O O B I O O B	city name	O O O O O O O O O O B
+what ground transportation is available between milwaukee airport and downtown milwaukee	O O O O O O B I O O B	time	O O O O O O O O O O O
+what ground transportation is available between milwaukee airport and downtown milwaukee	O O O O O O B I O O B	depart date day name	O O O O O O O O O O O
+please show ground transportation to milwaukee	O O O O O B	city name	O O O O O B
+please show ground transportation to milwaukee	O O O O O B	day number	O O O O O O
+please show ground transportation to milwaukee	O O O O O B	depart date month name	O O O O O O
+what types of ground transportation are available in denver	O O O O O O O O B	city name	O O O O O O O O B
+what types of ground transportation are available in denver	O O O O O O O O B	or	O O O O O O O O O
+what types of ground transportation are available in denver	O O O O O O O O B	fromloc airport name	O O O O O O O O O
+is ground transportation available in st. louis	O O O O O B I	city name	O O O O O B I
+is ground transportation available in st. louis	O O O O O B I	airport code	O O O O O O O
+is ground transportation available in st. louis	O O O O O B I	depart date day number	O O O O O O O
+is there ground transportation available at the indianapolis airport	O O O O O O O B I	airport name	O O O O O O O B I
+is there ground transportation available at the indianapolis airport	O O O O O O O B I	month name	O O O O O O O O O
+is there ground transportation available at the indianapolis airport	O O O O O O O B I	depart date day number	O O O O O O O O O
+is there ground transportation available at the denver airport	O O O O O O O B I	airport name	O O O O O O O B I
+is there ground transportation available at the denver airport	O O O O O O O B I	or	O O O O O O O O O
+is there ground transportation available at the denver airport	O O O O O O O B I	depart date day name	O O O O O O O O O
+is there ground transportation available at the salt lake city airport	O O O O O O O B I I I	airport name	O O O O O O O B I I I
+is there ground transportation available at the salt lake city airport	O O O O O O O B I I I	toloc airport name	O O O O O O O O O O O
+is there ground transportation available at the salt lake city airport	O O O O O O O B I I I	depart date day number	O O O O O O O O O O O
+is there ground transportation available at the phoenix airport	O O O O O O O B I	airport name	O O O O O O O B I
+is there ground transportation available at the phoenix airport	O O O O O O O B I	fromloc airport name	O O O O O O O O O
+is there ground transportation available at the phoenix airport	O O O O O O O B I	time	O O O O O O O O O
+i need to rent a car at tampa	O O O O O B O B	transport type	O O O O O B O O
+i need to rent a car at tampa	O O O O O B O B	city name	O O O O O O O B
+i need to rent a car at tampa	O O O O O B O B	state code	O O O O O O O O
+i need to rent a car at tampa	O O O O O B O B	depart date day name	O O O O O O O O
+ground transportation in las vegas	O O O B I	city name	O O O B I
+ground transportation in las vegas	O O O B I	day name	O O O O O
+ground transportation in las vegas	O O O B I	period of day	O O O O O
+ground transportation for las vegas	O O O B I	city name	O O O B I
+ground transportation for las vegas	O O O B I	day number	O O O O O
+ground transportation for las vegas	O O O B I	airport code	O O O O O
+show me ground transportation in phoenix	O O O O O B	city name	O O O O O B
+show me ground transportation in phoenix	O O O O O B	depart date date relative	O O O O O O
+show me ground transportation in phoenix	O O O O O B	airport name	O O O O O O
+show me ground transportation in fort worth	O O O O O B I	city name	O O O O O B I
+show me ground transportation in fort worth	O O O O O B I	time relative	O O O O O O O
+show me ground transportation in fort worth	O O O O O B I	day name	O O O O O O O
+what ground transportation is there in baltimore	O O O O O O B	city name	O O O O O O B
+what ground transportation is there in baltimore	O O O O O O B	fromloc airport name	O O O O O O O
+what ground transportation is there in baltimore	O O O O O O B	depart date month name	O O O O O O O
+list ground transportation in baltimore	O O O O B	city name	O O O O B
+list ground transportation in baltimore	O O O O B	toloc city name	O O O O O
+list ground transportation in baltimore	O O O O B	day number	O O O O O
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B I O O O O O O O O O O B	airport name	O O O O O O B I O O O O O O O O O O O
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B I O O O O O O O O O O B	period of day	O O O O O O O O O O O O O O O O O O B
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B I O O O O O O O O O O B	depart date date relative	O O O O O O O O O O O O O O O O O O O
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B I O O O O O O O O O O B	toloc airport name	O O O O O O O O O O O O O O O O O O O
+what ground transportation is available from la guardia airport into new york city	O O O O O O B I I O B I I	airport name	O O O O O O B I I O O O O
+what ground transportation is available from la guardia airport into new york city	O O O O O O B I I O B I I	city name	O O O O O O O O O O B I I
+what ground transportation is available from la guardia airport into new york city	O O O O O O B I I O B I I	airport code	O O O O O O O O O O O O O
+what ground transportation is available from la guardia airport into new york city	O O O O O O B I I O B I I	flight time	O O O O O O O O O O O O O
+is there ground transportation from lga into new york city	O O O O O B O B I I	airport code	O O O O O B O O O O
+is there ground transportation from lga into new york city	O O O O O B O B I I	city name	O O O O O O O B I I
+is there ground transportation from lga into new york city	O O O O O B O B I I	toloc city name	O O O O O O O O O O
+is there ground transportation from lga into new york city	O O O O O B O B I I	depart date month name	O O O O O O O O O O
+please list the ground transportation from lga into new york city	O O O O O O B O B I I	airport code	O O O O O O B O O O O
+please list the ground transportation from lga into new york city	O O O O O O B O B I I	city name	O O O O O O O O B I I
+please list the ground transportation from lga into new york city	O O O O O O B O B I I	fromloc airport name	O O O O O O O O O O O
+please list the ground transportation from lga into new york city	O O O O O O B O B I I	toloc city name	O O O O O O O O O O O
+please list ground transportation from ewr into new york city	O O O O O B O B I I	airport code	O O O O O B O O O O
+please list ground transportation from ewr into new york city	O O O O O B O B I I	city name	O O O O O O O B I I
+please list ground transportation from ewr into new york city	O O O O O B O B I I	depart date month name	O O O O O O O O O O
+please list ground transportation from ewr into new york city	O O O O O B O B I I	today relative	O O O O O O O O O O
+tell me about the ground transportation from nashville airport	O O O O O O O B I	airport name	O O O O O O O B I
+tell me about the ground transportation from nashville airport	O O O O O O O B I	day name	O O O O O O O O O
+tell me about the ground transportation from nashville airport	O O O O O O O B I	depart date date relative	O O O O O O O O O
+what type of ground transportation is there at the las vegas airport	O O O O O O O O O B I I	airport name	O O O O O O O O O B I I
+what type of ground transportation is there at the las vegas airport	O O O O O O O O O B I I	city name	O O O O O O O O O O O O
+what type of ground transportation is there at the las vegas airport	O O O O O O O O O B I I	depart date month name	O O O O O O O O O O O O
+is there taxi service at the ontario airport	O O B I O O B I	transport type	O O B I O O O O
+is there taxi service at the ontario airport	O O B I O O B I	airport name	O O O O O O B I
+is there taxi service at the ontario airport	O O B I O O B I	airport code	O O O O O O O O
+is there taxi service at the ontario airport	O O B I O O B I	fromloc airport name	O O O O O O O O
